@@ -122,6 +122,7 @@ c:/windows/repair/sam
 c:/windows/repair/security
 c:/windows/repair/software
 c:/windows/repair/system
+c:/windows/system.ini
 c:/windows/system32/config/appevent.evt
 c:/windows/system32/config/appevent.evt (application log)
 c:/windows/system32/config/default.sav
