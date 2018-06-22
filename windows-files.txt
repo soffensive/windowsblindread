@@ -124,7 +124,6 @@ c:/windows/repair/software
 c:/windows/repair/system
 c:/windows/system.ini
 c:/windows/system32/config/appevent.evt
-c:/windows/system32/config/appevent.evt (application log)
 c:/windows/system32/config/default.sav
 c:/windows/system32/config/regback/default
 c:/windows/system32/config/regback/sam
@@ -133,15 +132,12 @@ c:/windows/system32/config/regback/software
 c:/windows/system32/config/regback/system
 c:/windows/system32/config/sam
 c:/windows/system32/config/secevent.evt
-c:/windows/system32/config/secevent.evt (security log)
 c:/windows/system32/config/security.sav
 c:/windows/system32/config/software.sav
 c:/windows/system32/config/system
 c:/windows/system32/config/system.sa
 c:/windows/system32/config/system.sav
 c:/windows/system32/drivers/etc/hosts
-c:/windows/system32/drivers/etc/hosts (dns entries)
-c:/windows/system32/drivers/etc/networks (network settings)
 c:/windows/system32/inetsrv/config/applicationhost.config
 c:/windows/system32/inetsrv/config/schema/aspnet_schema.xml
 c:/windows/system32/logfiles/httperr/httperr1.log
