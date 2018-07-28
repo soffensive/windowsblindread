@@ -1,3 +1,4 @@
+C:/MININT/SMSOSD/OSDLOGS/VARIABLES.DAT
 c:/$recycle.bin/s-1-5-18/desktop.ini
 c:/apache/log/access.log
 c:/apache/log/access_log
@@ -107,10 +108,14 @@ c:/windows/iis6.log (5,6 or 7)
 c:/windows/iis7.log
 c:/windows/iis8.log
 c:/windows/notepad.exe
+c:/windows/panther/setupinfo
+c:/windows/panther/setupinfo.bak
 c:/windows/panther/sysprep.inf
 c:/windows/panther/sysprep.xml
 c:/windows/panther/unattend.txt
 c:/windows/panther/unattend.xml
+c:/windows/panther/unattend/setupinfo
+c:/windows/panther/unattend/setupinfo.bak
 c:/windows/panther/unattend/sysprep.inf
 c:/windows/panther/unattend/sysprep.xml
 c:/windows/panther/unattend/unattend.txt
