@@ -1,5 +1,5 @@
-C:/MININT/SMSOSD/OSDLOGS/VARIABLES.DAT
 c:/$recycle.bin/s-1-5-18/desktop.ini
+c:/MININT/SMSOSD/OSDLOGS/VARIABLES.DAT
 c:/apache/log/access.log
 c:/apache/log/access_log
 c:/apache/log/error.log
@@ -58,15 +58,30 @@ c:/php5/sessions/
 c:/program files (x86)/apache group/apache/conf/access.log
 c:/program files (x86)/apache group/apache/conf/error.log
 c:/program files (x86)/apache group/apache/conf/httpd.conf
+c:/program files (x86)/apache group/apache/logs/access.log
+c:/program files (x86)/apache group/apache/logs/error.log
 c:/program files (x86)/apache group/apache2/conf/httpd.conf
 c:/program files (x86)/filezilla server/filezilla server.xml
+c:/program files (x86)/mysql/data/hostname.err
+c:/program files (x86)/mysql/data/mysql-bin.log
+c:/program files (x86)/mysql/data/mysql.err
+c:/program files (x86)/mysql/data/mysql.log
+c:/program files (x86)/mysql/my.cnf
+c:/program files (x86)/mysql/my.ini
+c:/program files (x86)/mysql/mysql server 5.0/data/hostname.err
+c:/program files (x86)/mysql/mysql server 5.0/data/mysql-bin.log
+c:/program files (x86)/mysql/mysql server 5.0/data/mysql.err
+c:/program files (x86)/mysql/mysql server 5.0/data/mysql.log
+c:/program files (x86)/mysql/mysql server 5.0/my.cnf
+c:/program files (x86)/mysql/mysql server 5.0/my.ini
+c:/program files (x86)/mysql/mysql server 5.1/my.ini
 c:/program files (x86)/xampp/apache/conf/httpd.conf
+c:/program files/apache group/apache/conf/access.log
+c:/program files/apache group/apache/conf/error.log
 c:/program files/apache group/apache/conf/httpd.conf
 c:/program files/apache group/apache/logs/access.log
 c:/program files/apache group/apache/logs/error.log
 c:/program files/apache group/apache2/conf/httpd.conf
-c:/program files/apachegroup/apache/conf/httpd.conf
-c:/program files/apachegroup/apache2/conf/httpd.conf
 c:/program files/filezilla server/filezilla server.xml
 c:/program files/mysql/data/hostname.err
 c:/program files/mysql/data/mysql-bin.log
@@ -82,10 +97,6 @@ c:/program files/mysql/mysql server 5.0/my.cnf
 c:/program files/mysql/mysql server 5.0/my.ini
 c:/program files/mysql/mysql server 5.1/my.ini
 c:/program files/xampp/apache/conf/httpd.conf
-c:/program files/xampp/apache/conf/httpd.confetc/passwd
-c:/programfiles/apachegroup/apache/conf/httpd.conf
-c:/programfiles/apachegroup/apache2/conf/httpd.conf
-c:/programfiles/xampp/apache/conf/httpd.conf
 c:/sysprep.inf
 c:/sysprep.xml
 c:/sysprep/sysprep.inf
@@ -103,8 +114,8 @@ c:/windows/csc/v2.0.6/pq
 c:/windows/csc/v2.0.6/sm
 c:/windows/debug/netsetup.log
 c:/windows/explorer.exe
+c:/windows/iis5.log
 c:/windows/iis6.log
-c:/windows/iis6.log (5,6 or 7)
 c:/windows/iis7.log
 c:/windows/iis8.log
 c:/windows/notepad.exe
