@@ -110,6 +110,8 @@ c:/unattended.xml
 c:/users/administrator/desktop/desktop.ini
 c:/users/administrator/ntuser.dat
 c:/users/administrator/ntuser.ini
+c:/users/administrator/.aws/credentials
+c:/users/administrator/.aws/config
 c:/windows/csc/v2.0.6/pq
 c:/windows/csc/v2.0.6/sm
 c:/windows/debug/netsetup.log
