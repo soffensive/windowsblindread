@@ -107,6 +107,7 @@ c:/unattend.txt
 c:/unattend.xml
 c:/unattended.txt
 c:/unattended.xml
+C:/users/administrator/appdata/Roaming/Microsoft/Windows/PowerShell/PSReadline/ConsoleHost_history.txt
 c:/users/administrator/desktop/desktop.ini
 c:/users/administrator/ntuser.dat
 c:/users/administrator/ntuser.ini
