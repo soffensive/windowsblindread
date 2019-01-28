@@ -107,13 +107,23 @@ c:/unattend.txt
 c:/unattend.xml
 c:/unattended.txt
 c:/unattended.xml
-C:/users/administrator/appdata/Roaming/Microsoft/Windows/PowerShell/PSReadline/ConsoleHost_history.txt
+c:/users/administrator/.aws/config
+c:/users/administrator/.aws/credentials
+c:/users/administrator/.elasticbeanstalk/config 
+c:/users/administrator/appdata/Roaming/Microsoft/Windows/PowerShell/PSReadline/ConsoleHost_history.txt
+c:/users/administrator/appdata/local/google/chrome/user data/default/bookmarks
+c:/users/administrator/appdata/local/google/chrome/user data/default/bookmarks.bak
+c:/users/administrator/appdata/local/google/chrome/user data/default/cookies
+c:/users/administrator/appdata/local/google/chrome/user data/default/history
+c:/users/administrator/appdata/local/google/chrome/user data/default/last session
+c:/users/administrator/appdata/local/google/chrome/user data/default/login data
+c:/users/administrator/appdata/local/google/chrome/user data/default/preferences
+c:/users/administrator/appdata/local/google/chrome/user data/default/secure preferences
+c:/users/administrator/appdata/local/google/chrome/user data/default/top sites
 c:/users/administrator/desktop/desktop.ini
+c:/users/administrator/desktop/proof.txt
 c:/users/administrator/ntuser.dat
 c:/users/administrator/ntuser.ini
-c:/users/administrator/.aws/credentials
-c:/users/administrator/.aws/config
-c:/users/administrator/.elasticbeanstalk/config 
 c:/windows/csc/v2.0.6/pq
 c:/windows/csc/v2.0.6/sm
 c:/windows/debug/netsetup.log
@@ -205,4 +215,3 @@ c:/xampp/tomcat/conf/tomcat-users.xml
 c:/xampp/tomcat/conf/web.xml
 c:/xampp/webalizer/webalizer.conf
 c:/xampp/webdav/webdav.txt
-c:/users/administrator/desktop/proof.txt
