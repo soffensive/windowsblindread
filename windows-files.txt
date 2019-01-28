@@ -97,6 +97,7 @@ c:/program files/mysql/mysql server 5.0/my.cnf
 c:/program files/mysql/mysql server 5.0/my.ini
 c:/program files/mysql/mysql server 5.1/my.ini
 c:/program files/xampp/apache/conf/httpd.conf
+c:/programdata/mcafee/common framework/sitelist.xml
 c:/sysprep.inf
 c:/sysprep.xml
 c:/sysprep/sysprep.inf
