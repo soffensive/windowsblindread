@@ -110,7 +110,7 @@ c:/unattended.txt
 c:/unattended.xml
 c:/users/administrator/.aws/config
 c:/users/administrator/.aws/credentials
-c:/users/administrator/.elasticbeanstalk/config 
+c:/users/administrator/.elasticbeanstalk/config
 c:/users/administrator/appdata/Roaming/Microsoft/Windows/PowerShell/PSReadline/ConsoleHost_history.txt
 c:/users/administrator/appdata/local/google/chrome/user data/default/bookmarks
 c:/users/administrator/appdata/local/google/chrome/user data/default/bookmarks.bak
@@ -178,7 +178,9 @@ c:/windows/system32/license.rtf
 c:/windows/system32/logfiles/httperr/httperr1.log
 c:/windows/system32/sysprep.inf
 c:/windows/system32/sysprep.xml
+c:/windows/system32/sysprep/panther/unattend.xml
 c:/windows/system32/sysprep/sysprep.xml
+c:/windows/system32/sysprep/unattend.xml
 c:/windows/system32/sysprepsysprep.inf
 c:/windows/system32/sysprepsysprep.xml
 c:/windows/system32/sysprepunattend.txt
