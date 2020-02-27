@@ -24,8 +24,14 @@ c:/documents and settings/administrator/ntuser.ini
 c:/home/bin/stable/apache/php.ini
 c:/home2/bin/stable/apache/php.ini
 c:/inetpub/logs/logfiles
+c:/inetpub/wwwroot/Site.master
+c:/inetpub/wwwroot/app_start/bundleconfig.cs
+c:/inetpub/wwwroot/app_start/filterconfig.cs
+c:/inetpub/wwwroot/app_start/routeconfig.cs
 c:/inetpub/wwwroot/global.asa
+c:/inetpub/wwwroot/global.asax
 c:/inetpub/wwwroot/index.asp
+c:/inetpub/wwwroot/packages.config
 c:/inetpub/wwwroot/web.config
 c:/log/access.log
 c:/log/access_log
@@ -172,6 +178,8 @@ c:/windows/system32/config/system.sa
 c:/windows/system32/config/system.sav
 c:/windows/system32/drivers/etc/hosts
 c:/windows/system32/eula.txt
+c:/windows/system32/inetsrv/config/Administration.config
+c:/windows/system32/inetsrv/config/Redirection.config
 c:/windows/system32/inetsrv/config/applicationhost.config
 c:/windows/system32/inetsrv/config/schema/aspnet_schema.xml
 c:/windows/system32/license.rtf
