@@ -1,3 +1,20 @@
+C:/Program Files (x86)/Tomcat/LICENSE
+C:/Program Files (x86)/Tomcat/RELEASE-NOTES
+C:/Program Files/Apache Software Foundation/Tomcat 8.0/LICENSE
+C:/Program Files/Apache Software Foundation/Tomcat 8.0/RELEASE-NOTES
+C:/Program Files/Apache Software Foundation/Tomcat 8.5/LICENSE
+C:/Program Files/Apache Software Foundation/Tomcat 8.5/RELEASE-NOTES
+C:/Program Files/Apache Software Foundation/Tomcat 9.0/LICENSE
+C:/Program Files/Apache Software Foundation/Tomcat 9.0/RELEASE-NOTES
+C:/Program Files/Tomcat/LICENSE
+C:/Program Files/Tomcat/RELEASE-NOTES
+C:/Tomcat/LICENSE
+C:/Tomcat/RELEASE-NOTES
+C:/nginx/conf/mime.types
+C:/nginx/conf/nginx.conf
+C:/nginx/conf/sites-enabled/default.conf
+C:/nginx/logs/access.log
+C:/nginx/logs/error.log
 c:/$recycle.bin/s-1-5-18/desktop.ini
 c:/MININT/SMSOSD/OSDLOGS/VARIABLES.DAT
 c:/apache/log/access.log
