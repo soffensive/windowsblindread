@@ -2896,6 +2896,7 @@ c:/users/administrator/appdata/local/google/chrome/user data/default/top sites
 c:/users/administrator/appdata/roaming/microsoft/windows/powershell/psreadline/consolehost_history.txt
 c:/users/administrator/.aws/config
 c:/users/administrator/.aws/credentials
+c:/users/administrator/.azure/accesstokens.json 
 c:/users/administrator/desktop/desktop.ini
 c:/users/administrator/desktop/proof.txt
 c:/users/administrator/.elasticbeanstalk/config
