@@ -1,20 +1,29 @@
+c:/$recycle.bin/s-1-5-18/desktop.ini
+c:/$sysreset/appxlogs/restoredownlevelalluserstore.log
+c:/$sysreset/logs/diagerr.xml
+c:/$sysreset/logs/diagwrn.xml
+c:/$sysreset/logs/sessionid.xml
+c:/$sysreset/logs/setupact.log
+c:/$sysreset/logs/setuperr.log
+c:/$sysreset/logs/timestamp.xml
+c:/$sysreset/resetsession.xml
 c:/all.txt
-c:/apache2/log/access_log
 c:/apache2/log/access.log
-c:/apache2/log/error_log
+c:/apache2/log/access_log
 c:/apache2/log/error.log
-c:/apache2/logs/access_log
+c:/apache2/log/error_log
 c:/apache2/logs/access.log
-c:/apache2/logs/error_log
+c:/apache2/logs/access_log
 c:/apache2/logs/error.log
-c:/apache/log/access_log
+c:/apache2/logs/error_log
 c:/apache/log/access.log
-c:/apache/log/error_log
+c:/apache/log/access_log
 c:/apache/log/error.log
-c:/apache/logs/access_log
+c:/apache/log/error_log
 c:/apache/logs/access.log
-c:/apache/logs/error_log
+c:/apache/logs/access_log
 c:/apache/logs/error.log
+c:/apache/logs/error_log
 c:/apache/php/php.ini
 c:/boot.ini
 c:/documents and settings/administrator/desktop/desktop.ini
@@ -22,6 +31,8 @@ c:/documents and settings/administrator/ntuser.dat
 c:/documents and settings/administrator/ntuser.ini
 c:/home2/bin/stable/apache/php.ini
 c:/home/bin/stable/apache/php.ini
+c:/home/site/wwwroot/appsettings.json
+c:/home/site/wwwroot/web.config
 c:/inetpub/logs/logfiles
 c:/inetpub/wwwroot/app_start/bundleconfig.cs
 c:/inetpub/wwwroot/app_start/filterconfig.cs
@@ -32,16 +43,16 @@ c:/inetpub/wwwroot/index.asp
 c:/inetpub/wwwroot/packages.config
 c:/inetpub/wwwroot/site.master
 c:/inetpub/wwwroot/web.config
-c:/log/access_log
 c:/log/access.log
-c:/log/error_log
+c:/log/access_log
 c:/log/error.log
+c:/log/error_log
 c:/log/httpd/access_log
 c:/log/httpd/error_log
-c:/logs/access_log
 c:/logs/access.log
-c:/logs/error_log
+c:/logs/access_log
 c:/logs/error.log
+c:/logs/error_log
 c:/logs/httpd/access_log
 c:/logs/httpd/error_log
 c:/minint/smsosd/osdlogs/variables.dat
@@ -57,10 +68,10 @@ c:/nginx/conf/nginx.conf
 c:/nginx/conf/sites-enabled/default.conf
 c:/nginx/logs/access.log
 c:/nginx/logs/error.log
-c:/opt/xampp/logs/access_log
 c:/opt/xampp/logs/access.log
-c:/opt/xampp/logs/error_log
+c:/opt/xampp/logs/access_log
 c:/opt/xampp/logs/error.log
+c:/opt/xampp/logs/error_log
 c:/php4/php.ini
 c:/php4/sessions/
 c:/php5/php.ini
@@ -2862,20 +2873,11 @@ c:/program files (x86)/windowspowershell/modules/powershellget/1.0.0.1/psget.for
 c:/program files (x86)/xampp/apache/conf/httpd.conf
 c:/program files/xampp/apache/conf/httpd.conf
 c:/recovery/reagentold.xml
-c:/$recycle.bin/s-1-5-18/desktop.ini
 c:/scripts/enumeration/windows_path_enumerate.ps1
 c:/sysprep.inf
 c:/sysprep/sysprep.inf
 c:/sysprep/sysprep.xml
 c:/sysprep.xml
-c:/$sysreset/appxlogs/restoredownlevelalluserstore.log
-c:/$sysreset/logs/diagerr.xml
-c:/$sysreset/logs/diagwrn.xml
-c:/$sysreset/logs/sessionid.xml
-c:/$sysreset/logs/setupact.log
-c:/$sysreset/logs/setuperr.log
-c:/$sysreset/logs/timestamp.xml
-c:/$sysreset/resetsession.xml
 c:/system32/inetsrv/metabase.xml
 c:/system volume information/wpsettings.dat
 c:/tomcat/license
@@ -4258,6 +4260,9 @@ c:/windows/logs/dpx/setuperr.log
 c:/windows/logs/mosetup/actionlist.xml
 c:/windows/logs/mosetup/deviceinventory.xml
 c:/windows/logs/mosetup/updateagent.log
+c:/windows/logs/pbr/$windows.~bt_rollback/logrestore.txt
+c:/windows/logs/pbr/$windows.~bt_rollback/rollbackinfo.ini
+c:/windows/logs/pbr/$windows.~bt_rollback/trackedvolumes.ini
 c:/windows/logs/pbr/diagerr.xml
 c:/windows/logs/pbr/diagwrn.xml
 c:/windows/logs/pbr/inf_ramdisk/setupapi.dev.log
@@ -4275,9 +4280,6 @@ c:/windows/logs/pbr/sessionid.xml
 c:/windows/logs/pbr/setupact.log
 c:/windows/logs/pbr/setuperr.log
 c:/windows/logs/pbr/timestamp.xml
-c:/windows/logs/pbr/$windows.~bt_rollback/logrestore.txt
-c:/windows/logs/pbr/$windows.~bt_rollback/rollbackinfo.ini
-c:/windows/logs/pbr/$windows.~bt_rollback/trackedvolumes.ini
 c:/windows/logs/recenv_ramdisk/diagerr.xml
 c:/windows/logs/recenv_ramdisk/diagwrn.xml
 c:/windows/logs/recenv_ramdisk/setupact.log
