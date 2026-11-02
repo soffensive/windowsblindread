@@ -8,6 +8,94 @@ c:/$sysreset/logs/setuperr.log
 c:/$sysreset/logs/timestamp.xml
 c:/$sysreset/resetsession.xml
 c:/all.txt
+c:/apache-maven/conf/settings.xml
+c:/apache/conf/extra/httpd-default.conf
+c:/apache/conf/extra/httpd-ssl.conf
+c:/apache/conf/extra/httpd-vhosts.conf
+c:/apache/conf/extra/httpd-xampp.conf
+c:/apache/conf/httpd.conf
+c:/apache/conf/mime.types
+c:/apache/htdocs/.dockerignore
+c:/apache/htdocs/.env
+c:/apache/htdocs/.env.backup
+c:/apache/htdocs/.env.bak
+c:/apache/htdocs/.env.development
+c:/apache/htdocs/.env.local
+c:/apache/htdocs/.env.production
+c:/apache/htdocs/.git/config
+c:/apache/htdocs/.git/head
+c:/apache/htdocs/.git/index
+c:/apache/htdocs/.hg/hgrc
+c:/apache/htdocs/.htaccess
+c:/apache/htdocs/.htpasswd
+c:/apache/htdocs/.npmrc
+c:/apache/htdocs/.svn/entries
+c:/apache/htdocs/.svn/wc.db
+c:/apache/htdocs/.user.ini
+c:/apache/htdocs/.yarnrc.yml
+c:/apache/htdocs/app/config/parameters.yml
+c:/apache/htdocs/app/etc/env.php
+c:/apache/htdocs/app/etc/local.xml
+c:/apache/htdocs/application.properties
+c:/apache/htdocs/application.yaml
+c:/apache/htdocs/application.yml
+c:/apache/htdocs/application/config/config.php
+c:/apache/htdocs/application/config/database.php
+c:/apache/htdocs/appsettings.development.json
+c:/apache/htdocs/appsettings.json
+c:/apache/htdocs/appsettings.local.json
+c:/apache/htdocs/appsettings.production.json
+c:/apache/htdocs/appsettings.staging.json
+c:/apache/htdocs/auth.json
+c:/apache/htdocs/compose.yaml
+c:/apache/htdocs/composer.json
+c:/apache/htdocs/composer.lock
+c:/apache/htdocs/config/app.php
+c:/apache/htdocs/config/config.php
+c:/apache/htdocs/config/database.php
+c:/apache/htdocs/config/database.yml
+c:/apache/htdocs/config/parameters.yml
+c:/apache/htdocs/config/secrets.yml
+c:/apache/htdocs/configuration.php
+c:/apache/htdocs/connections.config
+c:/apache/htdocs/connectionstrings.config
+c:/apache/htdocs/debug.log
+c:/apache/htdocs/docker-compose.yml
+c:/apache/htdocs/dockerfile
+c:/apache/htdocs/drupal/sites/default/settings.php
+c:/apache/htdocs/error_log
+c:/apache/htdocs/global.asa
+c:/apache/htdocs/global.asax
+c:/apache/htdocs/joomla/configuration.php
+c:/apache/htdocs/manage.py
+c:/apache/htdocs/meta-inf/context.xml
+c:/apache/htdocs/package-lock.json
+c:/apache/htdocs/package.json
+c:/apache/htdocs/packages.config
+c:/apache/htdocs/php.ini
+c:/apache/htdocs/phpinfo.php
+c:/apache/htdocs/pnpm-lock.yaml
+c:/apache/htdocs/pyproject.toml
+c:/apache/htdocs/requirements.txt
+c:/apache/htdocs/settings.py
+c:/apache/htdocs/sites/default/services.yml
+c:/apache/htdocs/sites/default/settings.php
+c:/apache/htdocs/storage/logs/laravel.log
+c:/apache/htdocs/var/log/dev.log
+c:/apache/htdocs/var/log/prod.log
+c:/apache/htdocs/web-inf/classes/application.properties
+c:/apache/htdocs/web-inf/classes/application.yml
+c:/apache/htdocs/web-inf/web.xml
+c:/apache/htdocs/web.config
+c:/apache/htdocs/web.config.bak
+c:/apache/htdocs/web.config.old
+c:/apache/htdocs/web.debug.config
+c:/apache/htdocs/web.release.config
+c:/apache/htdocs/wordpress/wp-config.php
+c:/apache/htdocs/wp-config.php
+c:/apache/htdocs/wp-config.php.bak
+c:/apache/htdocs/wp-content/debug.log
+c:/apache/htdocs/yarn.lock
 c:/apache/log/access.log
 c:/apache/log/access_log
 c:/apache/log/error.log
@@ -17,6 +105,93 @@ c:/apache/logs/access_log
 c:/apache/logs/error.log
 c:/apache/logs/error_log
 c:/apache/php/php.ini
+c:/apache2/conf/extra/httpd-default.conf
+c:/apache2/conf/extra/httpd-ssl.conf
+c:/apache2/conf/extra/httpd-vhosts.conf
+c:/apache2/conf/extra/httpd-xampp.conf
+c:/apache2/conf/httpd.conf
+c:/apache2/conf/mime.types
+c:/apache2/htdocs/.dockerignore
+c:/apache2/htdocs/.env
+c:/apache2/htdocs/.env.backup
+c:/apache2/htdocs/.env.bak
+c:/apache2/htdocs/.env.development
+c:/apache2/htdocs/.env.local
+c:/apache2/htdocs/.env.production
+c:/apache2/htdocs/.git/config
+c:/apache2/htdocs/.git/head
+c:/apache2/htdocs/.git/index
+c:/apache2/htdocs/.hg/hgrc
+c:/apache2/htdocs/.htaccess
+c:/apache2/htdocs/.htpasswd
+c:/apache2/htdocs/.npmrc
+c:/apache2/htdocs/.svn/entries
+c:/apache2/htdocs/.svn/wc.db
+c:/apache2/htdocs/.user.ini
+c:/apache2/htdocs/.yarnrc.yml
+c:/apache2/htdocs/app/config/parameters.yml
+c:/apache2/htdocs/app/etc/env.php
+c:/apache2/htdocs/app/etc/local.xml
+c:/apache2/htdocs/application.properties
+c:/apache2/htdocs/application.yaml
+c:/apache2/htdocs/application.yml
+c:/apache2/htdocs/application/config/config.php
+c:/apache2/htdocs/application/config/database.php
+c:/apache2/htdocs/appsettings.development.json
+c:/apache2/htdocs/appsettings.json
+c:/apache2/htdocs/appsettings.local.json
+c:/apache2/htdocs/appsettings.production.json
+c:/apache2/htdocs/appsettings.staging.json
+c:/apache2/htdocs/auth.json
+c:/apache2/htdocs/compose.yaml
+c:/apache2/htdocs/composer.json
+c:/apache2/htdocs/composer.lock
+c:/apache2/htdocs/config/app.php
+c:/apache2/htdocs/config/config.php
+c:/apache2/htdocs/config/database.php
+c:/apache2/htdocs/config/database.yml
+c:/apache2/htdocs/config/parameters.yml
+c:/apache2/htdocs/config/secrets.yml
+c:/apache2/htdocs/configuration.php
+c:/apache2/htdocs/connections.config
+c:/apache2/htdocs/connectionstrings.config
+c:/apache2/htdocs/debug.log
+c:/apache2/htdocs/docker-compose.yml
+c:/apache2/htdocs/dockerfile
+c:/apache2/htdocs/drupal/sites/default/settings.php
+c:/apache2/htdocs/error_log
+c:/apache2/htdocs/global.asa
+c:/apache2/htdocs/global.asax
+c:/apache2/htdocs/joomla/configuration.php
+c:/apache2/htdocs/manage.py
+c:/apache2/htdocs/meta-inf/context.xml
+c:/apache2/htdocs/package-lock.json
+c:/apache2/htdocs/package.json
+c:/apache2/htdocs/packages.config
+c:/apache2/htdocs/php.ini
+c:/apache2/htdocs/phpinfo.php
+c:/apache2/htdocs/pnpm-lock.yaml
+c:/apache2/htdocs/pyproject.toml
+c:/apache2/htdocs/requirements.txt
+c:/apache2/htdocs/settings.py
+c:/apache2/htdocs/sites/default/services.yml
+c:/apache2/htdocs/sites/default/settings.php
+c:/apache2/htdocs/storage/logs/laravel.log
+c:/apache2/htdocs/var/log/dev.log
+c:/apache2/htdocs/var/log/prod.log
+c:/apache2/htdocs/web-inf/classes/application.properties
+c:/apache2/htdocs/web-inf/classes/application.yml
+c:/apache2/htdocs/web-inf/web.xml
+c:/apache2/htdocs/web.config
+c:/apache2/htdocs/web.config.bak
+c:/apache2/htdocs/web.config.old
+c:/apache2/htdocs/web.debug.config
+c:/apache2/htdocs/web.release.config
+c:/apache2/htdocs/wordpress/wp-config.php
+c:/apache2/htdocs/wp-config.php
+c:/apache2/htdocs/wp-config.php.bak
+c:/apache2/htdocs/wp-content/debug.log
+c:/apache2/htdocs/yarn.lock
 c:/apache2/log/access.log
 c:/apache2/log/access_log
 c:/apache2/log/error.log
@@ -25,24 +200,466 @@ c:/apache2/logs/access.log
 c:/apache2/logs/access_log
 c:/apache2/logs/error.log
 c:/apache2/logs/error_log
+c:/apache24/conf/extra/httpd-default.conf
+c:/apache24/conf/extra/httpd-ssl.conf
+c:/apache24/conf/extra/httpd-vhosts.conf
+c:/apache24/conf/extra/httpd-xampp.conf
+c:/apache24/conf/httpd.conf
+c:/apache24/conf/mime.types
+c:/apache24/htdocs/.dockerignore
+c:/apache24/htdocs/.env
+c:/apache24/htdocs/.env.backup
+c:/apache24/htdocs/.env.bak
+c:/apache24/htdocs/.env.development
+c:/apache24/htdocs/.env.local
+c:/apache24/htdocs/.env.production
+c:/apache24/htdocs/.git/config
+c:/apache24/htdocs/.git/head
+c:/apache24/htdocs/.git/index
+c:/apache24/htdocs/.hg/hgrc
+c:/apache24/htdocs/.htaccess
+c:/apache24/htdocs/.htpasswd
+c:/apache24/htdocs/.npmrc
+c:/apache24/htdocs/.svn/entries
+c:/apache24/htdocs/.svn/wc.db
+c:/apache24/htdocs/.user.ini
+c:/apache24/htdocs/.yarnrc.yml
+c:/apache24/htdocs/app/config/parameters.yml
+c:/apache24/htdocs/app/etc/env.php
+c:/apache24/htdocs/app/etc/local.xml
+c:/apache24/htdocs/application.properties
+c:/apache24/htdocs/application.yaml
+c:/apache24/htdocs/application.yml
+c:/apache24/htdocs/application/config/config.php
+c:/apache24/htdocs/application/config/database.php
+c:/apache24/htdocs/appsettings.development.json
+c:/apache24/htdocs/appsettings.json
+c:/apache24/htdocs/appsettings.local.json
+c:/apache24/htdocs/appsettings.production.json
+c:/apache24/htdocs/appsettings.staging.json
+c:/apache24/htdocs/auth.json
+c:/apache24/htdocs/compose.yaml
+c:/apache24/htdocs/composer.json
+c:/apache24/htdocs/composer.lock
+c:/apache24/htdocs/config/app.php
+c:/apache24/htdocs/config/config.php
+c:/apache24/htdocs/config/database.php
+c:/apache24/htdocs/config/database.yml
+c:/apache24/htdocs/config/parameters.yml
+c:/apache24/htdocs/config/secrets.yml
+c:/apache24/htdocs/configuration.php
+c:/apache24/htdocs/connections.config
+c:/apache24/htdocs/connectionstrings.config
+c:/apache24/htdocs/debug.log
+c:/apache24/htdocs/docker-compose.yml
+c:/apache24/htdocs/dockerfile
+c:/apache24/htdocs/drupal/sites/default/settings.php
+c:/apache24/htdocs/error_log
+c:/apache24/htdocs/global.asa
+c:/apache24/htdocs/global.asax
+c:/apache24/htdocs/joomla/configuration.php
+c:/apache24/htdocs/manage.py
+c:/apache24/htdocs/meta-inf/context.xml
+c:/apache24/htdocs/package-lock.json
+c:/apache24/htdocs/package.json
+c:/apache24/htdocs/packages.config
+c:/apache24/htdocs/php.ini
+c:/apache24/htdocs/phpinfo.php
+c:/apache24/htdocs/pnpm-lock.yaml
+c:/apache24/htdocs/pyproject.toml
+c:/apache24/htdocs/requirements.txt
+c:/apache24/htdocs/settings.py
+c:/apache24/htdocs/sites/default/services.yml
+c:/apache24/htdocs/sites/default/settings.php
+c:/apache24/htdocs/storage/logs/laravel.log
+c:/apache24/htdocs/var/log/dev.log
+c:/apache24/htdocs/var/log/prod.log
+c:/apache24/htdocs/web-inf/classes/application.properties
+c:/apache24/htdocs/web-inf/classes/application.yml
+c:/apache24/htdocs/web-inf/web.xml
+c:/apache24/htdocs/web.config
+c:/apache24/htdocs/web.config.bak
+c:/apache24/htdocs/web.config.old
+c:/apache24/htdocs/web.debug.config
+c:/apache24/htdocs/web.release.config
+c:/apache24/htdocs/wordpress/wp-config.php
+c:/apache24/htdocs/wp-config.php
+c:/apache24/htdocs/wp-config.php.bak
+c:/apache24/htdocs/wp-content/debug.log
+c:/apache24/htdocs/yarn.lock
+c:/apache24/logs/access.log
+c:/apache24/logs/access_log
+c:/apache24/logs/error.log
+c:/apache24/logs/error_log
+c:/autoexec.bat
 c:/boot.ini
+c:/boot/bcd
+c:/boot/bcd.log
+c:/bootmgr
+c:/config.sys
+c:/data/log/mongod.log
+c:/data/mongod.cfg
+c:/data/mongod.conf
+c:/documents and settings/administrator/.aws/config
+c:/documents and settings/administrator/.aws/credentials
+c:/documents and settings/administrator/.azure/accesstokens.json
+c:/documents and settings/administrator/.azure/azureprofile.json
+c:/documents and settings/administrator/.azure/clouds.config
+c:/documents and settings/administrator/.azure/msal_token_cache.json
+c:/documents and settings/administrator/.bash_history
+c:/documents and settings/administrator/.condarc
+c:/documents and settings/administrator/.config/rclone/rclone.conf
+c:/documents and settings/administrator/.docker/config.json
+c:/documents and settings/administrator/.erlang.cookie
+c:/documents and settings/administrator/.git-credentials
+c:/documents and settings/administrator/.gitconfig
+c:/documents and settings/administrator/.gradle/gradle.properties
+c:/documents and settings/administrator/.jenkins/config.xml
+c:/documents and settings/administrator/.jenkins/credentials.xml
+c:/documents and settings/administrator/.kube/config
+c:/documents and settings/administrator/.m2/settings.xml
+c:/documents and settings/administrator/.mysql_history
+c:/documents and settings/administrator/.npmrc
+c:/documents and settings/administrator/.nuget/nuget/nuget.config
+c:/documents and settings/administrator/.psql_history
+c:/documents and settings/administrator/.pypirc
+c:/documents and settings/administrator/.python_history
+c:/documents and settings/administrator/.ssh/authorized_keys
+c:/documents and settings/administrator/.ssh/config
+c:/documents and settings/administrator/.ssh/id_dsa
+c:/documents and settings/administrator/.ssh/id_ecdsa
+c:/documents and settings/administrator/.ssh/id_ed25519
+c:/documents and settings/administrator/.ssh/id_rsa
+c:/documents and settings/administrator/.ssh/known_hosts
+c:/documents and settings/administrator/.terraformrc
+c:/documents and settings/administrator/.vault-token
+c:/documents and settings/administrator/.vscode/settings.json
+c:/documents and settings/administrator/appdata/local/azure/.azure/azureprofile.json
+c:/documents and settings/administrator/appdata/local/google/chrome/user data/default/history
+c:/documents and settings/administrator/appdata/local/google/chrome/user data/default/network/cookies
+c:/documents and settings/administrator/appdata/local/google/chrome/user data/default/preferences
+c:/documents and settings/administrator/appdata/local/google/chrome/user data/local state
+c:/documents and settings/administrator/appdata/local/microsoft/edge/user data/default/history
+c:/documents and settings/administrator/appdata/local/microsoft/edge/user data/default/network/cookies
+c:/documents and settings/administrator/appdata/local/microsoft/edge/user data/default/preferences
+c:/documents and settings/administrator/appdata/local/microsoft/edge/user data/local state
+c:/documents and settings/administrator/appdata/roaming/anydesk/ad.trace
+c:/documents and settings/administrator/appdata/roaming/anydesk/service.conf
+c:/documents and settings/administrator/appdata/roaming/anydesk/system.conf
+c:/documents and settings/administrator/appdata/roaming/anydesk/user.conf
+c:/documents and settings/administrator/appdata/roaming/code/user/keybindings.json
+c:/documents and settings/administrator/appdata/roaming/code/user/settings.json
+c:/documents and settings/administrator/appdata/roaming/code/user/tasks.json
+c:/documents and settings/administrator/appdata/roaming/dbeaverdata/workspace6/general/.dbeaver/credentials-config.json
+c:/documents and settings/administrator/appdata/roaming/dbeaverdata/workspace6/general/.dbeaver/data-sources.json
+c:/documents and settings/administrator/appdata/roaming/filezilla/filezilla.xml
+c:/documents and settings/administrator/appdata/roaming/filezilla/recentservers.xml
+c:/documents and settings/administrator/appdata/roaming/filezilla/sitemanager.xml
+c:/documents and settings/administrator/appdata/roaming/gcloud/application_default_credentials.json
+c:/documents and settings/administrator/appdata/roaming/gcloud/configurations/config_default
+c:/documents and settings/administrator/appdata/roaming/keepass/keepass.config.xml
+c:/documents and settings/administrator/appdata/roaming/microsoft/powershell/psreadline/consolehost_history.txt
+c:/documents and settings/administrator/appdata/roaming/microsoft/windows/powershell/psreadline/consolehost_history.txt
+c:/documents and settings/administrator/appdata/roaming/microsoft/windows/recent/automaticdestinations/1b4dd67f29cb1962.automaticdestinations-ms
+c:/documents and settings/administrator/appdata/roaming/mozilla/firefox/installs.ini
+c:/documents and settings/administrator/appdata/roaming/mozilla/firefox/profiles.ini
+c:/documents and settings/administrator/appdata/roaming/mremoteng/confcons.xml
+c:/documents and settings/administrator/appdata/roaming/nuget/nuget.config
+c:/documents and settings/administrator/appdata/roaming/pip/pip.ini
+c:/documents and settings/administrator/appdata/roaming/postgresql/pg_service.conf
+c:/documents and settings/administrator/appdata/roaming/postgresql/pgpass.conf
+c:/documents and settings/administrator/appdata/roaming/rabbitmq/advanced.config
+c:/documents and settings/administrator/appdata/roaming/rabbitmq/enabled_plugins
+c:/documents and settings/administrator/appdata/roaming/rabbitmq/rabbitmq.conf
+c:/documents and settings/administrator/appdata/roaming/rclone/rclone.conf
+c:/documents and settings/administrator/appdata/roaming/subversion/config
+c:/documents and settings/administrator/appdata/roaming/subversion/servers
+c:/documents and settings/administrator/appdata/roaming/terraform.rc
+c:/documents and settings/administrator/appdata/roaming/winscp.ini
 c:/documents and settings/administrator/desktop/desktop.ini
+c:/documents and settings/administrator/documents/desktop.ini
+c:/documents and settings/administrator/documents/iisexpress/config/applicationhost.config
+c:/documents and settings/administrator/documents/powershell/microsoft.powershell_profile.ps1
+c:/documents and settings/administrator/documents/windowspowershell/microsoft.powershell_profile.ps1
 c:/documents and settings/administrator/ntuser.dat
 c:/documents and settings/administrator/ntuser.ini
+c:/documents and settings/administrator/pip/pip.ini
+c:/elasticsearch/config/elasticsearch.yml
+c:/elasticsearch/config/jvm.options
+c:/elasticsearch/config/log4j2.properties
+c:/elasticsearch/config/roles.yml
+c:/elasticsearch/config/users
+c:/elasticsearch/config/users_roles
+c:/hiberfil.sys
 c:/home/bin/stable/apache/php.ini
+c:/home/logfiles/eventlog.xml
+c:/home/logfiles/kudu/trace/trace.xml
+c:/home/site/deployments/settings.xml
+c:/home/site/wwwroot/.deployment
+c:/home/site/wwwroot/.dockerignore
+c:/home/site/wwwroot/.env
+c:/home/site/wwwroot/.env.backup
+c:/home/site/wwwroot/.env.bak
+c:/home/site/wwwroot/.env.development
+c:/home/site/wwwroot/.env.local
+c:/home/site/wwwroot/.env.production
+c:/home/site/wwwroot/.git/config
+c:/home/site/wwwroot/.git/head
+c:/home/site/wwwroot/.git/index
+c:/home/site/wwwroot/.hg/hgrc
+c:/home/site/wwwroot/.htaccess
+c:/home/site/wwwroot/.htpasswd
+c:/home/site/wwwroot/.npmrc
+c:/home/site/wwwroot/.svn/entries
+c:/home/site/wwwroot/.svn/wc.db
+c:/home/site/wwwroot/.user.ini
+c:/home/site/wwwroot/.yarnrc.yml
+c:/home/site/wwwroot/app/config/parameters.yml
+c:/home/site/wwwroot/app/etc/env.php
+c:/home/site/wwwroot/app/etc/local.xml
+c:/home/site/wwwroot/application.properties
+c:/home/site/wwwroot/application.yaml
+c:/home/site/wwwroot/application.yml
+c:/home/site/wwwroot/application/config/config.php
+c:/home/site/wwwroot/application/config/database.php
+c:/home/site/wwwroot/appsettings.development.json
 c:/home/site/wwwroot/appsettings.json
+c:/home/site/wwwroot/appsettings.local.json
+c:/home/site/wwwroot/appsettings.production.json
+c:/home/site/wwwroot/appsettings.staging.json
+c:/home/site/wwwroot/auth.json
+c:/home/site/wwwroot/compose.yaml
+c:/home/site/wwwroot/composer.json
+c:/home/site/wwwroot/composer.lock
+c:/home/site/wwwroot/config/app.php
+c:/home/site/wwwroot/config/config.php
+c:/home/site/wwwroot/config/database.php
+c:/home/site/wwwroot/config/database.yml
+c:/home/site/wwwroot/config/parameters.yml
+c:/home/site/wwwroot/config/secrets.yml
+c:/home/site/wwwroot/configuration.php
+c:/home/site/wwwroot/connections.config
+c:/home/site/wwwroot/connectionstrings.config
+c:/home/site/wwwroot/debug.log
+c:/home/site/wwwroot/docker-compose.yml
+c:/home/site/wwwroot/dockerfile
+c:/home/site/wwwroot/drupal/sites/default/settings.php
+c:/home/site/wwwroot/error_log
+c:/home/site/wwwroot/global.asa
+c:/home/site/wwwroot/global.asax
+c:/home/site/wwwroot/joomla/configuration.php
+c:/home/site/wwwroot/manage.py
+c:/home/site/wwwroot/meta-inf/context.xml
+c:/home/site/wwwroot/package-lock.json
+c:/home/site/wwwroot/package.json
+c:/home/site/wwwroot/packages.config
+c:/home/site/wwwroot/php.ini
+c:/home/site/wwwroot/phpinfo.php
+c:/home/site/wwwroot/pnpm-lock.yaml
+c:/home/site/wwwroot/pyproject.toml
+c:/home/site/wwwroot/requirements.txt
+c:/home/site/wwwroot/settings.py
+c:/home/site/wwwroot/sites/default/services.yml
+c:/home/site/wwwroot/sites/default/settings.php
+c:/home/site/wwwroot/storage/logs/laravel.log
+c:/home/site/wwwroot/var/log/dev.log
+c:/home/site/wwwroot/var/log/prod.log
+c:/home/site/wwwroot/web-inf/classes/application.properties
+c:/home/site/wwwroot/web-inf/classes/application.yml
+c:/home/site/wwwroot/web-inf/web.xml
 c:/home/site/wwwroot/web.config
+c:/home/site/wwwroot/web.config.bak
+c:/home/site/wwwroot/web.config.old
+c:/home/site/wwwroot/web.debug.config
+c:/home/site/wwwroot/web.release.config
+c:/home/site/wwwroot/wordpress/wp-config.php
+c:/home/site/wwwroot/wp-config.php
+c:/home/site/wwwroot/wp-config.php.bak
+c:/home/site/wwwroot/wp-content/debug.log
+c:/home/site/wwwroot/yarn.lock
 c:/home2/bin/stable/apache/php.ini
 c:/inetpub/logs/logfiles
+c:/inetpub/wwwroot/.dockerignore
+c:/inetpub/wwwroot/.env
+c:/inetpub/wwwroot/.env.backup
+c:/inetpub/wwwroot/.env.bak
+c:/inetpub/wwwroot/.env.development
+c:/inetpub/wwwroot/.env.local
+c:/inetpub/wwwroot/.env.production
+c:/inetpub/wwwroot/.git/config
+c:/inetpub/wwwroot/.git/head
+c:/inetpub/wwwroot/.git/index
+c:/inetpub/wwwroot/.hg/hgrc
+c:/inetpub/wwwroot/.htaccess
+c:/inetpub/wwwroot/.htpasswd
+c:/inetpub/wwwroot/.npmrc
+c:/inetpub/wwwroot/.svn/entries
+c:/inetpub/wwwroot/.svn/wc.db
+c:/inetpub/wwwroot/.user.ini
+c:/inetpub/wwwroot/.yarnrc.yml
+c:/inetpub/wwwroot/app/config/parameters.yml
+c:/inetpub/wwwroot/app/etc/env.php
+c:/inetpub/wwwroot/app/etc/local.xml
 c:/inetpub/wwwroot/app_start/bundleconfig.cs
 c:/inetpub/wwwroot/app_start/filterconfig.cs
 c:/inetpub/wwwroot/app_start/routeconfig.cs
+c:/inetpub/wwwroot/application.properties
+c:/inetpub/wwwroot/application.yaml
+c:/inetpub/wwwroot/application.yml
+c:/inetpub/wwwroot/application/config/config.php
+c:/inetpub/wwwroot/application/config/database.php
+c:/inetpub/wwwroot/appsettings.development.json
+c:/inetpub/wwwroot/appsettings.json
+c:/inetpub/wwwroot/appsettings.local.json
+c:/inetpub/wwwroot/appsettings.production.json
+c:/inetpub/wwwroot/appsettings.staging.json
+c:/inetpub/wwwroot/auth.json
+c:/inetpub/wwwroot/compose.yaml
+c:/inetpub/wwwroot/composer.json
+c:/inetpub/wwwroot/composer.lock
+c:/inetpub/wwwroot/config/app.php
+c:/inetpub/wwwroot/config/config.php
+c:/inetpub/wwwroot/config/database.php
+c:/inetpub/wwwroot/config/database.yml
+c:/inetpub/wwwroot/config/parameters.yml
+c:/inetpub/wwwroot/config/secrets.yml
+c:/inetpub/wwwroot/configuration.php
+c:/inetpub/wwwroot/connections.config
+c:/inetpub/wwwroot/connectionstrings.config
+c:/inetpub/wwwroot/debug.log
+c:/inetpub/wwwroot/docker-compose.yml
+c:/inetpub/wwwroot/dockerfile
+c:/inetpub/wwwroot/drupal/sites/default/settings.php
+c:/inetpub/wwwroot/error_log
 c:/inetpub/wwwroot/global.asa
 c:/inetpub/wwwroot/global.asax
 c:/inetpub/wwwroot/index.asp
+c:/inetpub/wwwroot/joomla/configuration.php
+c:/inetpub/wwwroot/manage.py
+c:/inetpub/wwwroot/meta-inf/context.xml
+c:/inetpub/wwwroot/package-lock.json
+c:/inetpub/wwwroot/package.json
 c:/inetpub/wwwroot/packages.config
+c:/inetpub/wwwroot/php.ini
+c:/inetpub/wwwroot/phpinfo.php
+c:/inetpub/wwwroot/phpmyadmin/config.inc.php
+c:/inetpub/wwwroot/phpmyadmin/config.sample.inc.php
+c:/inetpub/wwwroot/pnpm-lock.yaml
+c:/inetpub/wwwroot/pyproject.toml
+c:/inetpub/wwwroot/requirements.txt
+c:/inetpub/wwwroot/roundcube/config/config.inc.php
+c:/inetpub/wwwroot/roundcube/config/db.inc.php
+c:/inetpub/wwwroot/roundcube/config/main.inc.php
+c:/inetpub/wwwroot/roundcube/logs/errors
+c:/inetpub/wwwroot/roundcube/logs/errors.log
+c:/inetpub/wwwroot/settings.py
 c:/inetpub/wwwroot/site.master
+c:/inetpub/wwwroot/sites/default/services.yml
+c:/inetpub/wwwroot/sites/default/settings.php
+c:/inetpub/wwwroot/storage/logs/laravel.log
+c:/inetpub/wwwroot/var/log/dev.log
+c:/inetpub/wwwroot/var/log/prod.log
+c:/inetpub/wwwroot/web-inf/classes/application.properties
+c:/inetpub/wwwroot/web-inf/classes/application.yml
+c:/inetpub/wwwroot/web-inf/web.xml
 c:/inetpub/wwwroot/web.config
+c:/inetpub/wwwroot/web.config.bak
+c:/inetpub/wwwroot/web.config.old
+c:/inetpub/wwwroot/web.debug.config
+c:/inetpub/wwwroot/web.release.config
+c:/inetpub/wwwroot/wordpress/wp-config.php
+c:/inetpub/wwwroot/wp-config.php
+c:/inetpub/wwwroot/wp-config.php.bak
+c:/inetpub/wwwroot/wp-content/debug.log
+c:/inetpub/wwwroot/yarn.lock
+c:/io.sys
+c:/jboss/standalone/configuration/application-roles.properties
+c:/jboss/standalone/configuration/application-users.properties
+c:/jboss/standalone/configuration/mgmt-users.properties
+c:/jboss/standalone/configuration/standalone-full.xml
+c:/jboss/standalone/configuration/standalone.xml
+c:/jboss/standalone/log/server.log
+c:/laragon/www/.dockerignore
+c:/laragon/www/.env
+c:/laragon/www/.env.backup
+c:/laragon/www/.env.bak
+c:/laragon/www/.env.development
+c:/laragon/www/.env.local
+c:/laragon/www/.env.production
+c:/laragon/www/.git/config
+c:/laragon/www/.git/head
+c:/laragon/www/.git/index
+c:/laragon/www/.hg/hgrc
+c:/laragon/www/.htaccess
+c:/laragon/www/.htpasswd
+c:/laragon/www/.npmrc
+c:/laragon/www/.svn/entries
+c:/laragon/www/.svn/wc.db
+c:/laragon/www/.user.ini
+c:/laragon/www/.yarnrc.yml
+c:/laragon/www/app/config/parameters.yml
+c:/laragon/www/app/etc/env.php
+c:/laragon/www/app/etc/local.xml
+c:/laragon/www/application.properties
+c:/laragon/www/application.yaml
+c:/laragon/www/application.yml
+c:/laragon/www/application/config/config.php
+c:/laragon/www/application/config/database.php
+c:/laragon/www/appsettings.development.json
+c:/laragon/www/appsettings.json
+c:/laragon/www/appsettings.local.json
+c:/laragon/www/appsettings.production.json
+c:/laragon/www/appsettings.staging.json
+c:/laragon/www/auth.json
+c:/laragon/www/compose.yaml
+c:/laragon/www/composer.json
+c:/laragon/www/composer.lock
+c:/laragon/www/config/app.php
+c:/laragon/www/config/config.php
+c:/laragon/www/config/database.php
+c:/laragon/www/config/database.yml
+c:/laragon/www/config/parameters.yml
+c:/laragon/www/config/secrets.yml
+c:/laragon/www/configuration.php
+c:/laragon/www/connections.config
+c:/laragon/www/connectionstrings.config
+c:/laragon/www/debug.log
+c:/laragon/www/docker-compose.yml
+c:/laragon/www/dockerfile
+c:/laragon/www/drupal/sites/default/settings.php
+c:/laragon/www/error_log
+c:/laragon/www/global.asa
+c:/laragon/www/global.asax
+c:/laragon/www/joomla/configuration.php
+c:/laragon/www/manage.py
+c:/laragon/www/meta-inf/context.xml
+c:/laragon/www/package-lock.json
+c:/laragon/www/package.json
+c:/laragon/www/packages.config
+c:/laragon/www/php.ini
+c:/laragon/www/phpinfo.php
+c:/laragon/www/pnpm-lock.yaml
+c:/laragon/www/pyproject.toml
+c:/laragon/www/requirements.txt
+c:/laragon/www/settings.py
+c:/laragon/www/sites/default/services.yml
+c:/laragon/www/sites/default/settings.php
+c:/laragon/www/storage/logs/laravel.log
+c:/laragon/www/var/log/dev.log
+c:/laragon/www/var/log/prod.log
+c:/laragon/www/web-inf/classes/application.properties
+c:/laragon/www/web-inf/classes/application.yml
+c:/laragon/www/web-inf/web.xml
+c:/laragon/www/web.config
+c:/laragon/www/web.config.bak
+c:/laragon/www/web.config.old
+c:/laragon/www/web.debug.config
+c:/laragon/www/web.release.config
+c:/laragon/www/wordpress/wp-config.php
+c:/laragon/www/wp-config.php
+c:/laragon/www/wp-config.php.bak
+c:/laragon/www/wp-content/debug.log
+c:/laragon/www/yarn.lock
 c:/log/access.log
 c:/log/access_log
 c:/log/error.log
@@ -55,7 +672,20 @@ c:/logs/error.log
 c:/logs/error_log
 c:/logs/httpd/access_log
 c:/logs/httpd/error_log
+c:/mariadb/data/my.ini
+c:/mariadb/my.cnf
+c:/mariadb/my.ini
+c:/maven/conf/settings.xml
 c:/minint/smsosd/osdlogs/variables.dat
+c:/mongodb/bin/log/mongod.log
+c:/mongodb/bin/mongod.cfg
+c:/mongodb/bin/mongod.conf
+c:/mongodb/log/mongod.log
+c:/mongodb/mongod.cfg
+c:/mongodb/mongod.conf
+c:/msdos.sys
+c:/my.cnf
+c:/my.ini
 c:/mysql/bin/my.ini
 c:/mysql/data/hostname.err
 c:/mysql/data/mysql.err
@@ -63,21 +693,131 @@ c:/mysql/data/mysql.log
 c:/mysql/my.cnf
 c:/mysql/my.ini
 c:/mysql/mysql server 5.0/data/hostname.err
+c:/nginx/conf/fastcgi.conf
+c:/nginx/conf/fastcgi_params
 c:/nginx/conf/mime.types
 c:/nginx/conf/nginx.conf
 c:/nginx/conf/sites-enabled/default.conf
+c:/nginx/html/.dockerignore
+c:/nginx/html/.env
+c:/nginx/html/.env.backup
+c:/nginx/html/.env.bak
+c:/nginx/html/.env.development
+c:/nginx/html/.env.local
+c:/nginx/html/.env.production
+c:/nginx/html/.git/config
+c:/nginx/html/.git/head
+c:/nginx/html/.git/index
+c:/nginx/html/.hg/hgrc
+c:/nginx/html/.htaccess
+c:/nginx/html/.htpasswd
+c:/nginx/html/.npmrc
+c:/nginx/html/.svn/entries
+c:/nginx/html/.svn/wc.db
+c:/nginx/html/.user.ini
+c:/nginx/html/.yarnrc.yml
+c:/nginx/html/app/config/parameters.yml
+c:/nginx/html/app/etc/env.php
+c:/nginx/html/app/etc/local.xml
+c:/nginx/html/application.properties
+c:/nginx/html/application.yaml
+c:/nginx/html/application.yml
+c:/nginx/html/application/config/config.php
+c:/nginx/html/application/config/database.php
+c:/nginx/html/appsettings.development.json
+c:/nginx/html/appsettings.json
+c:/nginx/html/appsettings.local.json
+c:/nginx/html/appsettings.production.json
+c:/nginx/html/appsettings.staging.json
+c:/nginx/html/auth.json
+c:/nginx/html/compose.yaml
+c:/nginx/html/composer.json
+c:/nginx/html/composer.lock
+c:/nginx/html/config/app.php
+c:/nginx/html/config/config.php
+c:/nginx/html/config/database.php
+c:/nginx/html/config/database.yml
+c:/nginx/html/config/parameters.yml
+c:/nginx/html/config/secrets.yml
+c:/nginx/html/configuration.php
+c:/nginx/html/connections.config
+c:/nginx/html/connectionstrings.config
+c:/nginx/html/debug.log
+c:/nginx/html/docker-compose.yml
+c:/nginx/html/dockerfile
+c:/nginx/html/drupal/sites/default/settings.php
+c:/nginx/html/error_log
+c:/nginx/html/global.asa
+c:/nginx/html/global.asax
+c:/nginx/html/joomla/configuration.php
+c:/nginx/html/manage.py
+c:/nginx/html/meta-inf/context.xml
+c:/nginx/html/package-lock.json
+c:/nginx/html/package.json
+c:/nginx/html/packages.config
+c:/nginx/html/php.ini
+c:/nginx/html/phpinfo.php
+c:/nginx/html/pnpm-lock.yaml
+c:/nginx/html/pyproject.toml
+c:/nginx/html/requirements.txt
+c:/nginx/html/settings.py
+c:/nginx/html/sites/default/services.yml
+c:/nginx/html/sites/default/settings.php
+c:/nginx/html/storage/logs/laravel.log
+c:/nginx/html/var/log/dev.log
+c:/nginx/html/var/log/prod.log
+c:/nginx/html/web-inf/classes/application.properties
+c:/nginx/html/web-inf/classes/application.yml
+c:/nginx/html/web-inf/web.xml
+c:/nginx/html/web.config
+c:/nginx/html/web.config.bak
+c:/nginx/html/web.config.old
+c:/nginx/html/web.debug.config
+c:/nginx/html/web.release.config
+c:/nginx/html/wordpress/wp-config.php
+c:/nginx/html/wp-config.php
+c:/nginx/html/wp-config.php.bak
+c:/nginx/html/wp-content/debug.log
+c:/nginx/html/yarn.lock
 c:/nginx/logs/access.log
 c:/nginx/logs/error.log
 c:/opt/xampp/logs/access.log
 c:/opt/xampp/logs/access_log
 c:/opt/xampp/logs/error.log
 c:/opt/xampp/logs/error_log
+c:/pagefile.sys
+c:/php/extras/browscap.ini
 c:/php/php.ini
+c:/php/php.ini-development
+c:/php/php.ini-production
+c:/php/php_errors.log
 c:/php/sessions
 c:/php4/php.ini
 c:/php4/sessions
+c:/php5/extras/browscap.ini
 c:/php5/php.ini
+c:/php5/php.ini-development
+c:/php5/php.ini-production
+c:/php5/php_errors.log
 c:/php5/sessions
+c:/php7/extras/browscap.ini
+c:/php7/php.ini
+c:/php7/php.ini-development
+c:/php7/php.ini-production
+c:/php7/php_errors.log
+c:/php8/extras/browscap.ini
+c:/php8/php.ini
+c:/php8/php.ini-development
+c:/php8/php.ini-production
+c:/php8/php_errors.log
+c:/phpmyadmin/config.inc.php
+c:/phpmyadmin/config.sample.inc.php
+c:/postgresql/data/pg_hba.conf
+c:/postgresql/data/pg_ident.conf
+c:/postgresql/data/pg_version
+c:/postgresql/data/postgresql.auto.conf
+c:/postgresql/data/postgresql.conf
+c:/postgresql/data/postmaster.opts
 c:/program files (x86)/apache group/apache/conf/access.log
 c:/program files (x86)/apache group/apache/conf/error.log
 c:/program files (x86)/apache group/apache/conf/httpd.conf
@@ -205,6 +945,9 @@ c:/program files (x86)/common files/microsoft shared/msenv/publicassemblies/vsla
 c:/program files (x86)/common files/microsoft shared/msenv/publicassemblies/vswebsite.interop.xml
 c:/program files (x86)/dotnet/shared/microsoft.aspnetcore.app/3.1.8/third-party-notices.txt
 c:/program files (x86)/filezilla server/filezilla server.xml
+c:/program files (x86)/filezilla server/groups.xml
+c:/program files (x86)/filezilla server/settings.xml
+c:/program files (x86)/filezilla server/users.xml
 c:/program files (x86)/iis express/appcmd.xml
 c:/program files (x86)/iis express/appserver/applicationhost.config
 c:/program files (x86)/iis express/browscap.ini
@@ -228,6 +971,19 @@ c:/program files (x86)/iis express/thirdpartynotices.txt
 c:/program files (x86)/iis/microsoft web deploy v3/msdeploy.exe.config
 c:/program files (x86)/iis/microsoft web deploy v3/redist.txt
 c:/program files (x86)/iis/microsoft web deploy v3/thirdpartynotices.txt
+c:/program files (x86)/jenkins/config.xml
+c:/program files (x86)/jenkins/credentials.xml
+c:/program files (x86)/jenkins/hudson.plugins.git.gittool.xml
+c:/program files (x86)/jenkins/hudson.tasks.mailer.xml
+c:/program files (x86)/jenkins/jenkins.err
+c:/program files (x86)/jenkins/jenkins.install.installutil.lastexecversion
+c:/program files (x86)/jenkins/jenkins.model.jenkinslocationconfiguration.xml
+c:/program files (x86)/jenkins/jenkins.out
+c:/program files (x86)/jenkins/jenkins.xml
+c:/program files (x86)/jenkins/nodes.xml
+c:/program files (x86)/jenkins/secrets/hudson.util.secret
+c:/program files (x86)/jenkins/secrets/master.key
+c:/program files (x86)/jenkins/users/users.xml
 c:/program files (x86)/microsoft sql server/130/localdb/binn/localdbxeventconfig.xml
 c:/program files (x86)/microsoft sql server/client sdk/odbc/170/license terms/license_msodbcsql_enu.txt
 c:/program files (x86)/microsoft visual studio/installer/feedback.exe.config
@@ -287,7 +1043,18 @@ c:/program files (x86)/mysql/mysql server 5.0/data/mysql.err
 c:/program files (x86)/mysql/mysql server 5.0/data/mysql.log
 c:/program files (x86)/mysql/mysql server 5.0/my.cnf
 c:/program files (x86)/mysql/mysql server 5.0/my.ini
+c:/program files (x86)/mysql/mysql server 5.1/my.cnf
 c:/program files (x86)/mysql/mysql server 5.1/my.ini
+c:/program files (x86)/mysql/mysql server 5.5/my.cnf
+c:/program files (x86)/mysql/mysql server 5.5/my.ini
+c:/program files (x86)/mysql/mysql server 5.6/my.cnf
+c:/program files (x86)/mysql/mysql server 5.6/my.ini
+c:/program files (x86)/mysql/mysql server 5.7/my.cnf
+c:/program files (x86)/mysql/mysql server 5.7/my.ini
+c:/program files (x86)/mysql/mysql server 8.0/my.cnf
+c:/program files (x86)/mysql/mysql server 8.0/my.ini
+c:/program files (x86)/mysql/mysql server 8.4/my.cnf
+c:/program files (x86)/mysql/mysql server 8.4/my.ini
 c:/program files (x86)/notepad++/autocompletion/actionscript.xml
 c:/program files (x86)/notepad++/autocompletion/autoit.xml
 c:/program files (x86)/notepad++/autocompletion/baanc.xml
@@ -322,8 +1089,16 @@ c:/program files (x86)/notepad++/readme.txt
 c:/program files (x86)/notepad++/shortcuts.xml
 c:/program files (x86)/notepad++/stylers.model.xml
 c:/program files (x86)/notepad++/updater/gup.xml
+c:/program files (x86)/php/extras/browscap.ini
+c:/program files (x86)/php/php.ini
+c:/program files (x86)/php/php.ini-development
+c:/program files (x86)/php/php.ini-production
+c:/program files (x86)/php/php_errors.log
+c:/program files (x86)/teamviewer/connections_incoming.txt
+c:/program files (x86)/teamviewer/teamviewer15_logfile.log
 c:/program files (x86)/tomcat/license
 c:/program files (x86)/tomcat/release-notes
+c:/program files (x86)/uvnc bvba/ultravnc/ultravnc.ini
 c:/program files (x86)/windows media player/media renderer/avtransport.xml
 c:/program files (x86)/windows media player/media renderer/connectionmanager_dmr.xml
 c:/program files (x86)/windows media player/media renderer/renderingcontrol.xml
@@ -416,13 +1191,139 @@ c:/program files/apache group/apache/conf/error.log
 c:/program files/apache group/apache/conf/httpd.conf
 c:/program files/apache group/apache/logs/access.log
 c:/program files/apache group/apache/logs/error.log
+c:/program files/apache group/apache2/conf/extra/httpd-default.conf
+c:/program files/apache group/apache2/conf/extra/httpd-ssl.conf
+c:/program files/apache group/apache2/conf/extra/httpd-vhosts.conf
+c:/program files/apache group/apache2/conf/extra/httpd-xampp.conf
 c:/program files/apache group/apache2/conf/httpd.conf
+c:/program files/apache group/apache2/conf/mime.types
+c:/program files/apache group/apache2/logs/access.log
+c:/program files/apache group/apache2/logs/access_log
+c:/program files/apache group/apache2/logs/error.log
+c:/program files/apache group/apache2/logs/error_log
+c:/program files/apache software foundation/apache2.2/conf/extra/httpd-default.conf
+c:/program files/apache software foundation/apache2.2/conf/extra/httpd-ssl.conf
+c:/program files/apache software foundation/apache2.2/conf/extra/httpd-vhosts.conf
+c:/program files/apache software foundation/apache2.2/conf/extra/httpd-xampp.conf
+c:/program files/apache software foundation/apache2.2/conf/httpd.conf
+c:/program files/apache software foundation/apache2.2/conf/mime.types
+c:/program files/apache software foundation/apache2.2/logs/access.log
+c:/program files/apache software foundation/apache2.2/logs/access_log
+c:/program files/apache software foundation/apache2.2/logs/error.log
+c:/program files/apache software foundation/apache2.2/logs/error_log
+c:/program files/apache software foundation/apache2.4/conf/extra/httpd-default.conf
+c:/program files/apache software foundation/apache2.4/conf/extra/httpd-ssl.conf
+c:/program files/apache software foundation/apache2.4/conf/extra/httpd-vhosts.conf
+c:/program files/apache software foundation/apache2.4/conf/extra/httpd-xampp.conf
+c:/program files/apache software foundation/apache2.4/conf/httpd.conf
+c:/program files/apache software foundation/apache2.4/conf/mime.types
+c:/program files/apache software foundation/apache2.4/logs/access.log
+c:/program files/apache software foundation/apache2.4/logs/access_log
+c:/program files/apache software foundation/apache2.4/logs/error.log
+c:/program files/apache software foundation/apache2.4/logs/error_log
+c:/program files/apache software foundation/tomcat 10.0/bin/setenv.bat
+c:/program files/apache software foundation/tomcat 10.0/conf/catalina.policy
+c:/program files/apache software foundation/tomcat 10.0/conf/catalina.properties
+c:/program files/apache software foundation/tomcat 10.0/conf/context.xml
+c:/program files/apache software foundation/tomcat 10.0/conf/logging.properties
+c:/program files/apache software foundation/tomcat 10.0/conf/server.xml
+c:/program files/apache software foundation/tomcat 10.0/conf/tomcat-users.xml
+c:/program files/apache software foundation/tomcat 10.0/conf/web.xml
+c:/program files/apache software foundation/tomcat 10.0/logs/catalina.out
+c:/program files/apache software foundation/tomcat 10.0/webapps/host-manager/meta-inf/context.xml
+c:/program files/apache software foundation/tomcat 10.0/webapps/manager/meta-inf/context.xml
+c:/program files/apache software foundation/tomcat 10.0/webapps/root/web-inf/web.xml
+c:/program files/apache software foundation/tomcat 10.1/bin/setenv.bat
+c:/program files/apache software foundation/tomcat 10.1/conf/catalina.policy
+c:/program files/apache software foundation/tomcat 10.1/conf/catalina.properties
+c:/program files/apache software foundation/tomcat 10.1/conf/context.xml
+c:/program files/apache software foundation/tomcat 10.1/conf/logging.properties
+c:/program files/apache software foundation/tomcat 10.1/conf/server.xml
+c:/program files/apache software foundation/tomcat 10.1/conf/tomcat-users.xml
+c:/program files/apache software foundation/tomcat 10.1/conf/web.xml
+c:/program files/apache software foundation/tomcat 10.1/logs/catalina.out
+c:/program files/apache software foundation/tomcat 10.1/webapps/host-manager/meta-inf/context.xml
+c:/program files/apache software foundation/tomcat 10.1/webapps/manager/meta-inf/context.xml
+c:/program files/apache software foundation/tomcat 10.1/webapps/root/web-inf/web.xml
+c:/program files/apache software foundation/tomcat 11.0/bin/setenv.bat
+c:/program files/apache software foundation/tomcat 11.0/conf/catalina.policy
+c:/program files/apache software foundation/tomcat 11.0/conf/catalina.properties
+c:/program files/apache software foundation/tomcat 11.0/conf/context.xml
+c:/program files/apache software foundation/tomcat 11.0/conf/logging.properties
+c:/program files/apache software foundation/tomcat 11.0/conf/server.xml
+c:/program files/apache software foundation/tomcat 11.0/conf/tomcat-users.xml
+c:/program files/apache software foundation/tomcat 11.0/conf/web.xml
+c:/program files/apache software foundation/tomcat 11.0/logs/catalina.out
+c:/program files/apache software foundation/tomcat 11.0/webapps/host-manager/meta-inf/context.xml
+c:/program files/apache software foundation/tomcat 11.0/webapps/manager/meta-inf/context.xml
+c:/program files/apache software foundation/tomcat 11.0/webapps/root/web-inf/web.xml
+c:/program files/apache software foundation/tomcat 6.0/bin/setenv.bat
+c:/program files/apache software foundation/tomcat 6.0/conf/catalina.policy
+c:/program files/apache software foundation/tomcat 6.0/conf/catalina.properties
+c:/program files/apache software foundation/tomcat 6.0/conf/context.xml
+c:/program files/apache software foundation/tomcat 6.0/conf/logging.properties
+c:/program files/apache software foundation/tomcat 6.0/conf/server.xml
+c:/program files/apache software foundation/tomcat 6.0/conf/tomcat-users.xml
+c:/program files/apache software foundation/tomcat 6.0/conf/web.xml
+c:/program files/apache software foundation/tomcat 6.0/logs/catalina.out
+c:/program files/apache software foundation/tomcat 6.0/webapps/host-manager/meta-inf/context.xml
+c:/program files/apache software foundation/tomcat 6.0/webapps/manager/meta-inf/context.xml
+c:/program files/apache software foundation/tomcat 6.0/webapps/root/web-inf/web.xml
+c:/program files/apache software foundation/tomcat 7.0/bin/setenv.bat
+c:/program files/apache software foundation/tomcat 7.0/conf/catalina.policy
+c:/program files/apache software foundation/tomcat 7.0/conf/catalina.properties
+c:/program files/apache software foundation/tomcat 7.0/conf/context.xml
+c:/program files/apache software foundation/tomcat 7.0/conf/logging.properties
+c:/program files/apache software foundation/tomcat 7.0/conf/server.xml
+c:/program files/apache software foundation/tomcat 7.0/conf/tomcat-users.xml
+c:/program files/apache software foundation/tomcat 7.0/conf/web.xml
+c:/program files/apache software foundation/tomcat 7.0/logs/catalina.out
+c:/program files/apache software foundation/tomcat 7.0/webapps/host-manager/meta-inf/context.xml
+c:/program files/apache software foundation/tomcat 7.0/webapps/manager/meta-inf/context.xml
+c:/program files/apache software foundation/tomcat 7.0/webapps/root/web-inf/web.xml
+c:/program files/apache software foundation/tomcat 8.0/bin/setenv.bat
+c:/program files/apache software foundation/tomcat 8.0/conf/catalina.policy
+c:/program files/apache software foundation/tomcat 8.0/conf/catalina.properties
+c:/program files/apache software foundation/tomcat 8.0/conf/context.xml
+c:/program files/apache software foundation/tomcat 8.0/conf/logging.properties
+c:/program files/apache software foundation/tomcat 8.0/conf/server.xml
+c:/program files/apache software foundation/tomcat 8.0/conf/tomcat-users.xml
+c:/program files/apache software foundation/tomcat 8.0/conf/web.xml
 c:/program files/apache software foundation/tomcat 8.0/license
+c:/program files/apache software foundation/tomcat 8.0/logs/catalina.out
 c:/program files/apache software foundation/tomcat 8.0/release-notes
+c:/program files/apache software foundation/tomcat 8.0/webapps/host-manager/meta-inf/context.xml
+c:/program files/apache software foundation/tomcat 8.0/webapps/manager/meta-inf/context.xml
+c:/program files/apache software foundation/tomcat 8.0/webapps/root/web-inf/web.xml
+c:/program files/apache software foundation/tomcat 8.5/bin/setenv.bat
+c:/program files/apache software foundation/tomcat 8.5/conf/catalina.policy
+c:/program files/apache software foundation/tomcat 8.5/conf/catalina.properties
+c:/program files/apache software foundation/tomcat 8.5/conf/context.xml
+c:/program files/apache software foundation/tomcat 8.5/conf/logging.properties
+c:/program files/apache software foundation/tomcat 8.5/conf/server.xml
+c:/program files/apache software foundation/tomcat 8.5/conf/tomcat-users.xml
+c:/program files/apache software foundation/tomcat 8.5/conf/web.xml
 c:/program files/apache software foundation/tomcat 8.5/license
+c:/program files/apache software foundation/tomcat 8.5/logs/catalina.out
 c:/program files/apache software foundation/tomcat 8.5/release-notes
+c:/program files/apache software foundation/tomcat 8.5/webapps/host-manager/meta-inf/context.xml
+c:/program files/apache software foundation/tomcat 8.5/webapps/manager/meta-inf/context.xml
+c:/program files/apache software foundation/tomcat 8.5/webapps/root/web-inf/web.xml
+c:/program files/apache software foundation/tomcat 9.0/bin/setenv.bat
+c:/program files/apache software foundation/tomcat 9.0/conf/catalina.policy
+c:/program files/apache software foundation/tomcat 9.0/conf/catalina.properties
+c:/program files/apache software foundation/tomcat 9.0/conf/context.xml
+c:/program files/apache software foundation/tomcat 9.0/conf/logging.properties
+c:/program files/apache software foundation/tomcat 9.0/conf/server.xml
+c:/program files/apache software foundation/tomcat 9.0/conf/tomcat-users.xml
+c:/program files/apache software foundation/tomcat 9.0/conf/web.xml
 c:/program files/apache software foundation/tomcat 9.0/license
+c:/program files/apache software foundation/tomcat 9.0/logs/catalina.out
 c:/program files/apache software foundation/tomcat 9.0/release-notes
+c:/program files/apache software foundation/tomcat 9.0/webapps/host-manager/meta-inf/context.xml
+c:/program files/apache software foundation/tomcat 9.0/webapps/manager/meta-inf/context.xml
+c:/program files/apache software foundation/tomcat 9.0/webapps/root/web-inf/web.xml
+c:/program files/apache/maven/conf/settings.xml
 c:/program files/common files/microsoft shared/ink/alphabet.xml
 c:/program files/common files/microsoft shared/ink/content.xml
 c:/program files/common files/microsoft shared/ink/fsdefinitions/auxpad.xml
@@ -803,6 +1704,11 @@ c:/program files/dotnet/sdk/3.1.402/vstest.console.dll.config
 c:/program files/dotnet/shared/microsoft.aspnetcore.app/3.1.8/third-party-notices.txt
 c:/program files/dotnet/thirdpartynotices.txt
 c:/program files/filezilla server/filezilla server.xml
+c:/program files/filezilla server/groups.xml
+c:/program files/filezilla server/settings.xml
+c:/program files/filezilla server/users.xml
+c:/program files/git/etc/config
+c:/program files/git/etc/gitconfig
 c:/program files/gs/gs9.19/doc/pclxps/ghostpdl.txt
 c:/program files/gs/gs9.19/doc/pscet_status.txt
 c:/program files/gs/gs9.19/doc/who_owns_what.txt
@@ -1909,6 +2815,40 @@ c:/program files/iis/microsoft web deploy v3/microsoft.web.deployment.powershell
 c:/program files/iis/microsoft web deploy v3/msdeploy.exe.config
 c:/program files/iis/microsoft web deploy v3/redist.txt
 c:/program files/iis/microsoft web deploy v3/thirdpartynotices.txt
+c:/program files/jenkins/config.xml
+c:/program files/jenkins/credentials.xml
+c:/program files/jenkins/hudson.plugins.git.gittool.xml
+c:/program files/jenkins/hudson.tasks.mailer.xml
+c:/program files/jenkins/jenkins.err
+c:/program files/jenkins/jenkins.install.installutil.lastexecversion
+c:/program files/jenkins/jenkins.model.jenkinslocationconfiguration.xml
+c:/program files/jenkins/jenkins.out
+c:/program files/jenkins/jenkins.xml
+c:/program files/jenkins/nodes.xml
+c:/program files/jenkins/secrets/hudson.util.secret
+c:/program files/jenkins/secrets/master.key
+c:/program files/jenkins/users/users.xml
+c:/program files/mariadb 10.11/data/my.ini
+c:/program files/mariadb 10.11/my.cnf
+c:/program files/mariadb 10.11/my.ini
+c:/program files/mariadb 10.3/data/my.ini
+c:/program files/mariadb 10.3/my.cnf
+c:/program files/mariadb 10.3/my.ini
+c:/program files/mariadb 10.4/data/my.ini
+c:/program files/mariadb 10.4/my.cnf
+c:/program files/mariadb 10.4/my.ini
+c:/program files/mariadb 10.5/data/my.ini
+c:/program files/mariadb 10.5/my.cnf
+c:/program files/mariadb 10.5/my.ini
+c:/program files/mariadb 10.6/data/my.ini
+c:/program files/mariadb 10.6/my.cnf
+c:/program files/mariadb 10.6/my.ini
+c:/program files/mariadb 11.4/data/my.ini
+c:/program files/mariadb 11.4/my.cnf
+c:/program files/mariadb 11.4/my.ini
+c:/program files/mariadb 11.8/data/my.ini
+c:/program files/mariadb 11.8/my.cnf
+c:/program files/mariadb 11.8/my.ini
 c:/program files/microsoft sdks/azure/.net sdk/v2.9/bin/csencrypt.exe.config
 c:/program files/microsoft sdks/azure/.net sdk/v2.9/bin/cspack.exe.config
 c:/program files/microsoft sdks/azure/.net sdk/v2.9/bin/microsoft.servicehosting.tools.msbuildtasks.dll.config
@@ -1955,6 +2895,9 @@ c:/program files/microsoft sdks/azure/emulator/devfabric/iisconfigurator.exe.exp
 c:/program files/microsoft sdks/azure/emulator/devfabric/runtime.config
 c:/program files/microsoft sdks/azure/emulator/dfui.exe.config
 c:/program files/microsoft sdks/azure/emulator/microsoft.servicehosting.tools.dll.config
+c:/program files/microsoft sql server/100/setup bootstrap/log/summary.txt
+c:/program files/microsoft sql server/110/setup bootstrap/log/summary.txt
+c:/program files/microsoft sql server/120/setup bootstrap/log/summary.txt
 c:/program files/microsoft sql server/130/license terms/license_sqllocaldb_1028.txt
 c:/program files/microsoft sql server/130/license terms/license_sqllocaldb_1031.txt
 c:/program files/microsoft sql server/130/license terms/license_sqllocaldb_1033.txt
@@ -1969,9 +2912,76 @@ c:/program files/microsoft sql server/130/license terms/license_sqllocaldb_3082.
 c:/program files/microsoft sql server/130/localdb/binn/etwcnf.xml
 c:/program files/microsoft sql server/130/localdb/binn/localdbxeventconfig.xml
 c:/program files/microsoft sql server/130/localdb/binn/sqlservr.exe.config
+c:/program files/microsoft sql server/130/setup bootstrap/log/summary.txt
+c:/program files/microsoft sql server/140/setup bootstrap/log/summary.txt
+c:/program files/microsoft sql server/150/setup bootstrap/log/summary.txt
+c:/program files/microsoft sql server/160/setup bootstrap/log/summary.txt
 c:/program files/microsoft sql server/90/license terms/1033/license_sqlwriter.txt
 c:/program files/microsoft sql server/client sdk/odbc/170/license terms/license_msodbcsql_enu.txt
 c:/program files/microsoft sql server/client sdk/odbc/170/tools/binn/resources/1033/license_sqlcmd.txt
+c:/program files/microsoft sql server/mssql10.mssqlserver/mssql/data/master.mdf
+c:/program files/microsoft sql server/mssql10.mssqlserver/mssql/data/mastlog.ldf
+c:/program files/microsoft sql server/mssql10.mssqlserver/mssql/data/msdbdata.mdf
+c:/program files/microsoft sql server/mssql10.mssqlserver/mssql/data/msdblog.ldf
+c:/program files/microsoft sql server/mssql10.mssqlserver/mssql/log/errorlog
+c:/program files/microsoft sql server/mssql10.mssqlserver/mssql/log/errorlog.1
+c:/program files/microsoft sql server/mssql10_50.mssqlserver/mssql/data/master.mdf
+c:/program files/microsoft sql server/mssql10_50.mssqlserver/mssql/data/mastlog.ldf
+c:/program files/microsoft sql server/mssql10_50.mssqlserver/mssql/data/msdbdata.mdf
+c:/program files/microsoft sql server/mssql10_50.mssqlserver/mssql/data/msdblog.ldf
+c:/program files/microsoft sql server/mssql10_50.mssqlserver/mssql/log/errorlog
+c:/program files/microsoft sql server/mssql10_50.mssqlserver/mssql/log/errorlog.1
+c:/program files/microsoft sql server/mssql11.mssqlserver/mssql/data/master.mdf
+c:/program files/microsoft sql server/mssql11.mssqlserver/mssql/data/mastlog.ldf
+c:/program files/microsoft sql server/mssql11.mssqlserver/mssql/data/msdbdata.mdf
+c:/program files/microsoft sql server/mssql11.mssqlserver/mssql/data/msdblog.ldf
+c:/program files/microsoft sql server/mssql11.mssqlserver/mssql/log/errorlog
+c:/program files/microsoft sql server/mssql11.mssqlserver/mssql/log/errorlog.1
+c:/program files/microsoft sql server/mssql12.mssqlserver/mssql/data/master.mdf
+c:/program files/microsoft sql server/mssql12.mssqlserver/mssql/data/mastlog.ldf
+c:/program files/microsoft sql server/mssql12.mssqlserver/mssql/data/msdbdata.mdf
+c:/program files/microsoft sql server/mssql12.mssqlserver/mssql/data/msdblog.ldf
+c:/program files/microsoft sql server/mssql12.mssqlserver/mssql/log/errorlog
+c:/program files/microsoft sql server/mssql12.mssqlserver/mssql/log/errorlog.1
+c:/program files/microsoft sql server/mssql13.mssqlserver/mssql/data/master.mdf
+c:/program files/microsoft sql server/mssql13.mssqlserver/mssql/data/mastlog.ldf
+c:/program files/microsoft sql server/mssql13.mssqlserver/mssql/data/msdbdata.mdf
+c:/program files/microsoft sql server/mssql13.mssqlserver/mssql/data/msdblog.ldf
+c:/program files/microsoft sql server/mssql13.mssqlserver/mssql/log/errorlog
+c:/program files/microsoft sql server/mssql13.mssqlserver/mssql/log/errorlog.1
+c:/program files/microsoft sql server/mssql14.mssqlserver/mssql/data/master.mdf
+c:/program files/microsoft sql server/mssql14.mssqlserver/mssql/data/mastlog.ldf
+c:/program files/microsoft sql server/mssql14.mssqlserver/mssql/data/msdbdata.mdf
+c:/program files/microsoft sql server/mssql14.mssqlserver/mssql/data/msdblog.ldf
+c:/program files/microsoft sql server/mssql14.mssqlserver/mssql/log/errorlog
+c:/program files/microsoft sql server/mssql14.mssqlserver/mssql/log/errorlog.1
+c:/program files/microsoft sql server/mssql15.mssqlserver/mssql/data/master.mdf
+c:/program files/microsoft sql server/mssql15.mssqlserver/mssql/data/mastlog.ldf
+c:/program files/microsoft sql server/mssql15.mssqlserver/mssql/data/msdbdata.mdf
+c:/program files/microsoft sql server/mssql15.mssqlserver/mssql/data/msdblog.ldf
+c:/program files/microsoft sql server/mssql15.mssqlserver/mssql/log/errorlog
+c:/program files/microsoft sql server/mssql15.mssqlserver/mssql/log/errorlog.1
+c:/program files/microsoft sql server/mssql16.mssqlserver/mssql/data/master.mdf
+c:/program files/microsoft sql server/mssql16.mssqlserver/mssql/data/mastlog.ldf
+c:/program files/microsoft sql server/mssql16.mssqlserver/mssql/data/msdbdata.mdf
+c:/program files/microsoft sql server/mssql16.mssqlserver/mssql/data/msdblog.ldf
+c:/program files/microsoft sql server/mssql16.mssqlserver/mssql/log/errorlog
+c:/program files/microsoft sql server/mssql16.mssqlserver/mssql/log/errorlog.1
+c:/program files/mongodb/server/4.4/bin/log/mongod.log
+c:/program files/mongodb/server/4.4/bin/mongod.cfg
+c:/program files/mongodb/server/4.4/bin/mongod.conf
+c:/program files/mongodb/server/5.0/bin/log/mongod.log
+c:/program files/mongodb/server/5.0/bin/mongod.cfg
+c:/program files/mongodb/server/5.0/bin/mongod.conf
+c:/program files/mongodb/server/6.0/bin/log/mongod.log
+c:/program files/mongodb/server/6.0/bin/mongod.cfg
+c:/program files/mongodb/server/6.0/bin/mongod.conf
+c:/program files/mongodb/server/7.0/bin/log/mongod.log
+c:/program files/mongodb/server/7.0/bin/mongod.cfg
+c:/program files/mongodb/server/7.0/bin/mongod.conf
+c:/program files/mongodb/server/8.0/bin/log/mongod.log
+c:/program files/mongodb/server/8.0/bin/mongod.cfg
+c:/program files/mongodb/server/8.0/bin/mongod.conf
 c:/program files/mysql/data/hostname.err
 c:/program files/mysql/data/mysql-bin.log
 c:/program files/mysql/data/mysql.err
@@ -1984,7 +2994,90 @@ c:/program files/mysql/mysql server 5.0/data/mysql.err
 c:/program files/mysql/mysql server 5.0/data/mysql.log
 c:/program files/mysql/mysql server 5.0/my.cnf
 c:/program files/mysql/mysql server 5.0/my.ini
+c:/program files/mysql/mysql server 5.1/my.cnf
 c:/program files/mysql/mysql server 5.1/my.ini
+c:/program files/mysql/mysql server 5.5/my.cnf
+c:/program files/mysql/mysql server 5.5/my.ini
+c:/program files/mysql/mysql server 5.6/my.cnf
+c:/program files/mysql/mysql server 5.6/my.ini
+c:/program files/mysql/mysql server 5.7/my.cnf
+c:/program files/mysql/mysql server 5.7/my.ini
+c:/program files/mysql/mysql server 8.0/my.cnf
+c:/program files/mysql/mysql server 8.0/my.ini
+c:/program files/mysql/mysql server 8.4/my.cnf
+c:/program files/mysql/mysql server 8.4/my.ini
+c:/program files/nginx/conf/fastcgi.conf
+c:/program files/nginx/conf/fastcgi_params
+c:/program files/nginx/conf/mime.types
+c:/program files/nginx/conf/nginx.conf
+c:/program files/nginx/conf/sites-enabled/default.conf
+c:/program files/nginx/logs/access.log
+c:/program files/nginx/logs/error.log
+c:/program files/php/extras/browscap.ini
+c:/program files/php/php.ini
+c:/program files/php/php.ini-development
+c:/program files/php/php.ini-production
+c:/program files/php/php_errors.log
+c:/program files/postgresql/10/data/pg_hba.conf
+c:/program files/postgresql/10/data/pg_ident.conf
+c:/program files/postgresql/10/data/pg_version
+c:/program files/postgresql/10/data/postgresql.auto.conf
+c:/program files/postgresql/10/data/postgresql.conf
+c:/program files/postgresql/10/data/postmaster.opts
+c:/program files/postgresql/11/data/pg_hba.conf
+c:/program files/postgresql/11/data/pg_ident.conf
+c:/program files/postgresql/11/data/pg_version
+c:/program files/postgresql/11/data/postgresql.auto.conf
+c:/program files/postgresql/11/data/postgresql.conf
+c:/program files/postgresql/11/data/postmaster.opts
+c:/program files/postgresql/12/data/pg_hba.conf
+c:/program files/postgresql/12/data/pg_ident.conf
+c:/program files/postgresql/12/data/pg_version
+c:/program files/postgresql/12/data/postgresql.auto.conf
+c:/program files/postgresql/12/data/postgresql.conf
+c:/program files/postgresql/12/data/postmaster.opts
+c:/program files/postgresql/13/data/pg_hba.conf
+c:/program files/postgresql/13/data/pg_ident.conf
+c:/program files/postgresql/13/data/pg_version
+c:/program files/postgresql/13/data/postgresql.auto.conf
+c:/program files/postgresql/13/data/postgresql.conf
+c:/program files/postgresql/13/data/postmaster.opts
+c:/program files/postgresql/14/data/pg_hba.conf
+c:/program files/postgresql/14/data/pg_ident.conf
+c:/program files/postgresql/14/data/pg_version
+c:/program files/postgresql/14/data/postgresql.auto.conf
+c:/program files/postgresql/14/data/postgresql.conf
+c:/program files/postgresql/14/data/postmaster.opts
+c:/program files/postgresql/15/data/pg_hba.conf
+c:/program files/postgresql/15/data/pg_ident.conf
+c:/program files/postgresql/15/data/pg_version
+c:/program files/postgresql/15/data/postgresql.auto.conf
+c:/program files/postgresql/15/data/postgresql.conf
+c:/program files/postgresql/15/data/postmaster.opts
+c:/program files/postgresql/16/data/pg_hba.conf
+c:/program files/postgresql/16/data/pg_ident.conf
+c:/program files/postgresql/16/data/pg_version
+c:/program files/postgresql/16/data/postgresql.auto.conf
+c:/program files/postgresql/16/data/postgresql.conf
+c:/program files/postgresql/16/data/postmaster.opts
+c:/program files/postgresql/17/data/pg_hba.conf
+c:/program files/postgresql/17/data/pg_ident.conf
+c:/program files/postgresql/17/data/pg_version
+c:/program files/postgresql/17/data/postgresql.auto.conf
+c:/program files/postgresql/17/data/postgresql.conf
+c:/program files/postgresql/17/data/postmaster.opts
+c:/program files/postgresql/18/data/pg_hba.conf
+c:/program files/postgresql/18/data/pg_ident.conf
+c:/program files/postgresql/18/data/pg_version
+c:/program files/postgresql/18/data/postgresql.auto.conf
+c:/program files/postgresql/18/data/postgresql.conf
+c:/program files/postgresql/18/data/postmaster.opts
+c:/program files/postgresql/9.6/data/pg_hba.conf
+c:/program files/postgresql/9.6/data/pg_ident.conf
+c:/program files/postgresql/9.6/data/pg_version
+c:/program files/postgresql/9.6/data/postgresql.auto.conf
+c:/program files/postgresql/9.6/data/postgresql.conf
+c:/program files/postgresql/9.6/data/postmaster.opts
 c:/program files/python38/lib/idlelib/credits.txt
 c:/program files/python38/lib/idlelib/extend.txt
 c:/program files/python38/lib/idlelib/history.txt
@@ -2171,11 +3264,20 @@ c:/program files/python38/tools/pynche/webcolors.txt
 c:/program files/python38/tools/pynche/websafe.txt
 c:/program files/python38/tools/pynche/x/rgb.txt
 c:/program files/python38/tools/pynche/x/xlicense.txt
+c:/program files/redis/dump.rdb
+c:/program files/redis/redis.conf
+c:/program files/redis/redis.windows-service.conf
+c:/program files/redis/redis.windows.conf
+c:/program files/redis/sentinel.conf
 c:/program files/reference assemblies/microsoft/framework/v3.0/redistlist/frameworklist.xml
 c:/program files/reference assemblies/microsoft/framework/v3.0/winfxlist.xml
 c:/program files/reference assemblies/microsoft/framework/v3.5/redistlist/frameworklist.xml
+c:/program files/teamviewer/connections_incoming.txt
+c:/program files/teamviewer/teamviewer15_logfile.log
 c:/program files/tomcat/license
 c:/program files/tomcat/release-notes
+c:/program files/ultravnc/ultravnc.ini
+c:/program files/uvnc bvba/ultravnc/ultravnc.ini
 c:/program files/vs2010schemas/clientconfigcatalog.xml
 c:/program files/vs2012schemas/clientconfigcatalog.xml
 c:/program files/windows defender/thirdpartynotices.txt
@@ -2755,7 +3857,45 @@ c:/program files/windowspowershell/modules/pester/3.4.0/pester.tests.ps1
 c:/program files/windowspowershell/modules/powershellget/1.0.0.1/psget.format.ps1xml
 c:/program files/windowspowershell/modules/psreadline/2.0.0/psreadline.format.ps1xml
 c:/program files/xampp/apache/conf/httpd.conf
+c:/program files/zabbix agent 2/zabbix_agent2.conf
+c:/program files/zabbix agent 2/zabbix_agent2.log
+c:/program files/zabbix agent 2/zabbix_agentd.conf
+c:/program files/zabbix agent 2/zabbix_agentd.log
+c:/program files/zabbix agent/zabbix_agent2.conf
+c:/program files/zabbix agent/zabbix_agent2.log
+c:/program files/zabbix agent/zabbix_agentd.conf
+c:/program files/zabbix agent/zabbix_agentd.log
+c:/programdata/anydesk/ad_svc.trace
+c:/programdata/anydesk/service.conf
+c:/programdata/anydesk/system.conf
 c:/programdata/dftmp/devfabric.config
+c:/programdata/docker/config/daemon.json
+c:/programdata/docker/config/key.json
+c:/programdata/elastic/elasticsearch/config/elasticsearch.yml
+c:/programdata/elastic/elasticsearch/config/jvm.options
+c:/programdata/elastic/elasticsearch/config/log4j2.properties
+c:/programdata/elastic/elasticsearch/config/roles.yml
+c:/programdata/elastic/elasticsearch/config/users
+c:/programdata/elastic/elasticsearch/config/users_roles
+c:/programdata/filezilla server/filezilla server.xml
+c:/programdata/filezilla server/groups.xml
+c:/programdata/filezilla server/settings.xml
+c:/programdata/filezilla server/users.xml
+c:/programdata/git/config
+c:/programdata/git/gitconfig
+c:/programdata/jenkins/.jenkins/config.xml
+c:/programdata/jenkins/.jenkins/credentials.xml
+c:/programdata/jenkins/.jenkins/hudson.plugins.git.gittool.xml
+c:/programdata/jenkins/.jenkins/hudson.tasks.mailer.xml
+c:/programdata/jenkins/.jenkins/jenkins.err
+c:/programdata/jenkins/.jenkins/jenkins.install.installutil.lastexecversion
+c:/programdata/jenkins/.jenkins/jenkins.model.jenkinslocationconfiguration.xml
+c:/programdata/jenkins/.jenkins/jenkins.out
+c:/programdata/jenkins/.jenkins/jenkins.xml
+c:/programdata/jenkins/.jenkins/nodes.xml
+c:/programdata/jenkins/.jenkins/secrets/hudson.util.secret
+c:/programdata/jenkins/.jenkins/secrets/master.key
+c:/programdata/jenkins/.jenkins/users/users.xml
 c:/programdata/mcafee/common framework/sitelist.xml
 c:/programdata/microsoft onedrive/setup/refcount.ini
 c:/programdata/microsoft/appv/setup/officeintegrator.ps1
@@ -2854,6 +3994,30 @@ c:/programdata/microsoft/windows/wer/reportqueue/noncritical_1_c5ea668dbcc493148
 c:/programdata/microsoft/windows/wer/reportqueue/noncritical_1_c5ea668dbcc493148cbdfc746c37c592ab4636_00000000_cab_be7a5bab-2847-49cd-acdc-c294c8e4f0d3/werb1ea.tmp.werinternalmetadata.xml
 c:/programdata/microsoft/windows/wer/reportqueue/noncritical_1_c5ea668dbcc493148cbdfc746c37c592ab4636_00000000_cab_be7a5bab-2847-49cd-acdc-c294c8e4f0d3/werb249.tmp.xml
 c:/programdata/microsoft/windows/wer/reportqueue/noncritical_1_c5ea668dbcc493148cbdfc746c37c592ab4636_00000000_cab_be7a5bab-2847-49cd-acdc-c294c8e4f0d3/werb288.tmp.txt
+c:/programdata/mysql/mysql server 5.0/my.cnf
+c:/programdata/mysql/mysql server 5.0/my.ini
+c:/programdata/mysql/mysql server 5.1/my.cnf
+c:/programdata/mysql/mysql server 5.1/my.ini
+c:/programdata/mysql/mysql server 5.5/my.cnf
+c:/programdata/mysql/mysql server 5.5/my.ini
+c:/programdata/mysql/mysql server 5.6/my.cnf
+c:/programdata/mysql/mysql server 5.6/my.ini
+c:/programdata/mysql/mysql server 5.7/my.cnf
+c:/programdata/mysql/mysql server 5.7/my.ini
+c:/programdata/mysql/mysql server 8.0/my.cnf
+c:/programdata/mysql/mysql server 8.0/my.ini
+c:/programdata/mysql/mysql server 8.4/my.cnf
+c:/programdata/mysql/mysql server 8.4/my.ini
+c:/programdata/rabbitmq/advanced.config
+c:/programdata/rabbitmq/enabled_plugins
+c:/programdata/rabbitmq/rabbitmq-env-conf.bat
+c:/programdata/rabbitmq/rabbitmq.conf
+c:/programdata/ssh/administrators_authorized_keys
+c:/programdata/ssh/logs/sshd.log
+c:/programdata/ssh/ssh_host_ecdsa_key.pub
+c:/programdata/ssh/ssh_host_ed25519_key.pub
+c:/programdata/ssh/ssh_host_rsa_key.pub
+c:/programdata/ssh/sshd_config
 c:/programdata/usoprivate/updatestore/updatecspstore.xml
 c:/programdata/usoprivate/updatestore/updatestore51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml
 c:/programdata/windows app certification kit/cs-cz/wslk_strings.xml
@@ -2873,15 +4037,41 @@ c:/programdata/windows app certification kit/wslk_strings.xml
 c:/programdata/windows app certification kit/zh-cn/wslk_strings.xml
 c:/programdata/windows app certification kit/zh-tw/wslk_strings.xml
 c:/recovery/reagentold.xml
+c:/redis/dump.rdb
+c:/redis/redis.conf
+c:/redis/redis.windows-service.conf
+c:/redis/redis.windows.conf
+c:/redis/sentinel.conf
+c:/roundcube/config/config.inc.php
+c:/roundcube/config/db.inc.php
+c:/roundcube/config/main.inc.php
+c:/roundcube/logs/errors
+c:/roundcube/logs/errors.log
 c:/scripts/enumeration/windows_path_enumerate.ps1
+c:/swapfile.sys
 c:/sysprep.inf
 c:/sysprep.xml
+c:/sysprep/autounattend.xml
 c:/sysprep/sysprep.inf
 c:/sysprep/sysprep.xml
+c:/sysprep/unattend.xml
+c:/sysprep/unattended.xml
 c:/system volume information/wpsettings.dat
 c:/system32/inetsrv/metabase.xml
+c:/tomcat/bin/setenv.bat
+c:/tomcat/conf/catalina.policy
+c:/tomcat/conf/catalina.properties
+c:/tomcat/conf/context.xml
+c:/tomcat/conf/logging.properties
+c:/tomcat/conf/server.xml
+c:/tomcat/conf/tomcat-users.xml
+c:/tomcat/conf/web.xml
 c:/tomcat/license
+c:/tomcat/logs/catalina.out
 c:/tomcat/release-notes
+c:/tomcat/webapps/host-manager/meta-inf/context.xml
+c:/tomcat/webapps/manager/meta-inf/context.xml
+c:/tomcat/webapps/root/web-inf/web.xml
 c:/unattend.txt
 c:/unattend.xml
 c:/unattended.txt
@@ -2889,21 +4079,96 @@ c:/unattended.xml
 c:/users/administrator/.aws/config
 c:/users/administrator/.aws/credentials
 c:/users/administrator/.azure/accesstokens.json
+c:/users/administrator/.azure/azureprofile.json
+c:/users/administrator/.azure/clouds.config
+c:/users/administrator/.azure/msal_token_cache.json
+c:/users/administrator/.bash_history
+c:/users/administrator/.condarc
+c:/users/administrator/.config/rclone/rclone.conf
+c:/users/administrator/.docker/config.json
 c:/users/administrator/.elasticbeanstalk/config
+c:/users/administrator/.erlang.cookie
+c:/users/administrator/.git-credentials
+c:/users/administrator/.gitconfig
+c:/users/administrator/.gradle/gradle.properties
+c:/users/administrator/.jenkins/config.xml
+c:/users/administrator/.jenkins/credentials.xml
+c:/users/administrator/.kube/config
+c:/users/administrator/.m2/settings.xml
+c:/users/administrator/.mysql_history
+c:/users/administrator/.npmrc
+c:/users/administrator/.nuget/nuget/nuget.config
+c:/users/administrator/.psql_history
+c:/users/administrator/.pypirc
+c:/users/administrator/.python_history
+c:/users/administrator/.ssh/authorized_keys
+c:/users/administrator/.ssh/config
+c:/users/administrator/.ssh/id_dsa
+c:/users/administrator/.ssh/id_ecdsa
+c:/users/administrator/.ssh/id_ed25519
+c:/users/administrator/.ssh/id_rsa
+c:/users/administrator/.ssh/known_hosts
+c:/users/administrator/.terraformrc
+c:/users/administrator/.vault-token
+c:/users/administrator/.vscode/settings.json
+c:/users/administrator/appdata/local/azure/.azure/azureprofile.json
 c:/users/administrator/appdata/local/google/chrome/user data/default/bookmarks
 c:/users/administrator/appdata/local/google/chrome/user data/default/bookmarks.bak
 c:/users/administrator/appdata/local/google/chrome/user data/default/cookies
 c:/users/administrator/appdata/local/google/chrome/user data/default/history
 c:/users/administrator/appdata/local/google/chrome/user data/default/last session
 c:/users/administrator/appdata/local/google/chrome/user data/default/login data
+c:/users/administrator/appdata/local/google/chrome/user data/default/network/cookies
 c:/users/administrator/appdata/local/google/chrome/user data/default/preferences
 c:/users/administrator/appdata/local/google/chrome/user data/default/secure preferences
 c:/users/administrator/appdata/local/google/chrome/user data/default/top sites
+c:/users/administrator/appdata/local/google/chrome/user data/local state
+c:/users/administrator/appdata/local/microsoft/edge/user data/default/history
+c:/users/administrator/appdata/local/microsoft/edge/user data/default/network/cookies
+c:/users/administrator/appdata/local/microsoft/edge/user data/default/preferences
+c:/users/administrator/appdata/local/microsoft/edge/user data/local state
+c:/users/administrator/appdata/roaming/anydesk/ad.trace
+c:/users/administrator/appdata/roaming/anydesk/service.conf
+c:/users/administrator/appdata/roaming/anydesk/system.conf
+c:/users/administrator/appdata/roaming/anydesk/user.conf
+c:/users/administrator/appdata/roaming/code/user/keybindings.json
+c:/users/administrator/appdata/roaming/code/user/settings.json
+c:/users/administrator/appdata/roaming/code/user/tasks.json
+c:/users/administrator/appdata/roaming/dbeaverdata/workspace6/general/.dbeaver/credentials-config.json
+c:/users/administrator/appdata/roaming/dbeaverdata/workspace6/general/.dbeaver/data-sources.json
+c:/users/administrator/appdata/roaming/filezilla/filezilla.xml
+c:/users/administrator/appdata/roaming/filezilla/recentservers.xml
+c:/users/administrator/appdata/roaming/filezilla/sitemanager.xml
+c:/users/administrator/appdata/roaming/gcloud/application_default_credentials.json
+c:/users/administrator/appdata/roaming/gcloud/configurations/config_default
+c:/users/administrator/appdata/roaming/keepass/keepass.config.xml
+c:/users/administrator/appdata/roaming/microsoft/powershell/psreadline/consolehost_history.txt
 c:/users/administrator/appdata/roaming/microsoft/windows/powershell/psreadline/consolehost_history.txt
+c:/users/administrator/appdata/roaming/microsoft/windows/recent/automaticdestinations/1b4dd67f29cb1962.automaticdestinations-ms
+c:/users/administrator/appdata/roaming/mozilla/firefox/installs.ini
+c:/users/administrator/appdata/roaming/mozilla/firefox/profiles.ini
+c:/users/administrator/appdata/roaming/mremoteng/confcons.xml
+c:/users/administrator/appdata/roaming/nuget/nuget.config
+c:/users/administrator/appdata/roaming/pip/pip.ini
+c:/users/administrator/appdata/roaming/postgresql/pg_service.conf
+c:/users/administrator/appdata/roaming/postgresql/pgpass.conf
+c:/users/administrator/appdata/roaming/rabbitmq/advanced.config
+c:/users/administrator/appdata/roaming/rabbitmq/enabled_plugins
+c:/users/administrator/appdata/roaming/rabbitmq/rabbitmq.conf
+c:/users/administrator/appdata/roaming/rclone/rclone.conf
+c:/users/administrator/appdata/roaming/subversion/config
+c:/users/administrator/appdata/roaming/subversion/servers
+c:/users/administrator/appdata/roaming/terraform.rc
+c:/users/administrator/appdata/roaming/winscp.ini
 c:/users/administrator/desktop/desktop.ini
 c:/users/administrator/desktop/proof.txt
+c:/users/administrator/documents/desktop.ini
+c:/users/administrator/documents/iisexpress/config/applicationhost.config
+c:/users/administrator/documents/powershell/microsoft.powershell_profile.ps1
+c:/users/administrator/documents/windowspowershell/microsoft.powershell_profile.ps1
 c:/users/administrator/ntuser.dat
 c:/users/administrator/ntuser.ini
+c:/users/administrator/pip/pip.ini
 c:/users/all users/appdata/local/microsoft/clr_v4.0/ngen.log
 c:/users/all users/appdata/local/microsoft/clr_v4.0/usagelogs/azurestorageemulator.exe.log
 c:/users/all users/appdata/local/microsoft/clr_v4.0/usagelogs/backgrounddownload.exe.log
@@ -3858,8 +5123,348 @@ c:/users/all users/windows app certification kit/tr-tr/wslk_strings.xml
 c:/users/all users/windows app certification kit/wslk_strings.xml
 c:/users/all users/windows app certification kit/zh-cn/wslk_strings.xml
 c:/users/all users/windows app certification kit/zh-tw/wslk_strings.xml
+c:/users/default/.aws/config
+c:/users/default/.aws/credentials
+c:/users/default/.azure/accesstokens.json
+c:/users/default/.azure/azureprofile.json
+c:/users/default/.azure/clouds.config
+c:/users/default/.azure/msal_token_cache.json
+c:/users/default/.bash_history
+c:/users/default/.condarc
+c:/users/default/.config/rclone/rclone.conf
+c:/users/default/.docker/config.json
+c:/users/default/.erlang.cookie
+c:/users/default/.git-credentials
+c:/users/default/.gitconfig
+c:/users/default/.gradle/gradle.properties
+c:/users/default/.jenkins/config.xml
+c:/users/default/.jenkins/credentials.xml
+c:/users/default/.kube/config
+c:/users/default/.m2/settings.xml
+c:/users/default/.mysql_history
+c:/users/default/.npmrc
+c:/users/default/.nuget/nuget/nuget.config
+c:/users/default/.psql_history
+c:/users/default/.pypirc
+c:/users/default/.python_history
+c:/users/default/.ssh/authorized_keys
+c:/users/default/.ssh/config
+c:/users/default/.ssh/id_dsa
+c:/users/default/.ssh/id_ecdsa
+c:/users/default/.ssh/id_ed25519
+c:/users/default/.ssh/id_rsa
+c:/users/default/.ssh/known_hosts
+c:/users/default/.terraformrc
+c:/users/default/.vault-token
+c:/users/default/.vscode/settings.json
+c:/users/default/appdata/local/azure/.azure/azureprofile.json
+c:/users/default/appdata/local/google/chrome/user data/default/history
+c:/users/default/appdata/local/google/chrome/user data/default/network/cookies
+c:/users/default/appdata/local/google/chrome/user data/default/preferences
+c:/users/default/appdata/local/google/chrome/user data/local state
+c:/users/default/appdata/local/microsoft/edge/user data/default/history
+c:/users/default/appdata/local/microsoft/edge/user data/default/network/cookies
+c:/users/default/appdata/local/microsoft/edge/user data/default/preferences
+c:/users/default/appdata/local/microsoft/edge/user data/local state
 c:/users/default/appdata/local/microsoft/windows sidebar/settings.ini
 c:/users/default/appdata/local/microsoft/windows/shell/defaultlayouts.xml
+c:/users/default/appdata/roaming/anydesk/ad.trace
+c:/users/default/appdata/roaming/anydesk/service.conf
+c:/users/default/appdata/roaming/anydesk/system.conf
+c:/users/default/appdata/roaming/anydesk/user.conf
+c:/users/default/appdata/roaming/code/user/keybindings.json
+c:/users/default/appdata/roaming/code/user/settings.json
+c:/users/default/appdata/roaming/code/user/tasks.json
+c:/users/default/appdata/roaming/dbeaverdata/workspace6/general/.dbeaver/credentials-config.json
+c:/users/default/appdata/roaming/dbeaverdata/workspace6/general/.dbeaver/data-sources.json
+c:/users/default/appdata/roaming/filezilla/filezilla.xml
+c:/users/default/appdata/roaming/filezilla/recentservers.xml
+c:/users/default/appdata/roaming/filezilla/sitemanager.xml
+c:/users/default/appdata/roaming/gcloud/application_default_credentials.json
+c:/users/default/appdata/roaming/gcloud/configurations/config_default
+c:/users/default/appdata/roaming/keepass/keepass.config.xml
+c:/users/default/appdata/roaming/microsoft/powershell/psreadline/consolehost_history.txt
+c:/users/default/appdata/roaming/microsoft/windows/powershell/psreadline/consolehost_history.txt
+c:/users/default/appdata/roaming/microsoft/windows/recent/automaticdestinations/1b4dd67f29cb1962.automaticdestinations-ms
+c:/users/default/appdata/roaming/mozilla/firefox/installs.ini
+c:/users/default/appdata/roaming/mozilla/firefox/profiles.ini
+c:/users/default/appdata/roaming/mremoteng/confcons.xml
+c:/users/default/appdata/roaming/nuget/nuget.config
+c:/users/default/appdata/roaming/pip/pip.ini
+c:/users/default/appdata/roaming/postgresql/pg_service.conf
+c:/users/default/appdata/roaming/postgresql/pgpass.conf
+c:/users/default/appdata/roaming/rabbitmq/advanced.config
+c:/users/default/appdata/roaming/rabbitmq/enabled_plugins
+c:/users/default/appdata/roaming/rabbitmq/rabbitmq.conf
+c:/users/default/appdata/roaming/rclone/rclone.conf
+c:/users/default/appdata/roaming/subversion/config
+c:/users/default/appdata/roaming/subversion/servers
+c:/users/default/appdata/roaming/terraform.rc
+c:/users/default/appdata/roaming/winscp.ini
+c:/users/default/desktop/desktop.ini
+c:/users/default/documents/desktop.ini
+c:/users/default/documents/iisexpress/config/applicationhost.config
+c:/users/default/documents/powershell/microsoft.powershell_profile.ps1
+c:/users/default/documents/windowspowershell/microsoft.powershell_profile.ps1
+c:/users/default/ntuser.dat
+c:/users/default/ntuser.ini
+c:/users/default/pip/pip.ini
+c:/users/public/.aws/config
+c:/users/public/.aws/credentials
+c:/users/public/.azure/accesstokens.json
+c:/users/public/.azure/azureprofile.json
+c:/users/public/.azure/clouds.config
+c:/users/public/.azure/msal_token_cache.json
+c:/users/public/.bash_history
+c:/users/public/.condarc
+c:/users/public/.config/rclone/rclone.conf
+c:/users/public/.docker/config.json
+c:/users/public/.erlang.cookie
+c:/users/public/.git-credentials
+c:/users/public/.gitconfig
+c:/users/public/.gradle/gradle.properties
+c:/users/public/.jenkins/config.xml
+c:/users/public/.jenkins/credentials.xml
+c:/users/public/.kube/config
+c:/users/public/.m2/settings.xml
+c:/users/public/.mysql_history
+c:/users/public/.npmrc
+c:/users/public/.nuget/nuget/nuget.config
+c:/users/public/.psql_history
+c:/users/public/.pypirc
+c:/users/public/.python_history
+c:/users/public/.ssh/authorized_keys
+c:/users/public/.ssh/config
+c:/users/public/.ssh/id_dsa
+c:/users/public/.ssh/id_ecdsa
+c:/users/public/.ssh/id_ed25519
+c:/users/public/.ssh/id_rsa
+c:/users/public/.ssh/known_hosts
+c:/users/public/.terraformrc
+c:/users/public/.vault-token
+c:/users/public/.vscode/settings.json
+c:/users/public/appdata/local/azure/.azure/azureprofile.json
+c:/users/public/appdata/local/google/chrome/user data/default/history
+c:/users/public/appdata/local/google/chrome/user data/default/network/cookies
+c:/users/public/appdata/local/google/chrome/user data/default/preferences
+c:/users/public/appdata/local/google/chrome/user data/local state
+c:/users/public/appdata/local/microsoft/edge/user data/default/history
+c:/users/public/appdata/local/microsoft/edge/user data/default/network/cookies
+c:/users/public/appdata/local/microsoft/edge/user data/default/preferences
+c:/users/public/appdata/local/microsoft/edge/user data/local state
+c:/users/public/appdata/roaming/anydesk/ad.trace
+c:/users/public/appdata/roaming/anydesk/service.conf
+c:/users/public/appdata/roaming/anydesk/system.conf
+c:/users/public/appdata/roaming/anydesk/user.conf
+c:/users/public/appdata/roaming/code/user/keybindings.json
+c:/users/public/appdata/roaming/code/user/settings.json
+c:/users/public/appdata/roaming/code/user/tasks.json
+c:/users/public/appdata/roaming/dbeaverdata/workspace6/general/.dbeaver/credentials-config.json
+c:/users/public/appdata/roaming/dbeaverdata/workspace6/general/.dbeaver/data-sources.json
+c:/users/public/appdata/roaming/filezilla/filezilla.xml
+c:/users/public/appdata/roaming/filezilla/recentservers.xml
+c:/users/public/appdata/roaming/filezilla/sitemanager.xml
+c:/users/public/appdata/roaming/gcloud/application_default_credentials.json
+c:/users/public/appdata/roaming/gcloud/configurations/config_default
+c:/users/public/appdata/roaming/keepass/keepass.config.xml
+c:/users/public/appdata/roaming/microsoft/powershell/psreadline/consolehost_history.txt
+c:/users/public/appdata/roaming/microsoft/windows/powershell/psreadline/consolehost_history.txt
+c:/users/public/appdata/roaming/microsoft/windows/recent/automaticdestinations/1b4dd67f29cb1962.automaticdestinations-ms
+c:/users/public/appdata/roaming/mozilla/firefox/installs.ini
+c:/users/public/appdata/roaming/mozilla/firefox/profiles.ini
+c:/users/public/appdata/roaming/mremoteng/confcons.xml
+c:/users/public/appdata/roaming/nuget/nuget.config
+c:/users/public/appdata/roaming/pip/pip.ini
+c:/users/public/appdata/roaming/postgresql/pg_service.conf
+c:/users/public/appdata/roaming/postgresql/pgpass.conf
+c:/users/public/appdata/roaming/rabbitmq/advanced.config
+c:/users/public/appdata/roaming/rabbitmq/enabled_plugins
+c:/users/public/appdata/roaming/rabbitmq/rabbitmq.conf
+c:/users/public/appdata/roaming/rclone/rclone.conf
+c:/users/public/appdata/roaming/subversion/config
+c:/users/public/appdata/roaming/subversion/servers
+c:/users/public/appdata/roaming/terraform.rc
+c:/users/public/appdata/roaming/winscp.ini
+c:/users/public/desktop/desktop.ini
+c:/users/public/documents/desktop.ini
+c:/users/public/documents/iisexpress/config/applicationhost.config
+c:/users/public/documents/powershell/microsoft.powershell_profile.ps1
+c:/users/public/documents/windowspowershell/microsoft.powershell_profile.ps1
+c:/users/public/ntuser.dat
+c:/users/public/ntuser.ini
+c:/users/public/pip/pip.ini
+c:/wamp/apps/phpmyadmin/config.inc.php
+c:/wamp/apps/phpmyadmin/config.sample.inc.php
+c:/wamp/www/.dockerignore
+c:/wamp/www/.env
+c:/wamp/www/.env.backup
+c:/wamp/www/.env.bak
+c:/wamp/www/.env.development
+c:/wamp/www/.env.local
+c:/wamp/www/.env.production
+c:/wamp/www/.git/config
+c:/wamp/www/.git/head
+c:/wamp/www/.git/index
+c:/wamp/www/.hg/hgrc
+c:/wamp/www/.htaccess
+c:/wamp/www/.htpasswd
+c:/wamp/www/.npmrc
+c:/wamp/www/.svn/entries
+c:/wamp/www/.svn/wc.db
+c:/wamp/www/.user.ini
+c:/wamp/www/.yarnrc.yml
+c:/wamp/www/app/config/parameters.yml
+c:/wamp/www/app/etc/env.php
+c:/wamp/www/app/etc/local.xml
+c:/wamp/www/application.properties
+c:/wamp/www/application.yaml
+c:/wamp/www/application.yml
+c:/wamp/www/application/config/config.php
+c:/wamp/www/application/config/database.php
+c:/wamp/www/appsettings.development.json
+c:/wamp/www/appsettings.json
+c:/wamp/www/appsettings.local.json
+c:/wamp/www/appsettings.production.json
+c:/wamp/www/appsettings.staging.json
+c:/wamp/www/auth.json
+c:/wamp/www/compose.yaml
+c:/wamp/www/composer.json
+c:/wamp/www/composer.lock
+c:/wamp/www/config/app.php
+c:/wamp/www/config/config.php
+c:/wamp/www/config/database.php
+c:/wamp/www/config/database.yml
+c:/wamp/www/config/parameters.yml
+c:/wamp/www/config/secrets.yml
+c:/wamp/www/configuration.php
+c:/wamp/www/connections.config
+c:/wamp/www/connectionstrings.config
+c:/wamp/www/debug.log
+c:/wamp/www/docker-compose.yml
+c:/wamp/www/dockerfile
+c:/wamp/www/drupal/sites/default/settings.php
+c:/wamp/www/error_log
+c:/wamp/www/global.asa
+c:/wamp/www/global.asax
+c:/wamp/www/joomla/configuration.php
+c:/wamp/www/manage.py
+c:/wamp/www/meta-inf/context.xml
+c:/wamp/www/package-lock.json
+c:/wamp/www/package.json
+c:/wamp/www/packages.config
+c:/wamp/www/php.ini
+c:/wamp/www/phpinfo.php
+c:/wamp/www/pnpm-lock.yaml
+c:/wamp/www/pyproject.toml
+c:/wamp/www/requirements.txt
+c:/wamp/www/settings.py
+c:/wamp/www/sites/default/services.yml
+c:/wamp/www/sites/default/settings.php
+c:/wamp/www/storage/logs/laravel.log
+c:/wamp/www/var/log/dev.log
+c:/wamp/www/var/log/prod.log
+c:/wamp/www/web-inf/classes/application.properties
+c:/wamp/www/web-inf/classes/application.yml
+c:/wamp/www/web-inf/web.xml
+c:/wamp/www/web.config
+c:/wamp/www/web.config.bak
+c:/wamp/www/web.config.old
+c:/wamp/www/web.debug.config
+c:/wamp/www/web.release.config
+c:/wamp/www/wordpress/wp-config.php
+c:/wamp/www/wp-config.php
+c:/wamp/www/wp-config.php.bak
+c:/wamp/www/wp-content/debug.log
+c:/wamp/www/yarn.lock
+c:/wamp64/apps/phpmyadmin/config.inc.php
+c:/wamp64/apps/phpmyadmin/config.sample.inc.php
+c:/wamp64/www/.dockerignore
+c:/wamp64/www/.env
+c:/wamp64/www/.env.backup
+c:/wamp64/www/.env.bak
+c:/wamp64/www/.env.development
+c:/wamp64/www/.env.local
+c:/wamp64/www/.env.production
+c:/wamp64/www/.git/config
+c:/wamp64/www/.git/head
+c:/wamp64/www/.git/index
+c:/wamp64/www/.hg/hgrc
+c:/wamp64/www/.htaccess
+c:/wamp64/www/.htpasswd
+c:/wamp64/www/.npmrc
+c:/wamp64/www/.svn/entries
+c:/wamp64/www/.svn/wc.db
+c:/wamp64/www/.user.ini
+c:/wamp64/www/.yarnrc.yml
+c:/wamp64/www/app/config/parameters.yml
+c:/wamp64/www/app/etc/env.php
+c:/wamp64/www/app/etc/local.xml
+c:/wamp64/www/application.properties
+c:/wamp64/www/application.yaml
+c:/wamp64/www/application.yml
+c:/wamp64/www/application/config/config.php
+c:/wamp64/www/application/config/database.php
+c:/wamp64/www/appsettings.development.json
+c:/wamp64/www/appsettings.json
+c:/wamp64/www/appsettings.local.json
+c:/wamp64/www/appsettings.production.json
+c:/wamp64/www/appsettings.staging.json
+c:/wamp64/www/auth.json
+c:/wamp64/www/compose.yaml
+c:/wamp64/www/composer.json
+c:/wamp64/www/composer.lock
+c:/wamp64/www/config/app.php
+c:/wamp64/www/config/config.php
+c:/wamp64/www/config/database.php
+c:/wamp64/www/config/database.yml
+c:/wamp64/www/config/parameters.yml
+c:/wamp64/www/config/secrets.yml
+c:/wamp64/www/configuration.php
+c:/wamp64/www/connections.config
+c:/wamp64/www/connectionstrings.config
+c:/wamp64/www/debug.log
+c:/wamp64/www/docker-compose.yml
+c:/wamp64/www/dockerfile
+c:/wamp64/www/drupal/sites/default/settings.php
+c:/wamp64/www/error_log
+c:/wamp64/www/global.asa
+c:/wamp64/www/global.asax
+c:/wamp64/www/joomla/configuration.php
+c:/wamp64/www/manage.py
+c:/wamp64/www/meta-inf/context.xml
+c:/wamp64/www/package-lock.json
+c:/wamp64/www/package.json
+c:/wamp64/www/packages.config
+c:/wamp64/www/php.ini
+c:/wamp64/www/phpinfo.php
+c:/wamp64/www/pnpm-lock.yaml
+c:/wamp64/www/pyproject.toml
+c:/wamp64/www/requirements.txt
+c:/wamp64/www/settings.py
+c:/wamp64/www/sites/default/services.yml
+c:/wamp64/www/sites/default/settings.php
+c:/wamp64/www/storage/logs/laravel.log
+c:/wamp64/www/var/log/dev.log
+c:/wamp64/www/var/log/prod.log
+c:/wamp64/www/web-inf/classes/application.properties
+c:/wamp64/www/web-inf/classes/application.yml
+c:/wamp64/www/web-inf/web.xml
+c:/wamp64/www/web.config
+c:/wamp64/www/web.config.bak
+c:/wamp64/www/web.config.old
+c:/wamp64/www/web.debug.config
+c:/wamp64/www/web.release.config
+c:/wamp64/www/wordpress/wp-config.php
+c:/wamp64/www/wp-config.php
+c:/wamp64/www/wp-config.php.bak
+c:/wamp64/www/wp-content/debug.log
+c:/wamp64/www/yarn.lock
+c:/wildfly/standalone/configuration/application-roles.properties
+c:/wildfly/standalone/configuration/application-users.properties
+c:/wildfly/standalone/configuration/mgmt-users.properties
+c:/wildfly/standalone/configuration/standalone-full.xml
+c:/wildfly/standalone/configuration/standalone.xml
+c:/wildfly/standalone/log/server.log
 c:/windows/assembly/gac/stdole/7.0.3300.0__b03f5f7f11d50a3a/__assemblyinfo__.ini
 c:/windows/assembly/gac_32/msbuild/3.5.0.0__b03f5f7f11d50a3a/msbuild.exe.config
 c:/windows/assembly/gac_32/presentationcore/3.0.0.0__31bf3856ad364e35/presentationfontcache.exe.config
@@ -3874,6 +5479,8 @@ c:/windows/assembly/nativeimages_v4.0.30319_64/system.xml
 c:/windows/boot/bootdebuggerfiles.ini
 c:/windows/csc/v2.0.6/pq
 c:/windows/csc/v2.0.6/sm
+c:/windows/debug/dcpromo.log
+c:/windows/debug/dcpromoui.log
 c:/windows/debug/mrt.log
 c:/windows/debug/netsetup.log
 c:/windows/debug/passwd.log
@@ -4328,7 +5935,9 @@ c:/windows/microsoft.net/framework/v2.0.50727/aspnet_regsql.exe.config
 c:/windows/microsoft.net/framework/v2.0.50727/aspnet_state_perf.ini
 c:/windows/microsoft.net/framework/v2.0.50727/caspol.exe.config
 c:/windows/microsoft.net/framework/v2.0.50727/config/machine.config
+c:/windows/microsoft.net/framework/v2.0.50727/config/machine.config.default
 c:/windows/microsoft.net/framework/v2.0.50727/config/web.config
+c:/windows/microsoft.net/framework/v2.0.50727/config/web.config.default
 c:/windows/microsoft.net/framework/v2.0.50727/config/web_hightrust.config
 c:/windows/microsoft.net/framework/v2.0.50727/config/web_lowtrust.config
 c:/windows/microsoft.net/framework/v2.0.50727/config/web_mediumtrust.config
@@ -4370,9 +5979,11 @@ c:/windows/microsoft.net/framework/v4.0.30319/config/legacy.web_lowtrust.config
 c:/windows/microsoft.net/framework/v4.0.30319/config/legacy.web_mediumtrust.config
 c:/windows/microsoft.net/framework/v4.0.30319/config/legacy.web_minimaltrust.config
 c:/windows/microsoft.net/framework/v4.0.30319/config/machine.config
+c:/windows/microsoft.net/framework/v4.0.30319/config/machine.config.default
 c:/windows/microsoft.net/framework/v4.0.30319/config/netfx40_iis_schema_update.xml
 c:/windows/microsoft.net/framework/v4.0.30319/config/netfx45_iis_schema_update.xml
 c:/windows/microsoft.net/framework/v4.0.30319/config/web.config
+c:/windows/microsoft.net/framework/v4.0.30319/config/web.config.default
 c:/windows/microsoft.net/framework/v4.0.30319/config/web_hightrust.config
 c:/windows/microsoft.net/framework/v4.0.30319/config/web_lowtrust.config
 c:/windows/microsoft.net/framework/v4.0.30319/config/web_mediumtrust.config
@@ -4401,7 +6012,9 @@ c:/windows/microsoft.net/framework64/v2.0.50727/aspnet_regsql.exe.config
 c:/windows/microsoft.net/framework64/v2.0.50727/aspnet_state_perf.ini
 c:/windows/microsoft.net/framework64/v2.0.50727/caspol.exe.config
 c:/windows/microsoft.net/framework64/v2.0.50727/config/machine.config
+c:/windows/microsoft.net/framework64/v2.0.50727/config/machine.config.default
 c:/windows/microsoft.net/framework64/v2.0.50727/config/web.config
+c:/windows/microsoft.net/framework64/v2.0.50727/config/web.config.default
 c:/windows/microsoft.net/framework64/v2.0.50727/config/web_hightrust.config
 c:/windows/microsoft.net/framework64/v2.0.50727/config/web_lowtrust.config
 c:/windows/microsoft.net/framework64/v2.0.50727/config/web_mediumtrust.config
@@ -4442,9 +6055,11 @@ c:/windows/microsoft.net/framework64/v4.0.30319/config/legacy.web_lowtrust.confi
 c:/windows/microsoft.net/framework64/v4.0.30319/config/legacy.web_mediumtrust.config
 c:/windows/microsoft.net/framework64/v4.0.30319/config/legacy.web_minimaltrust.config
 c:/windows/microsoft.net/framework64/v4.0.30319/config/machine.config
+c:/windows/microsoft.net/framework64/v4.0.30319/config/machine.config.default
 c:/windows/microsoft.net/framework64/v4.0.30319/config/netfx40_iis_schema_update.xml
 c:/windows/microsoft.net/framework64/v4.0.30319/config/netfx45_iis_schema_update.xml
 c:/windows/microsoft.net/framework64/v4.0.30319/config/web.config
+c:/windows/microsoft.net/framework64/v4.0.30319/config/web.config.default
 c:/windows/microsoft.net/framework64/v4.0.30319/config/web_hightrust.config
 c:/windows/microsoft.net/framework64/v4.0.30319/config/web_lowtrust.config
 c:/windows/microsoft.net/framework64/v4.0.30319/config/web_mediumtrust.config
@@ -4464,7 +6079,14 @@ c:/windows/microsoft.net/framework64/v4.0.30319/regsvcs.exe.config
 c:/windows/microsoft.net/framework64/v4.0.30319/smsvchost.exe.config
 c:/windows/microsoft.net/framework64/v4.0.30319/thirdpartynotices.txt
 c:/windows/microsoft.net/framework64/v4.0.30319/vbc.exe.config
+c:/windows/my.cnf
+c:/windows/my.ini
 c:/windows/notepad.exe
+c:/windows/ntds/edb.chk
+c:/windows/ntds/edb.log
+c:/windows/ntds/ntds.dit
+c:/windows/ntds/ntds.jfm
+c:/windows/panther/autounattend.xml
 c:/windows/panther/diagerr.xml
 c:/windows/panther/diagwrn.xml
 c:/windows/panther/rollback/logrestore.txt
@@ -4569,12 +6191,180 @@ c:/windows/schemas/codeintegrity/examplepolicies/denyallaudit.xml
 c:/windows/security/database/edb.log
 c:/windows/security/database/edbtmp.log
 c:/windows/security/logs/scesetup.log
+c:/windows/serviceprofiles/localservice/.aws/config
+c:/windows/serviceprofiles/localservice/.aws/credentials
+c:/windows/serviceprofiles/localservice/.azure/accesstokens.json
+c:/windows/serviceprofiles/localservice/.azure/azureprofile.json
+c:/windows/serviceprofiles/localservice/.azure/clouds.config
+c:/windows/serviceprofiles/localservice/.azure/msal_token_cache.json
+c:/windows/serviceprofiles/localservice/.bash_history
+c:/windows/serviceprofiles/localservice/.condarc
+c:/windows/serviceprofiles/localservice/.config/rclone/rclone.conf
+c:/windows/serviceprofiles/localservice/.docker/config.json
+c:/windows/serviceprofiles/localservice/.erlang.cookie
+c:/windows/serviceprofiles/localservice/.git-credentials
+c:/windows/serviceprofiles/localservice/.gitconfig
+c:/windows/serviceprofiles/localservice/.gradle/gradle.properties
+c:/windows/serviceprofiles/localservice/.jenkins/config.xml
+c:/windows/serviceprofiles/localservice/.jenkins/credentials.xml
+c:/windows/serviceprofiles/localservice/.kube/config
+c:/windows/serviceprofiles/localservice/.m2/settings.xml
+c:/windows/serviceprofiles/localservice/.mysql_history
+c:/windows/serviceprofiles/localservice/.npmrc
+c:/windows/serviceprofiles/localservice/.nuget/nuget/nuget.config
+c:/windows/serviceprofiles/localservice/.psql_history
+c:/windows/serviceprofiles/localservice/.pypirc
+c:/windows/serviceprofiles/localservice/.python_history
+c:/windows/serviceprofiles/localservice/.ssh/authorized_keys
+c:/windows/serviceprofiles/localservice/.ssh/config
+c:/windows/serviceprofiles/localservice/.ssh/id_dsa
+c:/windows/serviceprofiles/localservice/.ssh/id_ecdsa
+c:/windows/serviceprofiles/localservice/.ssh/id_ed25519
+c:/windows/serviceprofiles/localservice/.ssh/id_rsa
+c:/windows/serviceprofiles/localservice/.ssh/known_hosts
+c:/windows/serviceprofiles/localservice/.terraformrc
+c:/windows/serviceprofiles/localservice/.vault-token
+c:/windows/serviceprofiles/localservice/.vscode/settings.json
+c:/windows/serviceprofiles/localservice/appdata/local/azure/.azure/azureprofile.json
+c:/windows/serviceprofiles/localservice/appdata/local/google/chrome/user data/default/history
+c:/windows/serviceprofiles/localservice/appdata/local/google/chrome/user data/default/network/cookies
+c:/windows/serviceprofiles/localservice/appdata/local/google/chrome/user data/default/preferences
+c:/windows/serviceprofiles/localservice/appdata/local/google/chrome/user data/local state
+c:/windows/serviceprofiles/localservice/appdata/local/microsoft/edge/user data/default/history
+c:/windows/serviceprofiles/localservice/appdata/local/microsoft/edge/user data/default/network/cookies
+c:/windows/serviceprofiles/localservice/appdata/local/microsoft/edge/user data/default/preferences
+c:/windows/serviceprofiles/localservice/appdata/local/microsoft/edge/user data/local state
 c:/windows/serviceprofiles/localservice/appdata/local/microsoft/windows sidebar/settings.ini
 c:/windows/serviceprofiles/localservice/appdata/local/microsoft/windows/shell/defaultlayouts.xml
+c:/windows/serviceprofiles/localservice/appdata/roaming/anydesk/ad.trace
+c:/windows/serviceprofiles/localservice/appdata/roaming/anydesk/service.conf
+c:/windows/serviceprofiles/localservice/appdata/roaming/anydesk/system.conf
+c:/windows/serviceprofiles/localservice/appdata/roaming/anydesk/user.conf
+c:/windows/serviceprofiles/localservice/appdata/roaming/code/user/keybindings.json
+c:/windows/serviceprofiles/localservice/appdata/roaming/code/user/settings.json
+c:/windows/serviceprofiles/localservice/appdata/roaming/code/user/tasks.json
+c:/windows/serviceprofiles/localservice/appdata/roaming/dbeaverdata/workspace6/general/.dbeaver/credentials-config.json
+c:/windows/serviceprofiles/localservice/appdata/roaming/dbeaverdata/workspace6/general/.dbeaver/data-sources.json
+c:/windows/serviceprofiles/localservice/appdata/roaming/filezilla/filezilla.xml
+c:/windows/serviceprofiles/localservice/appdata/roaming/filezilla/recentservers.xml
+c:/windows/serviceprofiles/localservice/appdata/roaming/filezilla/sitemanager.xml
+c:/windows/serviceprofiles/localservice/appdata/roaming/gcloud/application_default_credentials.json
+c:/windows/serviceprofiles/localservice/appdata/roaming/gcloud/configurations/config_default
+c:/windows/serviceprofiles/localservice/appdata/roaming/keepass/keepass.config.xml
+c:/windows/serviceprofiles/localservice/appdata/roaming/microsoft/powershell/psreadline/consolehost_history.txt
+c:/windows/serviceprofiles/localservice/appdata/roaming/microsoft/windows/powershell/psreadline/consolehost_history.txt
+c:/windows/serviceprofiles/localservice/appdata/roaming/microsoft/windows/recent/automaticdestinations/1b4dd67f29cb1962.automaticdestinations-ms
+c:/windows/serviceprofiles/localservice/appdata/roaming/mozilla/firefox/installs.ini
+c:/windows/serviceprofiles/localservice/appdata/roaming/mozilla/firefox/profiles.ini
+c:/windows/serviceprofiles/localservice/appdata/roaming/mremoteng/confcons.xml
+c:/windows/serviceprofiles/localservice/appdata/roaming/nuget/nuget.config
+c:/windows/serviceprofiles/localservice/appdata/roaming/pip/pip.ini
+c:/windows/serviceprofiles/localservice/appdata/roaming/postgresql/pg_service.conf
+c:/windows/serviceprofiles/localservice/appdata/roaming/postgresql/pgpass.conf
+c:/windows/serviceprofiles/localservice/appdata/roaming/rabbitmq/advanced.config
+c:/windows/serviceprofiles/localservice/appdata/roaming/rabbitmq/enabled_plugins
+c:/windows/serviceprofiles/localservice/appdata/roaming/rabbitmq/rabbitmq.conf
+c:/windows/serviceprofiles/localservice/appdata/roaming/rclone/rclone.conf
+c:/windows/serviceprofiles/localservice/appdata/roaming/subversion/config
+c:/windows/serviceprofiles/localservice/appdata/roaming/subversion/servers
+c:/windows/serviceprofiles/localservice/appdata/roaming/terraform.rc
+c:/windows/serviceprofiles/localservice/appdata/roaming/winscp.ini
+c:/windows/serviceprofiles/localservice/desktop/desktop.ini
+c:/windows/serviceprofiles/localservice/documents/desktop.ini
+c:/windows/serviceprofiles/localservice/documents/iisexpress/config/applicationhost.config
+c:/windows/serviceprofiles/localservice/documents/powershell/microsoft.powershell_profile.ps1
+c:/windows/serviceprofiles/localservice/documents/windowspowershell/microsoft.powershell_profile.ps1
+c:/windows/serviceprofiles/localservice/ntuser.dat
+c:/windows/serviceprofiles/localservice/ntuser.ini
+c:/windows/serviceprofiles/localservice/pip/pip.ini
+c:/windows/serviceprofiles/networkservice/.aws/config
+c:/windows/serviceprofiles/networkservice/.aws/credentials
+c:/windows/serviceprofiles/networkservice/.azure/accesstokens.json
+c:/windows/serviceprofiles/networkservice/.azure/azureprofile.json
+c:/windows/serviceprofiles/networkservice/.azure/clouds.config
+c:/windows/serviceprofiles/networkservice/.azure/msal_token_cache.json
+c:/windows/serviceprofiles/networkservice/.bash_history
+c:/windows/serviceprofiles/networkservice/.condarc
+c:/windows/serviceprofiles/networkservice/.config/rclone/rclone.conf
+c:/windows/serviceprofiles/networkservice/.docker/config.json
+c:/windows/serviceprofiles/networkservice/.erlang.cookie
+c:/windows/serviceprofiles/networkservice/.git-credentials
+c:/windows/serviceprofiles/networkservice/.gitconfig
+c:/windows/serviceprofiles/networkservice/.gradle/gradle.properties
+c:/windows/serviceprofiles/networkservice/.jenkins/config.xml
+c:/windows/serviceprofiles/networkservice/.jenkins/credentials.xml
+c:/windows/serviceprofiles/networkservice/.kube/config
+c:/windows/serviceprofiles/networkservice/.m2/settings.xml
+c:/windows/serviceprofiles/networkservice/.mysql_history
+c:/windows/serviceprofiles/networkservice/.npmrc
+c:/windows/serviceprofiles/networkservice/.nuget/nuget/nuget.config
+c:/windows/serviceprofiles/networkservice/.psql_history
+c:/windows/serviceprofiles/networkservice/.pypirc
+c:/windows/serviceprofiles/networkservice/.python_history
+c:/windows/serviceprofiles/networkservice/.ssh/authorized_keys
+c:/windows/serviceprofiles/networkservice/.ssh/config
+c:/windows/serviceprofiles/networkservice/.ssh/id_dsa
+c:/windows/serviceprofiles/networkservice/.ssh/id_ecdsa
+c:/windows/serviceprofiles/networkservice/.ssh/id_ed25519
+c:/windows/serviceprofiles/networkservice/.ssh/id_rsa
+c:/windows/serviceprofiles/networkservice/.ssh/known_hosts
+c:/windows/serviceprofiles/networkservice/.terraformrc
+c:/windows/serviceprofiles/networkservice/.vault-token
+c:/windows/serviceprofiles/networkservice/.vscode/settings.json
+c:/windows/serviceprofiles/networkservice/appdata/local/azure/.azure/azureprofile.json
+c:/windows/serviceprofiles/networkservice/appdata/local/google/chrome/user data/default/history
+c:/windows/serviceprofiles/networkservice/appdata/local/google/chrome/user data/default/network/cookies
+c:/windows/serviceprofiles/networkservice/appdata/local/google/chrome/user data/default/preferences
+c:/windows/serviceprofiles/networkservice/appdata/local/google/chrome/user data/local state
+c:/windows/serviceprofiles/networkservice/appdata/local/microsoft/edge/user data/default/history
+c:/windows/serviceprofiles/networkservice/appdata/local/microsoft/edge/user data/default/network/cookies
+c:/windows/serviceprofiles/networkservice/appdata/local/microsoft/edge/user data/default/preferences
+c:/windows/serviceprofiles/networkservice/appdata/local/microsoft/edge/user data/local state
 c:/windows/serviceprofiles/networkservice/appdata/local/microsoft/windows sidebar/settings.ini
 c:/windows/serviceprofiles/networkservice/appdata/local/microsoft/windows/shell/defaultlayouts.xml
 c:/windows/serviceprofiles/networkservice/appdata/local/temp/mpcmdrun.log
 c:/windows/serviceprofiles/networkservice/appdata/local/temp/mpsigstub.log
+c:/windows/serviceprofiles/networkservice/appdata/roaming/anydesk/ad.trace
+c:/windows/serviceprofiles/networkservice/appdata/roaming/anydesk/service.conf
+c:/windows/serviceprofiles/networkservice/appdata/roaming/anydesk/system.conf
+c:/windows/serviceprofiles/networkservice/appdata/roaming/anydesk/user.conf
+c:/windows/serviceprofiles/networkservice/appdata/roaming/code/user/keybindings.json
+c:/windows/serviceprofiles/networkservice/appdata/roaming/code/user/settings.json
+c:/windows/serviceprofiles/networkservice/appdata/roaming/code/user/tasks.json
+c:/windows/serviceprofiles/networkservice/appdata/roaming/dbeaverdata/workspace6/general/.dbeaver/credentials-config.json
+c:/windows/serviceprofiles/networkservice/appdata/roaming/dbeaverdata/workspace6/general/.dbeaver/data-sources.json
+c:/windows/serviceprofiles/networkservice/appdata/roaming/filezilla/filezilla.xml
+c:/windows/serviceprofiles/networkservice/appdata/roaming/filezilla/recentservers.xml
+c:/windows/serviceprofiles/networkservice/appdata/roaming/filezilla/sitemanager.xml
+c:/windows/serviceprofiles/networkservice/appdata/roaming/gcloud/application_default_credentials.json
+c:/windows/serviceprofiles/networkservice/appdata/roaming/gcloud/configurations/config_default
+c:/windows/serviceprofiles/networkservice/appdata/roaming/keepass/keepass.config.xml
+c:/windows/serviceprofiles/networkservice/appdata/roaming/microsoft/powershell/psreadline/consolehost_history.txt
+c:/windows/serviceprofiles/networkservice/appdata/roaming/microsoft/windows/powershell/psreadline/consolehost_history.txt
+c:/windows/serviceprofiles/networkservice/appdata/roaming/microsoft/windows/recent/automaticdestinations/1b4dd67f29cb1962.automaticdestinations-ms
+c:/windows/serviceprofiles/networkservice/appdata/roaming/mozilla/firefox/installs.ini
+c:/windows/serviceprofiles/networkservice/appdata/roaming/mozilla/firefox/profiles.ini
+c:/windows/serviceprofiles/networkservice/appdata/roaming/mremoteng/confcons.xml
+c:/windows/serviceprofiles/networkservice/appdata/roaming/nuget/nuget.config
+c:/windows/serviceprofiles/networkservice/appdata/roaming/pip/pip.ini
+c:/windows/serviceprofiles/networkservice/appdata/roaming/postgresql/pg_service.conf
+c:/windows/serviceprofiles/networkservice/appdata/roaming/postgresql/pgpass.conf
+c:/windows/serviceprofiles/networkservice/appdata/roaming/rabbitmq/advanced.config
+c:/windows/serviceprofiles/networkservice/appdata/roaming/rabbitmq/enabled_plugins
+c:/windows/serviceprofiles/networkservice/appdata/roaming/rabbitmq/rabbitmq.conf
+c:/windows/serviceprofiles/networkservice/appdata/roaming/rclone/rclone.conf
+c:/windows/serviceprofiles/networkservice/appdata/roaming/subversion/config
+c:/windows/serviceprofiles/networkservice/appdata/roaming/subversion/servers
+c:/windows/serviceprofiles/networkservice/appdata/roaming/terraform.rc
+c:/windows/serviceprofiles/networkservice/appdata/roaming/winscp.ini
+c:/windows/serviceprofiles/networkservice/desktop/desktop.ini
+c:/windows/serviceprofiles/networkservice/documents/desktop.ini
+c:/windows/serviceprofiles/networkservice/documents/iisexpress/config/applicationhost.config
+c:/windows/serviceprofiles/networkservice/documents/powershell/microsoft.powershell_profile.ps1
+c:/windows/serviceprofiles/networkservice/documents/windowspowershell/microsoft.powershell_profile.ps1
+c:/windows/serviceprofiles/networkservice/ntuser.dat
+c:/windows/serviceprofiles/networkservice/ntuser.ini
+c:/windows/serviceprofiles/networkservice/pip/pip.ini
 c:/windows/servicing/editions/editionmappings.xml
 c:/windows/servicing/editions/editionmatrix.xml
 c:/windows/servicing/editions/educationedition.xml
@@ -4640,10 +6430,12 @@ c:/windows/system32/appraiser/appraiser_data.ini
 c:/windows/system32/appraiser/appraiser_telemetryrunlist.xml
 c:/windows/system32/appv/appvstreamingux.exe.config
 c:/windows/system32/appxprovisioning.xml
+c:/windows/system32/autounattend.xml
 c:/windows/system32/catroot2/dberr.txt
 c:/windows/system32/catroot2/edb.log
 c:/windows/system32/catroot2/edbtmp.log
 c:/windows/system32/config/appevent.evt
+c:/windows/system32/config/default
 c:/windows/system32/config/default.sav
 c:/windows/system32/config/regback/default
 c:/windows/system32/config/regback/sam
@@ -4652,18 +6444,118 @@ c:/windows/system32/config/regback/software
 c:/windows/system32/config/regback/system
 c:/windows/system32/config/sam
 c:/windows/system32/config/secevent.evt
+c:/windows/system32/config/security
 c:/windows/system32/config/security.sav
+c:/windows/system32/config/software
 c:/windows/system32/config/software.sav
 c:/windows/system32/config/system
 c:/windows/system32/config/system.sa
 c:/windows/system32/config/system.sav
+c:/windows/system32/config/systemprofile/.aws/config
+c:/windows/system32/config/systemprofile/.aws/credentials
+c:/windows/system32/config/systemprofile/.azure/accesstokens.json
+c:/windows/system32/config/systemprofile/.azure/azureprofile.json
+c:/windows/system32/config/systemprofile/.azure/clouds.config
+c:/windows/system32/config/systemprofile/.azure/msal_token_cache.json
+c:/windows/system32/config/systemprofile/.bash_history
+c:/windows/system32/config/systemprofile/.condarc
+c:/windows/system32/config/systemprofile/.config/rclone/rclone.conf
+c:/windows/system32/config/systemprofile/.docker/config.json
+c:/windows/system32/config/systemprofile/.erlang.cookie
+c:/windows/system32/config/systemprofile/.git-credentials
+c:/windows/system32/config/systemprofile/.gitconfig
+c:/windows/system32/config/systemprofile/.gradle/gradle.properties
+c:/windows/system32/config/systemprofile/.jenkins/config.xml
+c:/windows/system32/config/systemprofile/.jenkins/credentials.xml
+c:/windows/system32/config/systemprofile/.kube/config
+c:/windows/system32/config/systemprofile/.m2/settings.xml
+c:/windows/system32/config/systemprofile/.mysql_history
+c:/windows/system32/config/systemprofile/.npmrc
+c:/windows/system32/config/systemprofile/.nuget/nuget/nuget.config
+c:/windows/system32/config/systemprofile/.psql_history
+c:/windows/system32/config/systemprofile/.pypirc
+c:/windows/system32/config/systemprofile/.python_history
+c:/windows/system32/config/systemprofile/.ssh/authorized_keys
+c:/windows/system32/config/systemprofile/.ssh/config
+c:/windows/system32/config/systemprofile/.ssh/id_dsa
+c:/windows/system32/config/systemprofile/.ssh/id_ecdsa
+c:/windows/system32/config/systemprofile/.ssh/id_ed25519
+c:/windows/system32/config/systemprofile/.ssh/id_rsa
+c:/windows/system32/config/systemprofile/.ssh/known_hosts
+c:/windows/system32/config/systemprofile/.terraformrc
+c:/windows/system32/config/systemprofile/.vault-token
+c:/windows/system32/config/systemprofile/.vscode/settings.json
+c:/windows/system32/config/systemprofile/appdata/local/azure/.azure/azureprofile.json
 c:/windows/system32/config/systemprofile/appdata/local/datasharing/storage/dss.log
 c:/windows/system32/config/systemprofile/appdata/local/datasharing/storage/dss00001.log
 c:/windows/system32/config/systemprofile/appdata/local/datasharing/storage/dsstmp.log
+c:/windows/system32/config/systemprofile/appdata/local/google/chrome/user data/default/history
+c:/windows/system32/config/systemprofile/appdata/local/google/chrome/user data/default/network/cookies
+c:/windows/system32/config/systemprofile/appdata/local/google/chrome/user data/default/preferences
+c:/windows/system32/config/systemprofile/appdata/local/google/chrome/user data/local state
+c:/windows/system32/config/systemprofile/appdata/local/jenkins/.jenkins/config.xml
+c:/windows/system32/config/systemprofile/appdata/local/jenkins/.jenkins/credentials.xml
+c:/windows/system32/config/systemprofile/appdata/local/jenkins/.jenkins/hudson.plugins.git.gittool.xml
+c:/windows/system32/config/systemprofile/appdata/local/jenkins/.jenkins/hudson.tasks.mailer.xml
+c:/windows/system32/config/systemprofile/appdata/local/jenkins/.jenkins/jenkins.err
+c:/windows/system32/config/systemprofile/appdata/local/jenkins/.jenkins/jenkins.install.installutil.lastexecversion
+c:/windows/system32/config/systemprofile/appdata/local/jenkins/.jenkins/jenkins.model.jenkinslocationconfiguration.xml
+c:/windows/system32/config/systemprofile/appdata/local/jenkins/.jenkins/jenkins.out
+c:/windows/system32/config/systemprofile/appdata/local/jenkins/.jenkins/jenkins.xml
+c:/windows/system32/config/systemprofile/appdata/local/jenkins/.jenkins/nodes.xml
+c:/windows/system32/config/systemprofile/appdata/local/jenkins/.jenkins/secrets/hudson.util.secret
+c:/windows/system32/config/systemprofile/appdata/local/jenkins/.jenkins/secrets/master.key
+c:/windows/system32/config/systemprofile/appdata/local/jenkins/.jenkins/users/users.xml
 c:/windows/system32/config/systemprofile/appdata/local/microsoft/clr_v4.0/usagelogs/ngentask.exe.log
 c:/windows/system32/config/systemprofile/appdata/local/microsoft/clr_v4.0/usagelogs/powershell.exe.log
 c:/windows/system32/config/systemprofile/appdata/local/microsoft/clr_v4.0/usagelogs/remotefxvgpudisablement.exe.log
 c:/windows/system32/config/systemprofile/appdata/local/microsoft/clr_v4.0/usagelogs/taskhostw.exe.log
+c:/windows/system32/config/systemprofile/appdata/local/microsoft/edge/user data/default/history
+c:/windows/system32/config/systemprofile/appdata/local/microsoft/edge/user data/default/network/cookies
+c:/windows/system32/config/systemprofile/appdata/local/microsoft/edge/user data/default/preferences
+c:/windows/system32/config/systemprofile/appdata/local/microsoft/edge/user data/local state
+c:/windows/system32/config/systemprofile/appdata/roaming/anydesk/ad.trace
+c:/windows/system32/config/systemprofile/appdata/roaming/anydesk/service.conf
+c:/windows/system32/config/systemprofile/appdata/roaming/anydesk/system.conf
+c:/windows/system32/config/systemprofile/appdata/roaming/anydesk/user.conf
+c:/windows/system32/config/systemprofile/appdata/roaming/code/user/keybindings.json
+c:/windows/system32/config/systemprofile/appdata/roaming/code/user/settings.json
+c:/windows/system32/config/systemprofile/appdata/roaming/code/user/tasks.json
+c:/windows/system32/config/systemprofile/appdata/roaming/dbeaverdata/workspace6/general/.dbeaver/credentials-config.json
+c:/windows/system32/config/systemprofile/appdata/roaming/dbeaverdata/workspace6/general/.dbeaver/data-sources.json
+c:/windows/system32/config/systemprofile/appdata/roaming/filezilla/filezilla.xml
+c:/windows/system32/config/systemprofile/appdata/roaming/filezilla/recentservers.xml
+c:/windows/system32/config/systemprofile/appdata/roaming/filezilla/sitemanager.xml
+c:/windows/system32/config/systemprofile/appdata/roaming/gcloud/application_default_credentials.json
+c:/windows/system32/config/systemprofile/appdata/roaming/gcloud/configurations/config_default
+c:/windows/system32/config/systemprofile/appdata/roaming/keepass/keepass.config.xml
+c:/windows/system32/config/systemprofile/appdata/roaming/microsoft/powershell/psreadline/consolehost_history.txt
+c:/windows/system32/config/systemprofile/appdata/roaming/microsoft/windows/powershell/psreadline/consolehost_history.txt
+c:/windows/system32/config/systemprofile/appdata/roaming/microsoft/windows/recent/automaticdestinations/1b4dd67f29cb1962.automaticdestinations-ms
+c:/windows/system32/config/systemprofile/appdata/roaming/mozilla/firefox/installs.ini
+c:/windows/system32/config/systemprofile/appdata/roaming/mozilla/firefox/profiles.ini
+c:/windows/system32/config/systemprofile/appdata/roaming/mremoteng/confcons.xml
+c:/windows/system32/config/systemprofile/appdata/roaming/nuget/nuget.config
+c:/windows/system32/config/systemprofile/appdata/roaming/pip/pip.ini
+c:/windows/system32/config/systemprofile/appdata/roaming/postgresql/pg_service.conf
+c:/windows/system32/config/systemprofile/appdata/roaming/postgresql/pgpass.conf
+c:/windows/system32/config/systemprofile/appdata/roaming/rabbitmq/advanced.config
+c:/windows/system32/config/systemprofile/appdata/roaming/rabbitmq/enabled_plugins
+c:/windows/system32/config/systemprofile/appdata/roaming/rabbitmq/rabbitmq-env-conf.bat
+c:/windows/system32/config/systemprofile/appdata/roaming/rabbitmq/rabbitmq.conf
+c:/windows/system32/config/systemprofile/appdata/roaming/rclone/rclone.conf
+c:/windows/system32/config/systemprofile/appdata/roaming/subversion/config
+c:/windows/system32/config/systemprofile/appdata/roaming/subversion/servers
+c:/windows/system32/config/systemprofile/appdata/roaming/terraform.rc
+c:/windows/system32/config/systemprofile/appdata/roaming/winscp.ini
+c:/windows/system32/config/systemprofile/desktop/desktop.ini
+c:/windows/system32/config/systemprofile/documents/desktop.ini
+c:/windows/system32/config/systemprofile/documents/iisexpress/config/applicationhost.config
+c:/windows/system32/config/systemprofile/documents/powershell/microsoft.powershell_profile.ps1
+c:/windows/system32/config/systemprofile/documents/windowspowershell/microsoft.powershell_profile.ps1
+c:/windows/system32/config/systemprofile/ntuser.dat
+c:/windows/system32/config/systemprofile/ntuser.ini
+c:/windows/system32/config/systemprofile/pip/pip.ini
 c:/windows/system32/ddfs/certificatestore_ddf.xml
 c:/windows/system32/ddfs/dmclient_ddf.xml
 c:/windows/system32/ddfs/enrollmentstatustrackingddf.xml
@@ -4672,6 +6564,9 @@ c:/windows/system32/ddfs/ngcproddf_v1.2_final.xml
 c:/windows/system32/ddfs/win32compatibilityappraiser_ddf.xml
 c:/windows/system32/detailedreading-default.xml
 c:/windows/system32/drivers/etc/hosts
+c:/windows/system32/drivers/etc/networks
+c:/windows/system32/drivers/etc/protocol
+c:/windows/system32/drivers/etc/services
 c:/windows/system32/drivers/gmreadme.txt
 c:/windows/system32/driverstore/filerepository/ntprint4.inf_amd64_eb8489edd97eed31/amd64/v3hostingfilter-pipelineconfig.xml
 c:/windows/system32/driverstore/filerepository/prnge001.inf_amd64_6faf86933fb62206/amd64/tty.ini
@@ -4726,12 +6621,17 @@ c:/windows/system32/inetsrv/config/administration.config
 c:/windows/system32/inetsrv/config/applicationhost.config
 c:/windows/system32/inetsrv/config/redirection.config
 c:/windows/system32/inetsrv/config/schema/aspnet_schema.xml
+c:/windows/system32/inetsrv/history/metabase.xml
+c:/windows/system32/inetsrv/mbschema.xml
+c:/windows/system32/inetsrv/metabase.xml
 c:/windows/system32/license.rtf
+c:/windows/system32/logfiles/firewall/pfirewall.log
 c:/windows/system32/logfiles/httperr/httperr1.log
 c:/windows/system32/logfiles/setupcln/diagerr.xml
 c:/windows/system32/logfiles/setupcln/diagwrn.xml
 c:/windows/system32/logfiles/setupcln/setupact.log
 c:/windows/system32/logfiles/setupcln/setuperr.log
+c:/windows/system32/logfiles/srt/srttrail.txt
 c:/windows/system32/mailcontactscalendarsync/livedomainlist.txt
 c:/windows/system32/mmc.exe.config
 c:/windows/system32/msdtc/msdtc.log
@@ -4774,9 +6674,13 @@ c:/windows/system32/sysprep/actionfiles/cleanup.xml
 c:/windows/system32/sysprep/actionfiles/generalize.xml
 c:/windows/system32/sysprep/actionfiles/respecialize.xml
 c:/windows/system32/sysprep/actionfiles/specialize.xml
+c:/windows/system32/sysprep/autounattend.xml
+c:/windows/system32/sysprep/panther/setupact.log
 c:/windows/system32/sysprep/panther/unattend.xml
+c:/windows/system32/sysprep/sysprep.inf
 c:/windows/system32/sysprep/sysprep.xml
 c:/windows/system32/sysprep/unattend.xml
+c:/windows/system32/sysprep/unattended.xml
 c:/windows/system32/sysprepsysprep.inf
 c:/windows/system32/sysprepsysprep.xml
 c:/windows/system32/sysprepunattend.txt
@@ -4806,6 +6710,11 @@ c:/windows/system32/windowspowershell/v1.0/modules/microsoft.powershell.odatauti
 c:/windows/system32/windowspowershell/v1.0/modules/processmitigations/microsoft.processmitigations.commands.dll-help.xml
 c:/windows/system32/windowspowershell/v1.0/powershell.exe.config
 c:/windows/system32/windowspowershell/v1.0/powershell_ise.exe.config
+c:/windows/system32/winevt/logs/application.evtx
+c:/windows/system32/winevt/logs/microsoft-windows-powershell%4operational.evtx
+c:/windows/system32/winevt/logs/security.evtx
+c:/windows/system32/winevt/logs/system.evtx
+c:/windows/system32/winevt/logs/windows powershell.evtx
 c:/windows/system32/winrm/0409/winrm.ini
 c:/windows/system32/wpr.config.xml
 c:/windows/system32/wsmanconfig_schema.xml
@@ -4821,6 +6730,12 @@ c:/windows/syswow64/icsxml/osinfo.xml
 c:/windows/syswow64/icsxml/potscfg.xml
 c:/windows/syswow64/icsxml/pppcfg.xml
 c:/windows/syswow64/ime/imejp/applets/imjpclst.xml
+c:/windows/syswow64/inetsrv/config/administration.config
+c:/windows/syswow64/inetsrv/config/applicationhost.config
+c:/windows/syswow64/inetsrv/config/redirection.config
+c:/windows/syswow64/inetsrv/history/metabase.xml
+c:/windows/syswow64/inetsrv/mbschema.xml
+c:/windows/syswow64/inetsrv/metabase.xml
 c:/windows/syswow64/mailcontactscalendarsync/livedomainlist.txt
 c:/windows/syswow64/mmc.exe.config
 c:/windows/syswow64/ndfeventview.xml
@@ -4879,27 +6794,426 @@ c:/windows/waas/tasks/17499b8d805e9480903b0df0326a3d231841049e.xml
 c:/windows/waas/tasks/5ffea6126f02e78b9099eb4614d2d339f03ca5a8.xml
 c:/windows/win.ini
 c:/windows/windowsupdate.log
+c:/winnt/debug/dcpromo.log
+c:/winnt/debug/dcpromoui.log
+c:/winnt/debug/netsetup.log
+c:/winnt/iis6.log
+c:/winnt/logs/cbs/cbs.log
+c:/winnt/logs/dism/dism.log
+c:/winnt/panther/setupact.log
+c:/winnt/panther/setuperr.log
+c:/winnt/panther/unattend.xml
+c:/winnt/panther/unattend/unattend.xml
 c:/winnt/php.ini
+c:/winnt/repair/sam
+c:/winnt/repair/security
+c:/winnt/repair/software
+c:/winnt/repair/system
+c:/winnt/system.ini
+c:/winnt/system32/config/default
+c:/winnt/system32/config/regback/default
+c:/winnt/system32/config/regback/sam
+c:/winnt/system32/config/regback/security
+c:/winnt/system32/config/regback/software
+c:/winnt/system32/config/regback/system
+c:/winnt/system32/config/sam
+c:/winnt/system32/config/security
+c:/winnt/system32/config/software
+c:/winnt/system32/config/system
+c:/winnt/system32/drivers/etc/hosts
+c:/winnt/system32/drivers/etc/networks
+c:/winnt/system32/drivers/etc/protocol
+c:/winnt/system32/drivers/etc/services
+c:/winnt/system32/license.rtf
+c:/winnt/system32/logfiles/firewall/pfirewall.log
+c:/winnt/system32/logfiles/srt/srttrail.txt
+c:/winnt/system32/sysprep/panther/setupact.log
+c:/winnt/system32/sysprep/unattend.xml
+c:/winnt/system32/winevt/logs/application.evtx
+c:/winnt/system32/winevt/logs/microsoft-windows-powershell%4operational.evtx
+c:/winnt/system32/winevt/logs/security.evtx
+c:/winnt/system32/winevt/logs/system.evtx
+c:/winnt/system32/winevt/logs/windows powershell.evtx
 c:/winnt/win.ini
+c:/winnt/windowsupdate.log
+c:/www/.dockerignore
+c:/www/.env
+c:/www/.env.backup
+c:/www/.env.bak
+c:/www/.env.development
+c:/www/.env.local
+c:/www/.env.production
+c:/www/.git/config
+c:/www/.git/head
+c:/www/.git/index
+c:/www/.hg/hgrc
+c:/www/.htaccess
+c:/www/.htpasswd
+c:/www/.npmrc
+c:/www/.svn/entries
+c:/www/.svn/wc.db
+c:/www/.user.ini
+c:/www/.yarnrc.yml
+c:/www/app/config/parameters.yml
+c:/www/app/etc/env.php
+c:/www/app/etc/local.xml
+c:/www/application.properties
+c:/www/application.yaml
+c:/www/application.yml
+c:/www/application/config/config.php
+c:/www/application/config/database.php
+c:/www/appsettings.development.json
+c:/www/appsettings.json
+c:/www/appsettings.local.json
+c:/www/appsettings.production.json
+c:/www/appsettings.staging.json
+c:/www/auth.json
+c:/www/compose.yaml
+c:/www/composer.json
+c:/www/composer.lock
+c:/www/config/app.php
+c:/www/config/config.php
+c:/www/config/database.php
+c:/www/config/database.yml
+c:/www/config/parameters.yml
+c:/www/config/secrets.yml
+c:/www/configuration.php
+c:/www/connections.config
+c:/www/connectionstrings.config
+c:/www/debug.log
+c:/www/docker-compose.yml
+c:/www/dockerfile
+c:/www/drupal/sites/default/settings.php
+c:/www/error_log
+c:/www/global.asa
+c:/www/global.asax
+c:/www/htdocs/.dockerignore
+c:/www/htdocs/.env
+c:/www/htdocs/.env.backup
+c:/www/htdocs/.env.bak
+c:/www/htdocs/.env.development
+c:/www/htdocs/.env.local
+c:/www/htdocs/.env.production
+c:/www/htdocs/.git/config
+c:/www/htdocs/.git/head
+c:/www/htdocs/.git/index
+c:/www/htdocs/.hg/hgrc
+c:/www/htdocs/.htaccess
+c:/www/htdocs/.htpasswd
+c:/www/htdocs/.npmrc
+c:/www/htdocs/.svn/entries
+c:/www/htdocs/.svn/wc.db
+c:/www/htdocs/.user.ini
+c:/www/htdocs/.yarnrc.yml
+c:/www/htdocs/app/config/parameters.yml
+c:/www/htdocs/app/etc/env.php
+c:/www/htdocs/app/etc/local.xml
+c:/www/htdocs/application.properties
+c:/www/htdocs/application.yaml
+c:/www/htdocs/application.yml
+c:/www/htdocs/application/config/config.php
+c:/www/htdocs/application/config/database.php
+c:/www/htdocs/appsettings.development.json
+c:/www/htdocs/appsettings.json
+c:/www/htdocs/appsettings.local.json
+c:/www/htdocs/appsettings.production.json
+c:/www/htdocs/appsettings.staging.json
+c:/www/htdocs/auth.json
+c:/www/htdocs/compose.yaml
+c:/www/htdocs/composer.json
+c:/www/htdocs/composer.lock
+c:/www/htdocs/config/app.php
+c:/www/htdocs/config/config.php
+c:/www/htdocs/config/database.php
+c:/www/htdocs/config/database.yml
+c:/www/htdocs/config/parameters.yml
+c:/www/htdocs/config/secrets.yml
+c:/www/htdocs/configuration.php
+c:/www/htdocs/connections.config
+c:/www/htdocs/connectionstrings.config
+c:/www/htdocs/debug.log
+c:/www/htdocs/docker-compose.yml
+c:/www/htdocs/dockerfile
+c:/www/htdocs/drupal/sites/default/settings.php
+c:/www/htdocs/error_log
+c:/www/htdocs/global.asa
+c:/www/htdocs/global.asax
+c:/www/htdocs/joomla/configuration.php
+c:/www/htdocs/manage.py
+c:/www/htdocs/meta-inf/context.xml
+c:/www/htdocs/package-lock.json
+c:/www/htdocs/package.json
+c:/www/htdocs/packages.config
+c:/www/htdocs/php.ini
+c:/www/htdocs/phpinfo.php
+c:/www/htdocs/pnpm-lock.yaml
+c:/www/htdocs/pyproject.toml
+c:/www/htdocs/requirements.txt
+c:/www/htdocs/settings.py
+c:/www/htdocs/sites/default/services.yml
+c:/www/htdocs/sites/default/settings.php
+c:/www/htdocs/storage/logs/laravel.log
+c:/www/htdocs/var/log/dev.log
+c:/www/htdocs/var/log/prod.log
+c:/www/htdocs/web-inf/classes/application.properties
+c:/www/htdocs/web-inf/classes/application.yml
+c:/www/htdocs/web-inf/web.xml
+c:/www/htdocs/web.config
+c:/www/htdocs/web.config.bak
+c:/www/htdocs/web.config.old
+c:/www/htdocs/web.debug.config
+c:/www/htdocs/web.release.config
+c:/www/htdocs/wordpress/wp-config.php
+c:/www/htdocs/wp-config.php
+c:/www/htdocs/wp-config.php.bak
+c:/www/htdocs/wp-content/debug.log
+c:/www/htdocs/yarn.lock
+c:/www/joomla/configuration.php
+c:/www/manage.py
+c:/www/meta-inf/context.xml
+c:/www/package-lock.json
+c:/www/package.json
+c:/www/packages.config
+c:/www/php.ini
+c:/www/phpinfo.php
+c:/www/pnpm-lock.yaml
+c:/www/pyproject.toml
+c:/www/requirements.txt
+c:/www/settings.py
+c:/www/sites/default/services.yml
+c:/www/sites/default/settings.php
+c:/www/storage/logs/laravel.log
+c:/www/var/log/dev.log
+c:/www/var/log/prod.log
+c:/www/web-inf/classes/application.properties
+c:/www/web-inf/classes/application.yml
+c:/www/web-inf/web.xml
+c:/www/web.config
+c:/www/web.config.bak
+c:/www/web.config.old
+c:/www/web.debug.config
+c:/www/web.release.config
+c:/www/wordpress/wp-config.php
+c:/www/wp-config.php
+c:/www/wp-config.php.bak
+c:/www/wp-content/debug.log
+c:/www/yarn.lock
+c:/wwwroot/.dockerignore
+c:/wwwroot/.env
+c:/wwwroot/.env.backup
+c:/wwwroot/.env.bak
+c:/wwwroot/.env.development
+c:/wwwroot/.env.local
+c:/wwwroot/.env.production
+c:/wwwroot/.git/config
+c:/wwwroot/.git/head
+c:/wwwroot/.git/index
+c:/wwwroot/.hg/hgrc
+c:/wwwroot/.htaccess
+c:/wwwroot/.htpasswd
+c:/wwwroot/.npmrc
+c:/wwwroot/.svn/entries
+c:/wwwroot/.svn/wc.db
+c:/wwwroot/.user.ini
+c:/wwwroot/.yarnrc.yml
+c:/wwwroot/app/config/parameters.yml
+c:/wwwroot/app/etc/env.php
+c:/wwwroot/app/etc/local.xml
+c:/wwwroot/application.properties
+c:/wwwroot/application.yaml
+c:/wwwroot/application.yml
+c:/wwwroot/application/config/config.php
+c:/wwwroot/application/config/database.php
+c:/wwwroot/appsettings.development.json
+c:/wwwroot/appsettings.json
+c:/wwwroot/appsettings.local.json
+c:/wwwroot/appsettings.production.json
+c:/wwwroot/appsettings.staging.json
+c:/wwwroot/auth.json
+c:/wwwroot/compose.yaml
+c:/wwwroot/composer.json
+c:/wwwroot/composer.lock
+c:/wwwroot/config/app.php
+c:/wwwroot/config/config.php
+c:/wwwroot/config/database.php
+c:/wwwroot/config/database.yml
+c:/wwwroot/config/parameters.yml
+c:/wwwroot/config/secrets.yml
+c:/wwwroot/configuration.php
+c:/wwwroot/connections.config
+c:/wwwroot/connectionstrings.config
+c:/wwwroot/debug.log
+c:/wwwroot/docker-compose.yml
+c:/wwwroot/dockerfile
+c:/wwwroot/drupal/sites/default/settings.php
+c:/wwwroot/error_log
+c:/wwwroot/global.asa
+c:/wwwroot/global.asax
+c:/wwwroot/joomla/configuration.php
+c:/wwwroot/manage.py
+c:/wwwroot/meta-inf/context.xml
+c:/wwwroot/package-lock.json
+c:/wwwroot/package.json
+c:/wwwroot/packages.config
+c:/wwwroot/php.ini
+c:/wwwroot/phpinfo.php
+c:/wwwroot/pnpm-lock.yaml
+c:/wwwroot/pyproject.toml
+c:/wwwroot/requirements.txt
+c:/wwwroot/settings.py
+c:/wwwroot/sites/default/services.yml
+c:/wwwroot/sites/default/settings.php
+c:/wwwroot/storage/logs/laravel.log
+c:/wwwroot/var/log/dev.log
+c:/wwwroot/var/log/prod.log
+c:/wwwroot/web-inf/classes/application.properties
+c:/wwwroot/web-inf/classes/application.yml
+c:/wwwroot/web-inf/web.xml
+c:/wwwroot/web.config
+c:/wwwroot/web.config.bak
+c:/wwwroot/web.config.old
+c:/wwwroot/web.debug.config
+c:/wwwroot/web.release.config
+c:/wwwroot/wordpress/wp-config.php
+c:/wwwroot/wp-config.php
+c:/wwwroot/wp-config.php.bak
+c:/wwwroot/wp-content/debug.log
+c:/wwwroot/yarn.lock
 c:/xampp/apache/bin/php.ini
+c:/xampp/apache/conf/extra/httpd-default.conf
+c:/xampp/apache/conf/extra/httpd-ssl.conf
+c:/xampp/apache/conf/extra/httpd-vhosts.conf
+c:/xampp/apache/conf/extra/httpd-xampp.conf
 c:/xampp/apache/conf/httpd.conf
+c:/xampp/apache/conf/mime.types
 c:/xampp/apache/logs/access.log
+c:/xampp/apache/logs/access_log
 c:/xampp/apache/logs/error.log
+c:/xampp/apache/logs/error_log
 c:/xampp/filezillaftp/filezilla server.xml
 c:/xampp/filezillaftp/logs
 c:/xampp/filezillaftp/logs/access.log
 c:/xampp/filezillaftp/logs/error.log
+c:/xampp/htdocs/.dockerignore
+c:/xampp/htdocs/.env
+c:/xampp/htdocs/.env.backup
+c:/xampp/htdocs/.env.bak
+c:/xampp/htdocs/.env.development
+c:/xampp/htdocs/.env.local
+c:/xampp/htdocs/.env.production
+c:/xampp/htdocs/.git/config
+c:/xampp/htdocs/.git/head
+c:/xampp/htdocs/.git/index
+c:/xampp/htdocs/.hg/hgrc
+c:/xampp/htdocs/.htaccess
+c:/xampp/htdocs/.htpasswd
+c:/xampp/htdocs/.npmrc
+c:/xampp/htdocs/.svn/entries
+c:/xampp/htdocs/.svn/wc.db
+c:/xampp/htdocs/.user.ini
+c:/xampp/htdocs/.yarnrc.yml
+c:/xampp/htdocs/app/config/parameters.yml
+c:/xampp/htdocs/app/etc/env.php
+c:/xampp/htdocs/app/etc/local.xml
+c:/xampp/htdocs/application.properties
+c:/xampp/htdocs/application.yaml
+c:/xampp/htdocs/application.yml
+c:/xampp/htdocs/application/config/config.php
+c:/xampp/htdocs/application/config/database.php
+c:/xampp/htdocs/appsettings.development.json
+c:/xampp/htdocs/appsettings.json
+c:/xampp/htdocs/appsettings.local.json
+c:/xampp/htdocs/appsettings.production.json
+c:/xampp/htdocs/appsettings.staging.json
+c:/xampp/htdocs/auth.json
+c:/xampp/htdocs/compose.yaml
+c:/xampp/htdocs/composer.json
+c:/xampp/htdocs/composer.lock
+c:/xampp/htdocs/config/app.php
+c:/xampp/htdocs/config/config.php
+c:/xampp/htdocs/config/database.php
+c:/xampp/htdocs/config/database.yml
+c:/xampp/htdocs/config/parameters.yml
+c:/xampp/htdocs/config/secrets.yml
+c:/xampp/htdocs/configuration.php
+c:/xampp/htdocs/connections.config
+c:/xampp/htdocs/connectionstrings.config
+c:/xampp/htdocs/debug.log
+c:/xampp/htdocs/docker-compose.yml
+c:/xampp/htdocs/dockerfile
+c:/xampp/htdocs/drupal/sites/default/settings.php
+c:/xampp/htdocs/error_log
+c:/xampp/htdocs/global.asa
+c:/xampp/htdocs/global.asax
+c:/xampp/htdocs/joomla/configuration.php
+c:/xampp/htdocs/manage.py
+c:/xampp/htdocs/meta-inf/context.xml
+c:/xampp/htdocs/package-lock.json
+c:/xampp/htdocs/package.json
+c:/xampp/htdocs/packages.config
+c:/xampp/htdocs/php.ini
+c:/xampp/htdocs/phpinfo.php
+c:/xampp/htdocs/pnpm-lock.yaml
+c:/xampp/htdocs/pyproject.toml
+c:/xampp/htdocs/requirements.txt
+c:/xampp/htdocs/roundcube/config/config.inc.php
+c:/xampp/htdocs/roundcube/config/db.inc.php
+c:/xampp/htdocs/roundcube/config/main.inc.php
+c:/xampp/htdocs/roundcube/logs/errors
+c:/xampp/htdocs/roundcube/logs/errors.log
+c:/xampp/htdocs/settings.py
+c:/xampp/htdocs/sites/default/services.yml
+c:/xampp/htdocs/sites/default/settings.php
+c:/xampp/htdocs/storage/logs/laravel.log
+c:/xampp/htdocs/var/log/dev.log
+c:/xampp/htdocs/var/log/prod.log
+c:/xampp/htdocs/web-inf/classes/application.properties
+c:/xampp/htdocs/web-inf/classes/application.yml
+c:/xampp/htdocs/web-inf/web.xml
+c:/xampp/htdocs/web.config
+c:/xampp/htdocs/web.config.bak
+c:/xampp/htdocs/web.config.old
+c:/xampp/htdocs/web.debug.config
+c:/xampp/htdocs/web.release.config
+c:/xampp/htdocs/wordpress/wp-config.php
+c:/xampp/htdocs/wp-config.php
+c:/xampp/htdocs/wp-config.php.bak
+c:/xampp/htdocs/wp-content/debug.log
+c:/xampp/htdocs/yarn.lock
 c:/xampp/mercurymail/logs/access.log
 c:/xampp/mercurymail/logs/error.log
 c:/xampp/mercurymail/mercury.ini
+c:/xampp/mysql/bin/my.cnf
+c:/xampp/mysql/bin/my.ini
 c:/xampp/mysql/data/mysql.err
+c:/xampp/mysql/my.cnf
+c:/xampp/mysql/my.ini
+c:/xampp/php/extras/browscap.ini
 c:/xampp/php/php.ini
+c:/xampp/php/php.ini-development
+c:/xampp/php/php.ini-production
+c:/xampp/php/php_errors.log
 c:/xampp/phpmyadmin/config.inc
 c:/xampp/phpmyadmin/config.inc.php
+c:/xampp/phpmyadmin/config.sample.inc.php
 c:/xampp/phpmyadmin/phpinfo.php
 c:/xampp/sendmail/sendmail.ini
 c:/xampp/sendmail/sendmail.log
+c:/xampp/tomcat/bin/setenv.bat
+c:/xampp/tomcat/conf/catalina.policy
+c:/xampp/tomcat/conf/catalina.properties
+c:/xampp/tomcat/conf/context.xml
+c:/xampp/tomcat/conf/logging.properties
+c:/xampp/tomcat/conf/server.xml
 c:/xampp/tomcat/conf/tomcat-users.xml
 c:/xampp/tomcat/conf/web.xml
+c:/xampp/tomcat/logs/catalina.out
+c:/xampp/tomcat/webapps/host-manager/meta-inf/context.xml
+c:/xampp/tomcat/webapps/manager/meta-inf/context.xml
+c:/xampp/tomcat/webapps/root/web-inf/web.xml
 c:/xampp/webalizer/webalizer.conf
 c:/xampp/webdav/webdav.txt
+c:/zabbix/zabbix_agent2.conf
+c:/zabbix/zabbix_agent2.log
+c:/zabbix/zabbix_agentd.conf
+c:/zabbix/zabbix_agentd.log

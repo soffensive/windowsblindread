@@ -1,0 +1,799 @@
+{
+  "schema_version": 1,
+  "notes": "Roots are candidate installation locations, not guarantees. References document the layout, not every candidate root. Paths may require privileges or be locked. Existing legacy entries are retained separately.",
+  "groups": [
+    {
+      "name": "windows",
+      "roots": [
+        "c:/windows",
+        "c:/winnt"
+      ],
+      "files": [
+        "win.ini",
+        "system.ini",
+        "system32/drivers/etc/hosts",
+        "system32/drivers/etc/networks",
+        "system32/drivers/etc/protocol",
+        "system32/drivers/etc/services",
+        "system32/license.rtf",
+        "debug/netsetup.log",
+        "debug/dcpromo.log",
+        "debug/dcpromoui.log",
+        "panther/setupact.log",
+        "panther/setuperr.log",
+        "panther/unattend.xml",
+        "panther/unattend/unattend.xml",
+        "system32/sysprep/unattend.xml",
+        "system32/sysprep/panther/setupact.log",
+        "system32/config/sam",
+        "system32/config/system",
+        "system32/config/software",
+        "system32/config/security",
+        "system32/config/default",
+        "repair/sam",
+        "repair/system",
+        "repair/software",
+        "repair/security",
+        "system32/config/regback/sam",
+        "system32/config/regback/system",
+        "system32/config/regback/software",
+        "system32/config/regback/security",
+        "system32/config/regback/default",
+        "system32/winevt/logs/application.evtx",
+        "system32/winevt/logs/system.evtx",
+        "system32/winevt/logs/security.evtx",
+        "system32/winevt/logs/windows powershell.evtx",
+        "system32/winevt/logs/microsoft-windows-powershell%4operational.evtx",
+        "system32/logfiles/srt/srttrail.txt",
+        "system32/logfiles/firewall/pfirewall.log",
+        "logs/cbs/cbs.log",
+        "logs/dism/dism.log",
+        "windowsupdate.log",
+        "iis6.log",
+        "php.ini"
+      ]
+    },
+    {
+      "name": "boot",
+      "roots": [
+        "c:"
+      ],
+      "files": [
+        "boot.ini",
+        "bootmgr",
+        "boot/bcd",
+        "boot/bcd.log",
+        "autoexec.bat",
+        "config.sys",
+        "msdos.sys",
+        "io.sys",
+        "hiberfil.sys",
+        "pagefile.sys",
+        "swapfile.sys",
+        "unattend.xml",
+        "unattended.xml",
+        "sysprep.inf",
+        "sysprep/sysprep.inf"
+      ]
+    },
+    {
+      "name": "iis",
+      "roots": [
+        "c:/windows/system32/inetsrv",
+        "c:/windows/syswow64/inetsrv"
+      ],
+      "files": [
+        "config/applicationhost.config",
+        "config/administration.config",
+        "config/redirection.config",
+        "metabase.xml",
+        "mbschema.xml",
+        "history/metabase.xml"
+      ],
+      "reference": "https://learn.microsoft.com/en-us/iis/configuration/"
+    },
+    {
+      "name": "dotnet",
+      "roots": [
+        "c:/windows/microsoft.net/framework/v2.0.50727",
+        "c:/windows/microsoft.net/framework64/v2.0.50727",
+        "c:/windows/microsoft.net/framework/v4.0.30319",
+        "c:/windows/microsoft.net/framework64/v4.0.30319"
+      ],
+      "files": [
+        "config/machine.config",
+        "config/web.config",
+        "config/machine.config.default",
+        "config/web.config.default"
+      ]
+    },
+    {
+      "name": "webapps",
+      "roots": [
+        "c:/inetpub/wwwroot",
+        "c:/wwwroot",
+        "c:/www",
+        "c:/www/htdocs",
+        "c:/apache/htdocs",
+        "c:/apache2/htdocs",
+        "c:/apache24/htdocs",
+        "c:/xampp/htdocs",
+        "c:/wamp/www",
+        "c:/wamp64/www",
+        "c:/laragon/www",
+        "c:/nginx/html",
+        "c:/home/site/wwwroot"
+      ],
+      "files": [
+        "web.config",
+        "web.config.bak",
+        "web.config.old",
+        "web.debug.config",
+        "web.release.config",
+        "appsettings.json",
+        "appsettings.development.json",
+        "appsettings.production.json",
+        "appsettings.staging.json",
+        "appsettings.local.json",
+        "global.asax",
+        "global.asa",
+        "packages.config",
+        "connectionstrings.config",
+        "connections.config",
+        ".env",
+        ".env.local",
+        ".env.production",
+        ".env.development",
+        ".env.backup",
+        ".env.bak",
+        ".git/config",
+        ".git/head",
+        ".git/index",
+        ".svn/entries",
+        ".svn/wc.db",
+        ".hg/hgrc",
+        ".htaccess",
+        ".htpasswd",
+        ".user.ini",
+        "php.ini",
+        "phpinfo.php",
+        "composer.json",
+        "composer.lock",
+        "auth.json",
+        "package.json",
+        "package-lock.json",
+        "yarn.lock",
+        "pnpm-lock.yaml",
+        ".npmrc",
+        ".yarnrc.yml",
+        "wp-config.php",
+        "wp-config.php.bak",
+        "wordpress/wp-config.php",
+        "configuration.php",
+        "joomla/configuration.php",
+        "sites/default/settings.php",
+        "sites/default/services.yml",
+        "drupal/sites/default/settings.php",
+        "app/etc/env.php",
+        "app/etc/local.xml",
+        "config/database.php",
+        "config/app.php",
+        "config/config.php",
+        "config/parameters.yml",
+        "app/config/parameters.yml",
+        "config/secrets.yml",
+        "config/database.yml",
+        "application/config/database.php",
+        "application/config/config.php",
+        "application.properties",
+        "application.yml",
+        "application.yaml",
+        "web-inf/web.xml",
+        "web-inf/classes/application.properties",
+        "web-inf/classes/application.yml",
+        "meta-inf/context.xml",
+        "storage/logs/laravel.log",
+        "var/log/prod.log",
+        "var/log/dev.log",
+        "error_log",
+        "debug.log",
+        "wp-content/debug.log",
+        "docker-compose.yml",
+        "compose.yaml",
+        "dockerfile",
+        ".dockerignore",
+        "requirements.txt",
+        "pyproject.toml",
+        "manage.py",
+        "settings.py"
+      ]
+    },
+    {
+      "name": "apache",
+      "roots": [
+        "c:/apache",
+        "c:/apache2",
+        "c:/apache24",
+        "c:/program files/apache group/apache2",
+        "c:/program files/apache software foundation/apache2.2",
+        "c:/program files/apache software foundation/apache2.4",
+        "c:/xampp/apache"
+      ],
+      "files": [
+        "conf/httpd.conf",
+        "conf/extra/httpd-vhosts.conf",
+        "conf/extra/httpd-ssl.conf",
+        "conf/extra/httpd-default.conf",
+        "conf/extra/httpd-xampp.conf",
+        "conf/mime.types",
+        "logs/access.log",
+        "logs/error.log",
+        "logs/access_log",
+        "logs/error_log"
+      ]
+    },
+    {
+      "name": "nginx",
+      "roots": [
+        "c:/nginx",
+        "c:/program files/nginx"
+      ],
+      "files": [
+        "conf/nginx.conf",
+        "conf/mime.types",
+        "conf/fastcgi.conf",
+        "conf/fastcgi_params",
+        "conf/sites-enabled/default.conf",
+        "logs/access.log",
+        "logs/error.log"
+      ],
+      "reference": "https://nginx.org/en/docs/windows.html"
+    },
+    {
+      "name": "php",
+      "roots": [
+        "c:/php",
+        "c:/php5",
+        "c:/php7",
+        "c:/php8",
+        "c:/program files/php",
+        "c:/program files (x86)/php",
+        "c:/xampp/php"
+      ],
+      "files": [
+        "php.ini",
+        "php.ini-development",
+        "php.ini-production",
+        "php_errors.log",
+        "extras/browscap.ini"
+      ]
+    },
+    {
+      "name": "tomcat",
+      "roots": [
+        "c:/tomcat",
+        "c:/xampp/tomcat",
+        "c:/program files/apache software foundation/tomcat 6.0",
+        "c:/program files/apache software foundation/tomcat 7.0",
+        "c:/program files/apache software foundation/tomcat 8.0",
+        "c:/program files/apache software foundation/tomcat 8.5",
+        "c:/program files/apache software foundation/tomcat 9.0",
+        "c:/program files/apache software foundation/tomcat 10.0",
+        "c:/program files/apache software foundation/tomcat 10.1",
+        "c:/program files/apache software foundation/tomcat 11.0"
+      ],
+      "files": [
+        "conf/server.xml",
+        "conf/web.xml",
+        "conf/context.xml",
+        "conf/tomcat-users.xml",
+        "conf/catalina.properties",
+        "conf/logging.properties",
+        "conf/catalina.policy",
+        "bin/setenv.bat",
+        "webapps/root/web-inf/web.xml",
+        "webapps/manager/meta-inf/context.xml",
+        "webapps/host-manager/meta-inf/context.xml",
+        "logs/catalina.out"
+      ],
+      "reference": "https://tomcat.apache.org/tomcat-11.0-doc/introduction.html"
+    },
+    {
+      "name": "java-appservers",
+      "roots": [
+        "c:/jboss/standalone",
+        "c:/wildfly/standalone"
+      ],
+      "files": [
+        "configuration/standalone.xml",
+        "configuration/standalone-full.xml",
+        "configuration/mgmt-users.properties",
+        "configuration/application-users.properties",
+        "configuration/application-roles.properties",
+        "log/server.log"
+      ]
+    },
+    {
+      "name": "mysql",
+      "roots": [
+        "c:",
+        "c:/windows",
+        "c:/mysql",
+        "c:/xampp/mysql",
+        "c:/xampp/mysql/bin",
+        "c:/programdata/mysql/mysql server 5.0",
+        "c:/programdata/mysql/mysql server 5.1",
+        "c:/programdata/mysql/mysql server 5.5",
+        "c:/programdata/mysql/mysql server 5.6",
+        "c:/programdata/mysql/mysql server 5.7",
+        "c:/programdata/mysql/mysql server 8.0",
+        "c:/programdata/mysql/mysql server 8.4",
+        "c:/program files/mysql/mysql server 5.0",
+        "c:/program files/mysql/mysql server 5.1",
+        "c:/program files/mysql/mysql server 5.5",
+        "c:/program files/mysql/mysql server 5.6",
+        "c:/program files/mysql/mysql server 5.7",
+        "c:/program files/mysql/mysql server 8.0",
+        "c:/program files/mysql/mysql server 8.4",
+        "c:/program files (x86)/mysql/mysql server 5.0",
+        "c:/program files (x86)/mysql/mysql server 5.1",
+        "c:/program files (x86)/mysql/mysql server 5.5",
+        "c:/program files (x86)/mysql/mysql server 5.6",
+        "c:/program files (x86)/mysql/mysql server 5.7",
+        "c:/program files (x86)/mysql/mysql server 8.0",
+        "c:/program files (x86)/mysql/mysql server 8.4"
+      ],
+      "files": [
+        "my.ini",
+        "my.cnf"
+      ],
+      "reference": "https://dev.mysql.com/doc/refman/8.0/en/option-files.html"
+    },
+    {
+      "name": "postgresql",
+      "roots": [
+        "c:/postgresql/data",
+        "c:/program files/postgresql/9.6/data",
+        "c:/program files/postgresql/10/data",
+        "c:/program files/postgresql/11/data",
+        "c:/program files/postgresql/12/data",
+        "c:/program files/postgresql/13/data",
+        "c:/program files/postgresql/14/data",
+        "c:/program files/postgresql/15/data",
+        "c:/program files/postgresql/16/data",
+        "c:/program files/postgresql/17/data",
+        "c:/program files/postgresql/18/data"
+      ],
+      "files": [
+        "postgresql.conf",
+        "postgresql.auto.conf",
+        "pg_hba.conf",
+        "pg_ident.conf",
+        "pg_version",
+        "postmaster.opts"
+      ],
+      "reference": "https://www.postgresql.org/docs/current/runtime-config-file-locations.html"
+    },
+    {
+      "name": "mongodb",
+      "roots": [
+        "c:/mongodb",
+        "c:/mongodb/bin",
+        "c:/data",
+        "c:/program files/mongodb/server/4.4/bin",
+        "c:/program files/mongodb/server/5.0/bin",
+        "c:/program files/mongodb/server/6.0/bin",
+        "c:/program files/mongodb/server/7.0/bin",
+        "c:/program files/mongodb/server/8.0/bin"
+      ],
+      "files": [
+        "mongod.cfg",
+        "mongod.conf",
+        "log/mongod.log"
+      ]
+    },
+    {
+      "name": "redis",
+      "roots": [
+        "c:/redis",
+        "c:/program files/redis"
+      ],
+      "files": [
+        "redis.conf",
+        "redis.windows.conf",
+        "redis.windows-service.conf",
+        "sentinel.conf",
+        "dump.rdb"
+      ]
+    },
+    {
+      "name": "jenkins",
+      "roots": [
+        "c:/programdata/jenkins/.jenkins",
+        "c:/program files/jenkins",
+        "c:/program files (x86)/jenkins",
+        "c:/windows/system32/config/systemprofile/appdata/local/jenkins/.jenkins"
+      ],
+      "files": [
+        "config.xml",
+        "credentials.xml",
+        "jenkins.xml",
+        "jenkins.install.installutil.lastexecversion",
+        "hudson.tasks.mailer.xml",
+        "hudson.plugins.git.gittool.xml",
+        "jenkins.model.jenkinslocationconfiguration.xml",
+        "secrets/master.key",
+        "secrets/hudson.util.secret",
+        "nodes.xml",
+        "users/users.xml",
+        "jenkins.out",
+        "jenkins.err"
+      ],
+      "reference": "https://www.jenkins.io/doc/book/managing/system-configuration/"
+    },
+    {
+      "name": "openssh",
+      "roots": [
+        "c:/programdata/ssh"
+      ],
+      "files": [
+        "sshd_config",
+        "administrators_authorized_keys",
+        "ssh_host_rsa_key.pub",
+        "ssh_host_ecdsa_key.pub",
+        "ssh_host_ed25519_key.pub",
+        "logs/sshd.log"
+      ],
+      "reference": "https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh-server-configuration"
+    },
+    {
+      "name": "containers",
+      "roots": [
+        "c:/programdata/docker"
+      ],
+      "files": [
+        "config/daemon.json",
+        "config/key.json"
+      ],
+      "reference": "https://docs.docker.com/engine/daemon/"
+    },
+    {
+      "name": "profiles",
+      "roots": [
+        "{profile}"
+      ],
+      "files": [
+        "ntuser.dat",
+        "ntuser.ini",
+        ".gitconfig",
+        ".git-credentials",
+        ".npmrc",
+        ".pypirc",
+        "pip/pip.ini",
+        "appdata/roaming/pip/pip.ini",
+        ".condarc",
+        ".m2/settings.xml",
+        ".gradle/gradle.properties",
+        ".nuget/nuget/nuget.config",
+        "appdata/roaming/nuget/nuget.config",
+        ".aws/config",
+        ".aws/credentials",
+        ".azure/azureprofile.json",
+        ".azure/clouds.config",
+        ".azure/accesstokens.json",
+        ".azure/msal_token_cache.json",
+        "appdata/roaming/gcloud/configurations/config_default",
+        "appdata/roaming/gcloud/application_default_credentials.json",
+        ".kube/config",
+        ".docker/config.json",
+        ".ssh/config",
+        ".ssh/known_hosts",
+        ".ssh/authorized_keys",
+        ".ssh/id_rsa",
+        ".ssh/id_ed25519",
+        ".ssh/id_ecdsa",
+        ".ssh/id_dsa",
+        ".bash_history",
+        ".python_history",
+        ".mysql_history",
+        ".psql_history",
+        "appdata/roaming/postgresql/pgpass.conf",
+        "appdata/roaming/postgresql/pg_service.conf",
+        "appdata/roaming/microsoft/windows/powershell/psreadline/consolehost_history.txt",
+        "appdata/roaming/microsoft/powershell/psreadline/consolehost_history.txt",
+        "documents/windowspowershell/microsoft.powershell_profile.ps1",
+        "documents/powershell/microsoft.powershell_profile.ps1",
+        "documents/iisexpress/config/applicationhost.config",
+        "appdata/roaming/filezilla/sitemanager.xml",
+        "appdata/roaming/filezilla/recentservers.xml",
+        "appdata/roaming/filezilla/filezilla.xml",
+        "appdata/roaming/winscp.ini",
+        "appdata/local/google/chrome/user data/local state",
+        "appdata/local/google/chrome/user data/default/preferences",
+        "appdata/local/google/chrome/user data/default/history",
+        "appdata/local/google/chrome/user data/default/network/cookies",
+        "appdata/local/microsoft/edge/user data/local state",
+        "appdata/local/microsoft/edge/user data/default/preferences",
+        "appdata/local/microsoft/edge/user data/default/history",
+        "appdata/local/microsoft/edge/user data/default/network/cookies",
+        "appdata/roaming/mozilla/firefox/profiles.ini",
+        "appdata/roaming/mozilla/firefox/installs.ini",
+        ".jenkins/config.xml",
+        ".jenkins/credentials.xml",
+        ".vscode/settings.json",
+        "appdata/roaming/code/user/settings.json",
+        "appdata/roaming/code/user/tasks.json",
+        "appdata/roaming/code/user/keybindings.json",
+        "desktop/desktop.ini",
+        "documents/desktop.ini",
+        ".erlang.cookie",
+        ".vault-token",
+        ".terraformrc",
+        "appdata/roaming/terraform.rc",
+        "appdata/roaming/rabbitmq/rabbitmq.conf",
+        "appdata/roaming/rabbitmq/advanced.config",
+        "appdata/roaming/rabbitmq/enabled_plugins",
+        "appdata/roaming/subversion/servers",
+        "appdata/roaming/subversion/config",
+        "appdata/local/azure/.azure/azureprofile.json",
+        ".config/rclone/rclone.conf",
+        "appdata/roaming/rclone/rclone.conf",
+        "appdata/roaming/microsoft/windows/recent/automaticdestinations/1b4dd67f29cb1962.automaticdestinations-ms",
+        "appdata/roaming/dbeaverdata/workspace6/general/.dbeaver/data-sources.json",
+        "appdata/roaming/dbeaverdata/workspace6/general/.dbeaver/credentials-config.json",
+        "appdata/roaming/mremoteng/confcons.xml",
+        "appdata/roaming/keepass/keepass.config.xml",
+        "appdata/roaming/anydesk/service.conf",
+        "appdata/roaming/anydesk/system.conf",
+        "appdata/roaming/anydesk/user.conf",
+        "appdata/roaming/anydesk/ad.trace"
+      ]
+    },
+    {
+      "name": "monitoring",
+      "roots": [
+        "c:/program files/zabbix agent",
+        "c:/program files/zabbix agent 2",
+        "c:/zabbix"
+      ],
+      "files": [
+        "zabbix_agentd.conf",
+        "zabbix_agent2.conf",
+        "zabbix_agentd.log",
+        "zabbix_agent2.log"
+      ]
+    },
+    {
+      "name": "elastic",
+      "roots": [
+        "c:/elasticsearch",
+        "c:/programdata/elastic/elasticsearch"
+      ],
+      "files": [
+        "config/elasticsearch.yml",
+        "config/jvm.options",
+        "config/log4j2.properties",
+        "config/roles.yml",
+        "config/users",
+        "config/users_roles"
+      ]
+    },
+    {
+      "name": "filezilla",
+      "roots": [
+        "c:/program files/filezilla server",
+        "c:/program files (x86)/filezilla server",
+        "c:/programdata/filezilla server"
+      ],
+      "files": [
+        "filezilla server.xml",
+        "settings.xml",
+        "users.xml",
+        "groups.xml"
+      ]
+    },
+    {
+      "name": "mariadb",
+      "roots": [
+        "c:/mariadb",
+        "c:/program files/mariadb 10.3",
+        "c:/program files/mariadb 10.4",
+        "c:/program files/mariadb 10.5",
+        "c:/program files/mariadb 10.6",
+        "c:/program files/mariadb 10.11",
+        "c:/program files/mariadb 11.4",
+        "c:/program files/mariadb 11.8"
+      ],
+      "files": [
+        "my.ini",
+        "data/my.ini",
+        "my.cnf"
+      ]
+    },
+    {
+      "name": "sqlserver",
+      "roots": [
+        "c:/program files/microsoft sql server/mssql10.mssqlserver/mssql",
+        "c:/program files/microsoft sql server/mssql10_50.mssqlserver/mssql",
+        "c:/program files/microsoft sql server/mssql11.mssqlserver/mssql",
+        "c:/program files/microsoft sql server/mssql12.mssqlserver/mssql",
+        "c:/program files/microsoft sql server/mssql13.mssqlserver/mssql",
+        "c:/program files/microsoft sql server/mssql14.mssqlserver/mssql",
+        "c:/program files/microsoft sql server/mssql15.mssqlserver/mssql",
+        "c:/program files/microsoft sql server/mssql16.mssqlserver/mssql"
+      ],
+      "files": [
+        "log/errorlog",
+        "log/errorlog.1",
+        "data/master.mdf",
+        "data/mastlog.ldf",
+        "data/msdbdata.mdf",
+        "data/msdblog.ldf"
+      ]
+    },
+    {
+      "name": "rabbitmq",
+      "roots": [
+        "c:/windows/system32/config/systemprofile/appdata/roaming/rabbitmq",
+        "c:/programdata/rabbitmq"
+      ],
+      "files": [
+        "rabbitmq.conf",
+        "advanced.config",
+        "rabbitmq-env-conf.bat",
+        "enabled_plugins"
+      ]
+    },
+    {
+      "name": "ftp",
+      "roots": [
+        "c:/windows/system32/inetsrv"
+      ],
+      "files": [
+        "config/applicationhost.config",
+        "metabase.xml"
+      ]
+    },
+    {
+      "name": "mercurial-git",
+      "roots": [
+        "c:/programdata/git",
+        "c:/program files/git/etc"
+      ],
+      "files": [
+        "config",
+        "gitconfig"
+      ]
+    },
+    {
+      "name": "phpmyadmin",
+      "roots": [
+        "c:/xampp/phpmyadmin",
+        "c:/phpmyadmin",
+        "c:/inetpub/wwwroot/phpmyadmin",
+        "c:/wamp/apps/phpmyadmin",
+        "c:/wamp64/apps/phpmyadmin"
+      ],
+      "files": [
+        "config.inc.php",
+        "config.sample.inc.php"
+      ]
+    },
+    {
+      "name": "roundcube",
+      "roots": [
+        "c:/inetpub/wwwroot/roundcube",
+        "c:/xampp/htdocs/roundcube",
+        "c:/roundcube"
+      ],
+      "files": [
+        "config/config.inc.php",
+        "config/db.inc.php",
+        "config/main.inc.php",
+        "logs/errors.log",
+        "logs/errors"
+      ]
+    },
+    {
+      "name": "azure-appservice",
+      "roots": [
+        "c:/home"
+      ],
+      "files": [
+        "site/wwwroot/web.config",
+        "site/wwwroot/appsettings.json",
+        "site/wwwroot/.deployment",
+        "site/deployments/settings.xml",
+        "logfiles/eventlog.xml",
+        "logfiles/kudu/trace/trace.xml"
+      ]
+    },
+    {
+      "name": "unattended",
+      "roots": [
+        "c:/windows/panther",
+        "c:/windows/system32/sysprep",
+        "c:/windows/system32",
+        "c:/sysprep"
+      ],
+      "files": [
+        "unattend.xml",
+        "unattended.xml",
+        "sysprep.xml",
+        "sysprep.inf",
+        "autounattend.xml"
+      ]
+    },
+    {
+      "name": "ad",
+      "roots": [
+        "c:/windows/ntds"
+      ],
+      "files": [
+        "ntds.dit",
+        "edb.log",
+        "edb.chk",
+        "ntds.jfm"
+      ]
+    },
+    {
+      "name": "anydesk",
+      "roots": [
+        "c:/programdata/anydesk"
+      ],
+      "files": [
+        "service.conf",
+        "system.conf",
+        "ad_svc.trace"
+      ]
+    },
+    {
+      "name": "ultravnc",
+      "roots": [
+        "c:/program files/uvnc bvba/ultravnc",
+        "c:/program files (x86)/uvnc bvba/ultravnc",
+        "c:/program files/ultravnc"
+      ],
+      "files": [
+        "ultravnc.ini"
+      ]
+    },
+    {
+      "name": "teamviewer",
+      "roots": [
+        "c:/program files/teamviewer",
+        "c:/program files (x86)/teamviewer"
+      ],
+      "files": [
+        "teamviewer15_logfile.log",
+        "connections_incoming.txt"
+      ]
+    },
+    {
+      "name": "sqlserver-setup",
+      "roots": [
+        "c:/program files/microsoft sql server/100/setup bootstrap/log",
+        "c:/program files/microsoft sql server/110/setup bootstrap/log",
+        "c:/program files/microsoft sql server/120/setup bootstrap/log",
+        "c:/program files/microsoft sql server/130/setup bootstrap/log",
+        "c:/program files/microsoft sql server/140/setup bootstrap/log",
+        "c:/program files/microsoft sql server/150/setup bootstrap/log",
+        "c:/program files/microsoft sql server/160/setup bootstrap/log"
+      ],
+      "files": [
+        "summary.txt"
+      ]
+    },
+    {
+      "name": "maven",
+      "roots": [
+        "c:/program files/apache/maven",
+        "c:/apache-maven",
+        "c:/maven"
+      ],
+      "files": [
+        "conf/settings.xml"
+      ]
+    }
+  ]
+}
